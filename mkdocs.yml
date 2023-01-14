@@ -89,6 +89,7 @@ nav:
     - Identificação De Partes: Analise/IdentificaçãoDePartes.md
     - Verificação:
       - Introdução: Analise/Verificacao/index.md
+      - Casos de Uso: Analise/Verificacao/verificacaoCasosdeUso.md
     - Validação: 
       - Introdução: Analise/Validacao/index.md
     - Linkedin:
