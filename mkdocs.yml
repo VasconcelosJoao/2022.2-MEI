@@ -90,8 +90,10 @@ nav:
     - Verificação:
       - Introdução: Analise/Verificacao/index.md
       - Casos de Uso: Analise/Verificacao/verificacaoCasosdeUso.md
+      - Termo de Consentimento: Analise/Verificacao/verificacaoTermoConsentimento.md
     - Validação: 
       - Introdução: Analise/Validacao/index.md
+      - Protótipo: Analise/Validacao/protAlta.md
     - Linkedin:
       - Verificação:
         - Introdução: Analise/Linkedin/Verificacao/index.md
