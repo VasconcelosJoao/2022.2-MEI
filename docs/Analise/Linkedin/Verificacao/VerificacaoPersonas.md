@@ -29,8 +29,21 @@ As questões utilizadas para a checklist estão logo abaixo:
 |8|Possui a especificação de quantas personas o projeto possui?||
 |9|Possui o motivo dessa quantidade de personas?||
 
-Tabela 1 - Preparação das questões para inspeção  
+Tabela 1 - Preparação das questões gerais para inspeção  
 </center>
+
+|ID|Questão|P1|P2|P3|P4|
+| :-: | :----------: | :------: | :------: |:------: |:------: |
+|1|A persona possui Identidade?|||||
+|2|A persona Possui Status?|||||
+|3|A persona possui Objetivo(s)?|||||
+|4|A persona Possui Habilidade(s)?|||||
+|5|A persona possui Tarefa(s)|||||
+|6|A persona possui Relacionamentos?|||||
+|7|A persona possui Requisitos?|||||
+|8|A persona possui Expectativas?|||||
+
+Tabela 2 - Preparação das questões de atributos de persona para inspeção 
 
 ## <a>Inspeção/Verificação</a>
 Checklist geral e especifico de inspeção do documento de [Personas](https://requisitos-de-software.github.io/2022.2-LinkedIn/elicitacao/personas/) do grupo 4(LinkeDin):
@@ -57,7 +70,7 @@ Persona 4(P4) = Gabriel Jardim(antipersona)<br>
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 2: Checklist da inspeção das personas no geral </b>
+    <b>Tabela 3: Checklist da inspeção das personas no geral </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
@@ -77,7 +90,7 @@ Persona 4(P4) = Gabriel Jardim(antipersona)<br>
 </center>
 
 <figcaption align='center'>
-    <b>Tabela 3: Checklist da inspeção de cada persona </b>
+    <b>Tabela 4: Checklist da inspeção de cada persona </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
