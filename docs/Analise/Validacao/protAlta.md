@@ -14,15 +14,14 @@ No caso desse projeto, o objetivo de criar esse protótipo é simples: reformula
 
 É possível visualizar alguns pontos não atendidos pelo aplicativo atual a partir da visualização do [NFR Framework](../../Modelagem/NFRFramework.md). Algumas figuras apresentam diversos X, ou seja, há diversos softgoals e operacionalizações negados pela aplicação atual.
 
-No protótipo apresentado a seguir, é possível realizar a emissão do DAS. Além disso, uma nova forma de login é sugerida, sendo possível logar tanto pelo código de acesso quanto pelo gov.br.
+No protótipo apresentado a seguir, é possível acessar 4 das funções existentes hoje. Além disso, uma nova forma de login é sugerida, sendo possível logar tanto pelo código de acesso quanto pelo gov.br.
 
 ## <a>Protótipo</a>
 É possível acessar o protótipo clicando [aqui](https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9) ou assistir a um vídeo que apresenta o protótipo elaborado.
 
-
 COLOCAR VÍDEO AQUI
 
-Como apresentado, a emissão do DAS pode ser acessada por um menu semelhante ao que existe no aplicativo atual, porém mais colorido e intuitivo. Com essa mudança no menu, é possível satisfazer o softgoal Acessibilidade que, por consequência, irá satisfazer o softgoal Usabilidade. Além disso, a nova forma de login pela plataforma gov.br e a reformulação do login pelo código de acesso promovem maior segurança ao sistema e ao usuário, atendendo ao softgoal de segurança que, por consequência, melhora a confiabilidade do aplicativo.
+Como apresentado, o menu é semelhante ao que existe no aplicativo atual, porém mais colorido, minimalista e agradável. Com essa mudança no menu, é possível satisfazer o softgoal Acessibilidade que, por consequência, irá satisfazer o softgoal Usabilidade. Além disso, a nova forma de login pela plataforma gov.br e a reformulação do login pelo código de acesso promovem maior segurança ao sistema e ao usuário, atendendo ao softgoal de segurança que, por consequência, melhora a confiabilidade do aplicativo.
 
 ## <a>Resultados</a>
 O protótipo elaborado foi validado por um usuário real do MEI. Abaixo, é possível assistir à entrevista realizada, onde o avaliador explica as atividades a serem realizadas, em seguida aplica um questionário e, ao fim, recebe feedbacks gerais sobre o protótipo. Durante a entrevista, o entrevistado foi orientado a falar seus pensamentos em voz alta, a fim de prover mais detalhes sobre o que um usuário real acha das mudanças no sistema.
