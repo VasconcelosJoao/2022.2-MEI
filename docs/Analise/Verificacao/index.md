@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|07/01/2023|08/01/2023|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [-](https://github.com/) |
+|07/01/2023|08/01/2023|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 
 
 ## <a>Introdução</a>
@@ -30,11 +30,17 @@ O principal objetivo da verificação é garantir que o modelo de requisitos est
 <center>
 
 • <a>**Planejamento**</a>
+  
 • <a>**Visão Geral**</a>
+  
 • <a>**Preparação**</a>
+  
 • <a>**Inspeção**</a>
+  
 • <a>**Correção**</a>
+  
 • <a>**Acompanhamento**</a>
+  
 <br>
 </center>
 
