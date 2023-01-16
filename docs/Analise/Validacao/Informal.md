@@ -3,7 +3,7 @@
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
 | 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
-| 16/01/2023 | 16/01/2023 | 1.1 | Ajustes gerais | [Ana Luiza](https://github.com/AnHoff) | - |
+| 16/01/2023 |        16/01/2023        |  1.1   |    Ajustes gerais    |     [Ana Luiza](https://github.com/AnHoff)     | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 Esse documento tem o propósito de apresentar a validação informal e como ela foi utilizada na validação do trabalho realizado por nossa equipe, que escolheu trabalhar com o aplicativo MEI.

@@ -94,6 +94,8 @@ nav:
         - Rich Picture: Analise/Verificacao/Planejamento/VerificacaoRichPicture.md
         - Aplicativo Analisado: Analise/Verificacao/Planejamento/verificacaoAplicativoEscolhido.md
         - Termo de Consentimento: Analise/Verificacao/Planejamento/verificacaoTermoConsentimento.md
+      - Elicitação: 
+        - Personas: Analise/Verificacao/Elicitacao/VerificacaoPersonas.md
       - Modelagem:
         - Cenários: Analise/Verificacao/Modelagem/VerificaçãoCenarios.md
         - Léxicos: Analise/Verificacao/Modelagem/VerificacaoLexicos.md
