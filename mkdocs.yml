@@ -100,6 +100,7 @@ nav:
         - Cenários: Analise/Verificacao/Modelagem/VerificaçãoCenarios.md
         - Léxicos: Analise/Verificacao/Modelagem/VerificacaoLexicos.md
         - Casos de Uso: Analise/Verificacao/Modelagem/verificacaoCasosdeUso.md
+        - Especificação Suplementar: Analise/Verificacao/Modelagem/VerificacaoEspecifacao.md
         - NFR Framework: Analise/Verificacao/Modelagem/verificacaoNFRFramework.md
         - Backlog: Analise/Verificacao/Modelagem/verificacaoBacklog.md
     - Validação: 
