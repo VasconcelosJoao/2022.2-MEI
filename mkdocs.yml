@@ -55,11 +55,11 @@ nav:
   - Apresentações/Reuniões:
     - Introdução: Reunioes/index.md
     - Apresentações:
-      - 1º Ponto de Controle: Reunioes/Apresentacoes/PrimeiraEntrega.md
-      - 2º Ponto de Controle: Reunioes/Apresentacoes/SegundaEntrega.md
-      - 3º Ponto de Controle: Reunioes/Apresentacoes/TerceiraEntrega.md
-      - 4º Ponto de Controle: Reunioes/Apresentacoes/QuartaEntrega.md
-      - 5º Ponto de Controle: Reunioes/Apresentacoes/QuintaEntrega.md
+      - 1º Ponto de Controle: Reunioes/Apresentacoes/Entrega1.md
+      - 2º Ponto de Controle: Reunioes/Apresentacoes/Entrega2.md
+      - 3º Ponto de Controle: Reunioes/Apresentacoes/Entrega3.md
+      - 4º Ponto de Controle: Reunioes/Apresentacoes/Entrega4.md
+      - 5º Ponto de Controle: Reunioes/Apresentacoes/Entrega5.md
     - Reuniões:
       - 1ª Reunião: Reunioes/Atas/Reuniao1.md
       - 2ª Reunião: Reunioes/Atas/Reuniao2.md
@@ -67,6 +67,7 @@ nav:
       - 4ª Reunião: Reunioes/Atas/Reuniao4.md
       - 5ª Reunião: Reunioes/Atas/Reuniao5.md
       - 6ª Reunião: Reunioes/Atas/Reuniao6.md
+      - 7ª Reunião: Reunioes/Atas/Reuniao7.md
   - Elicitação: 
     - Técnicas de Elicitação: Elicitacao/index.md
     - Brainstorming: Elicitacao/Brainstorming.md
@@ -89,11 +90,19 @@ nav:
     - Identificação De Partes: Analise/IdentificaçãoDePartes.md
     - Verificação:
       - Introdução: Analise/Verificacao/index.md
-      - Casos de Uso: Analise/Verificacao/verificacaoCasosdeUso.md
-      - Termo de Consentimento: Analise/Verificacao/verificacaoTermoConsentimento.md
+      - Planejamento:
+        - AplicativoEscolhido: Analise/Verificacao/Planejamento/verificacaoAplicativoEscolhido.md
+        - Termo de Consentimento: Analise/Verificacao/Planejamento/verificacaoTermoConsentimento.md
+      - Modelagem:
+        - Cenários: Analise/Verificacao/Modelagem/VerificaçãoCenarios.md
+        - Léxicos: Analise/Verificacao/Modelagem/VerificacaoLexicos.md
+        - Casos de Uso: Analise/Verificacao/Modelagem/verificacaoCasosdeUso.md
+        - NFR Framework: Analise/Verificacao/Modelagem/verificacaoNFRFramework.md
+        - Backlog: Analise/Verificacao/Modelagem/verificacaoBacklog.md
     - Validação: 
       - Introdução: Analise/Validacao/index.md
-      - Protótipo: Analise/Validacao/protAlta.md
+      - Validação Informal: Analise/Validacao/Informal.md
+      - Prototipagem: Analise/Validacao/protAlta.md
     - Linkedin:
       - Verificação:
         - Introdução: Analise/Linkedin/Verificacao/index.md

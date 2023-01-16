@@ -1,8 +1,8 @@
 # Validação Informal
 ## <a>Histórico de Versões</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|15/01/2023|16/01/2023|1.0|Criação do documento| [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
+| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 Esse documento tem o propósito de apresentar a validação informal e como foi utilizada na validação do trabalho realizado pelo nosso grupo (grupo 3), cujo App escolhido foi o MEI(MicroEmpreendedorIndividual).
@@ -42,8 +42,11 @@ Também foi falado de uma atualização que está por vir, no caso sendo a auten
 para melhorar a utilização e eficiência do aplicativo atual.
 
 ## <a>Bibliografia</a>
-[1]Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acesso em: 09 de janeiro de 2023.<br><br> 
-[2]Slides da aula “Requisitos – Aula 20” dos professores Milene Serrano e Maurício Serrano, Acesso em: 09 de janeiro de 2023<br><br> 
-[3]Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 09 de janeiro de 2023<br>
+[1] Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acesso em: 09 de janeiro de 2023.<br>
+
+[2] Slides da aula “Requisitos – Aula 20” dos professores Milene Serrano e Maurício Serrano, Acesso em: 09 de janeiro de 2023<br>
+
+[3] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 09 de janeiro de 2023<br>
+
 [4] Projeto do github, de requisitos de software do semestre 2022.2 referente ao Lichess - Validação - Comunicação informal, diponivel 
 [Aqui](https://requisitos-de-software.github.io/2022.2-Lichess/analise-grupo3/validacao/comunicacao/) acessado em 15 de janeiro de 2023.

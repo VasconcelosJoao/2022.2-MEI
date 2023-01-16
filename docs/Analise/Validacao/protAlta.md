@@ -1,8 +1,8 @@
-# Protótipo
+# Prototipagem
 ## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|14/01/2023|15/01/2023|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | - |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
+| 14/01/2023 |        15/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 Um protótipo é a representação limitada do design que permite aos stakeholders interagir com o produto a fim de adquirir experiências sobre como utilizá-lo. [1]
@@ -17,6 +17,10 @@ No caso desse projeto, o objetivo de criar esse protótipo é simples: reformula
 No protótipo apresentado a seguir, é possível acessar 4 das funções existentes hoje. Além disso, uma nova forma de login é sugerida, sendo possível logar tanto pelo código de acesso quanto pelo gov.br.
 
 ## <a>Protótipo</a>
+A seguir é possivel visualizar todo o protótipo de alta fidelidade e seu funcionamento
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYVsTmRLQiocQb1d258RRZE%2FMEI%3Fnode-id%3D1%253A11%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A9" allowfullscreen></iframe>
+
 É possível acessar o protótipo clicando [aqui](https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9) ou assistir a um vídeo que apresenta o protótipo elaborado.
 
 COLOCAR VÍDEO AQUI

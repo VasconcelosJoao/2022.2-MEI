@@ -5,7 +5,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |[Ana Luiza](https://github.com/AnHoff)|
-|04/12/2022|05/12/2022|1.1|Adição de links e detalhamento do texto| [Joao Lucas](https://github.com/HacKairo) |[Pedro Lucas](https://github.com/PedroLSF)|
+|04/12/2022|05/12/2022|1.1|Adição de links e detalhamento do texto| [joão Lucas](https://github.com/HacKairo) |[Pedro Lucas](https://github.com/PedroLSF)|
 
 ## <a>Introdução</a>
 Caso deseje entender mais sobre a técnica utilizada nesse documento clique [*aqui*](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/)

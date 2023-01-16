@@ -2,9 +2,9 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|12/01/2023|13/01/2023|1.0|Criação da ata de reunião 08/01/2023| [Arthur Taylor](https://github.com/Eruel6)| - |
+|    Data    | Data Prevista de Revisão | Versão |              Descrição               |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :----------------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 12/01/2023 |        13/01/2023        |  1.0   | Criação da ata de reunião 08/01/2023 | [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
 
 
 
@@ -37,14 +37,14 @@ Depois de discussões em grupo, decidiu-se distribuir a confecção de artefatos
 <center>
 A seguir os artefatos e seus respectivos responsáveis, esta entrega consiste na verificação de artefatos, os artefatos verificados pelos membros dos grupos estão discriminados na tabela 1:
 
-| Artefato | Responsável |
-| :-: | :-: |
-| Épicos, Backlog e Rich Picture | Arthur |
-| Atas, Apresentações e Técnicas de priorizações | Ana |
-| Cenários, Léxicos e Planejamento do projeto | Pedro |
-| Personas, Casos de uso e Histórias de Usuário | Thiago | 
-| Planejamento de verificação/validação e NFR framework | João |
-| Técnicas de elicitação e especificação suplementar | Eduardo |
+|                       Artefato                        | Responsável |
+| :---------------------------------------------------: | :---------: |
+|            Épicos, Backlog e Rich Picture             |   Arthur    |
+|    Atas, Apresentações e Técnicas de priorizações     |     Ana     |
+|      Cenários, Léxicos e Planejamento do projeto      |    Pedro    |
+|     Personas, Casos de uso e Histórias de Usuário     |   Thiago    |
+| Planejamento de verificação/validação e NFR framework |    João     |
+|  Técnicas de elicitação e especificação suplementar   |   Eduardo   |
 
 *Tabela 1 - Artefatos/Responsaveis*
 </center>

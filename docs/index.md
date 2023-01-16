@@ -26,6 +26,6 @@ Apresentação da equipe na Tabela 1 :
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|20/11/2022|20/11/2022|1.0|Criação da pagina Home| [Joao Lucas](https://github.com/HacKairos)|[Thiago Olivera](https://github.com/Thiab394)|
+|20/11/2022|20/11/2022|1.0|Criação da pagina Home| [joão Lucas](https://github.com/HacKairos)|[Thiago Olivera](https://github.com/Thiab394)|
 
 </center>
