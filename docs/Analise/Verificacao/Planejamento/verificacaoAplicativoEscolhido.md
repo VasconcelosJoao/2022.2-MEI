@@ -1,11 +1,11 @@
-# Verificação dos Aplicativos Analisados
+# Verificação do Aplicativo Escolhido
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
 | 14/01/2023 |        15/01/2023        |  1.0   | Criação do documento | [Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/Hackairos) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Aplicativo Escolhido](../../../Planejamento/MEI.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [Aplicativo Escolhido](../../Planejamento/AplicativosAnalisados.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 A técnica de inspeção será utilizada para realizar esse processo. [1]
 
@@ -28,11 +28,8 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |          |
 |   2   |                             Possui bibliografia correta?                              |          |
 |   3   |                          Há uma introdução para o artefato?                           |          |
-|   4   |                       Possui aplicativos que foram analisados?                        |          |
-|   5   |                    Cada aplicativo analisado possui Rich Picture?                     |          |
-|   6   |                            Há legenda em todas as figuras?                            |          |
-|   7   |                         Figuras são chamadas dentro do texto?                         |          |
-|   8   |                         Possui um único aplicativo escolhido?                         |          |
+|   4   |                       Possui motivos para a escolha do aplicativo?                    |          |
+
   
 *Tabela 1 - Checklist planejado*
 
@@ -44,16 +41,12 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-|  ID   |                                        Questão                                        | Inspeção |
-| :---: | :-----------------------------------------------------------------------------------: | :------: |
+|  ID   |                                        Questão                                        | Inspeção  |
+| :---: | :-----------------------------------------------------------------------------------: | :-------: |
 |   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |    🟢     |
 |   2   |                             Possui bibliografia correta?                              |    🟢     |
 |   3   |                          Há uma introdução para o artefato?                           |    🟢     |
-|   4   |                       Possui aplicativos que foram analisados?                        |    🟢     |
-|   5   |                    Cada aplicativo analisado possui Rich Picture?                     |    🟢     |
-|   6   |                            Há legenda em todas as figuras?                            |    🟢     |
-|   7   |                         Figuras são chamadas dentro do texto?                         |    🟢     |
-|   8   |                         Possui um único aplicativo escolhido?                         |    🟢     |
+
 
 *Tabela 2 - Checklist efetivado*
 
@@ -69,7 +62,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Por meio do checklist realizado podemos observar que:
   
-  * 10/10 exigências são atendidas;
+  * 03/03 exigências são atendidas;
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
   
