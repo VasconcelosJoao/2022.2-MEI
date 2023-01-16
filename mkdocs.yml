@@ -92,12 +92,12 @@ nav:
       - Introdução: Analise/Verificacao/index.md
       - Planejamento:
         - Rich Picture: Analise/Verificacao/Planejamento/VerificacaoRichPicture.md
-        - Aplicativo Analisado: Analise/Verificacao/Planejamento/verificacaoAplicativoEscolhido.md
+        - Aplicativos Analisados: Analise/Verificacao/Planejamento/verificacaoAplicativosAnalisados.md
         - Termo de Consentimento: Analise/Verificacao/Planejamento/verificacaoTermoConsentimento.md
       - Elicitação: 
         - Personas: Analise/Verificacao/Elicitacao/VerificacaoPersonas.md
       - Modelagem:
-        - Cenários: Analise/Verificacao/Modelagem/VerificaçãoCenarios.md
+        - Cenários: Analise/Verificacao/Modelagem/VerificacaoCenarios.md
         - Léxicos: Analise/Verificacao/Modelagem/VerificacaoLexicos.md
         - Casos de Uso: Analise/Verificacao/Modelagem/verificacaoCasosdeUso.md
         - Especificação Suplementar: Analise/Verificacao/Modelagem/VerificacaoEspecifacao.md
