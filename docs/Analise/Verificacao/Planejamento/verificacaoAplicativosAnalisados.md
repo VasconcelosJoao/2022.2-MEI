@@ -1,4 +1,4 @@
-# Verificação do Aplicativo Escolhido
+# Verificação dos Aplicativos Analisados
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
@@ -28,13 +28,11 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |          |
 |   2   |                             Possui bibliografia correta?                              |          |
 |   3   |                          Há uma introdução para o artefato?                           |          |
-|   4   |             Vídeo de apresentação na categoria “não listado” no youtube?              |          |
-|   5   | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |          |
-|   6   |                       Possui aplicativos que foram analisados?                        |          |
-|   7   |                    Cada aplicativo analisado possui Rich Picture?                     |          |
-|   8   |                            Há legenda em todas as figuras?                            |          |
-|   9   |                         Figuras são chamadas dentro do texto?                         |          |
-|  10   |                         Possui um único aplicativo escolhido?                         |          |
+|   4   |                       Possui aplicativos que foram analisados?                        |          |
+|   5   |                    Cada aplicativo analisado possui Rich Picture?                     |          |
+|   6   |                            Há legenda em todas as figuras?                            |          |
+|   7   |                         Figuras são chamadas dentro do texto?                         |          |
+|   8   |                         Possui um único aplicativo escolhido?                         |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -51,14 +49,12 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |    🟢     |
 |   2   |                             Possui bibliografia correta?                              |    🟢     |
 |   3   |                          Há uma introdução para o artefato?                           |    🟢     |
-|   4   |             Vídeo de apresentação na categoria “não listado” no youtube?              |    🟢     |
-|   5   | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? |    🟢     |
-|   6   |                       Possui aplicativos que foram analisados?                        |    🟢     |
-|   7   |                    Cada aplicativo analisado possui Rich Picture?                     |    🟢     |
-|   8   |                            Há legenda em todas as figuras?                            |    🟢     |
-|   9   |                         Figuras são chamadas dentro do texto?                         |    🟢     |
-|  10   |                         Possui um único aplicativo escolhido?                         |    🟢     |
-  
+|   4   |                       Possui aplicativos que foram analisados?                        |    🟢     |
+|   5   |                    Cada aplicativo analisado possui Rich Picture?                     |    🟢     |
+|   6   |                            Há legenda em todas as figuras?                            |    🟢     |
+|   7   |                         Figuras são chamadas dentro do texto?                         |    🟢     |
+|   8   |                         Possui um único aplicativo escolhido?                         |    🟢     |
+
 *Tabela 2 - Checklist efetivado*
 
 </center>
