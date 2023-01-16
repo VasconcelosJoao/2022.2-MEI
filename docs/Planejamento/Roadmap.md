@@ -190,10 +190,22 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
-| Verificação LinkedIn - técnicas de priorização| Ana | 09/01/2023 | 09/01/2023 |
-| Validação LinkedIn - validação informal| Ana | 09/01/2023 | 09/01/2023 |
+| Verificação LinkedIn - técnicas de priorização| Ana | 09/01/2023 | 09/01/2023 | Thiago
+| Validação LinkedIn - validação informal| Ana | 09/01/2023 | 09/01/2023 | Thiago
 
 *Tabela 11 - Tarefas executadas para a entrega 5*<br><br>
+
+**Entrega 6**
+
+| Tarefa | Responsáveis | Entrega | Revisão | Revisor |
+| --- | --- | --- | --- | --- |
+| Verificação - Termo de Consentimento | Ana | 14/01/2023 | 15/01/2023 | João
+| Verificação - Casos de Uso | Ana | 14/01/2023 | 15/01/2023 | João
+| Validação - Prototipagem | Ana | 14/01/2023 | 15/01/2023 | João
+| Validação Informal | Thiago | 14/01/2023 | 15/01/2023 | João, Ana
+| Elaboração do Protótipo | Arthur, João, Thiago | 14/01/2023 | 15/01/2023 | Ana, Pedro
+
+*Tabela 12 - Tarefas executadas para a entrega 6*<br><br>
 
 </center>
 
