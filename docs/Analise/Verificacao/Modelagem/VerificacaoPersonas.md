@@ -85,4 +85,5 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 ## <a>Bibliografia</a>
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 16 de janeiro de 2023
+
 [2] [Projeto Grasshopper 2022.2](https://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/analise-de-requisitos/verificacao/personas-verificacao.md). Acesso em: 16 de janeiro de 2023
