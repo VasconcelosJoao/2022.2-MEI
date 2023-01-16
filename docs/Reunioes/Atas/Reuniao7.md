@@ -26,7 +26,9 @@ Definir tarefas dos membros do grupo para serem realizadas para a próxima entre
 
 ## <a>Gravação</a>
 
-
+<center>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/uRLzCmLpQoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## <a>Definições</a>
 
