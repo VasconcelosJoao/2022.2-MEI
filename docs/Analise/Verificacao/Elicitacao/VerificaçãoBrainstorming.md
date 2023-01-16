@@ -52,3 +52,6 @@ Por meio do checklist realizado podemos observar que:
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 50%.
 
+## Bibliografia
+
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 09 de janeiro de 2023
