@@ -17,18 +17,22 @@ No caso desse projeto, o objetivo de criar esse protótipo é simples: reformula
 No protótipo apresentado a seguir, é possível acessar 4 das funções existentes hoje. Além disso, uma nova forma de login é sugerida, sendo possível logar tanto pelo código de acesso quanto pelo gov.br.
 
 ## <a>Protótipo</a>
-A seguir é possivel visualizar todo o protótipo de alta fidelidade e seu funcionamento
+A seguir, é possivel visualizar todo o protótipo de alta fidelidade e seu funcionamento.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYVsTmRLQiocQb1d258RRZE%2FMEI%3Fnode-id%3D1%253A11%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A9" allowfullscreen></iframe>
+<center>
 
-É possível acessar o protótipo clicando [aqui](https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9) ou assistir a um vídeo que apresenta o protótipo elaborado.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="auto" height="550" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYVsTmRLQiocQb1d258RRZE%2FMEI%3Fnode-id%3D1%253A11%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A9" allowfullscreen></iframe>
+
+</center>
+
+Também é possível acessar o protótipo clicando [aqui](https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9) ou assistir a um vídeo que o apresenta.
 
 COLOCAR VÍDEO AQUI
 
-Como apresentado, o menu é semelhante ao que existe no aplicativo atual, porém mais colorido, minimalista e agradável. Com essa mudança no menu, é possível satisfazer o softgoal Acessibilidade que, por consequência, irá satisfazer o softgoal Usabilidade. Além disso, a nova forma de login pela plataforma gov.br e a reformulação do login pelo código de acesso promovem maior segurança ao sistema e ao usuário, atendendo ao softgoal de segurança que, por consequência, melhora a confiabilidade do aplicativo.
+Como apresentado, o menu é semelhante ao que existe no aplicativo atual, porém mais colorido, minimalista e agradável. Com essa mudança no menu, é possível satisfazer o softgoal Acessibilidade que, por consequência, irá satisfazer o softgoal Usabilidade. Além disso, a nova forma de login pela plataforma gov.br e a reformulação do login pelo código de acesso promovem maior segurança ao sistema e ao usuário, atendendo ao softgoal Segurança que, por consequência, melhora a Confiabilidade do aplicativo.
 
 ## <a>Resultados</a>
-O protótipo elaborado foi validado por um usuário real do MEI. Abaixo, é possível assistir à entrevista realizada, onde o avaliador explica as atividades a serem realizadas, em seguida aplica um questionário e, ao fim, recebe feedbacks gerais sobre o protótipo. Durante a entrevista, o entrevistado foi orientado a falar seus pensamentos em voz alta, a fim de prover mais detalhes sobre o que um usuário real acha das mudanças no sistema.
+O protótipo elaborado foi validado por um usuário do MEI. Abaixo, é possível assistir à entrevista realizada, onde o avaliador explica as atividades a serem realizadas, em seguida aplica um questionário e, ao fim, recebe feedbacks gerais sobre o protótipo. Durante a entrevista, o entrevistado foi orientado a falar seus pensamentos em voz alta, a fim de prover mais detalhes sobre o que um usuário real acha das mudanças no sistema.
 
 ## <a>Bibliografia</a>
 

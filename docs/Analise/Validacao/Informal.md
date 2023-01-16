@@ -43,4 +43,4 @@ Também foi falado de uma atualização que está por vir. A autenticação com 
 
 [3] Slides da aula “Requisitos – Aula 20” dos professores Milene Serrano e Maurício Serrano, Acesso em: 09 de janeiro de 2023.
 
-[4] Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acesso em: 09 de janeiro de 2023.
+[4] Projeto Noruh do github de requisitos de software - Planejamento da Verificação. Disponível em https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/. Acesso em: 09 de janeiro de 2023.
