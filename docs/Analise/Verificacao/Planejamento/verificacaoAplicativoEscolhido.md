@@ -46,6 +46,8 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |    🟢     |
 |   2   |                             Possui bibliografia correta?                              |    🟢     |
 |   3   |                          Há uma introdução para o artefato?                           |    🟢     |
+|   4   |                       Possui motivos para a escolha do aplicativo?                    |    🟢     |
+
 
 
 *Tabela 2 - Checklist efetivado*
@@ -62,7 +64,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Por meio do checklist realizado podemos observar que:
   
-  * 03/03 exigências são atendidas;
+  * 04/04 exigências são atendidas;
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
   
