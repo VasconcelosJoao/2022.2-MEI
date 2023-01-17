@@ -1,10 +1,10 @@
 # Verificação
 
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------------------------: |
-| 07/01/2023 |        08/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
-| 07/01/2023 |        16/01/2023        |  1.1   | Adição sobre o Planejamento | [Pedro Lucas](https://github.com/PedroLSF) |  |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição          |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :-------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 07/01/2023 |        08/01/2023        |  1.0   |    Criação do documento     | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+| 07/01/2023 |        16/01/2023        |  1.1   | Adição sobre o Planejamento | [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos) |
 
 
 ## <a>Introdução</a>
@@ -70,16 +70,16 @@ Sabendo dessa análise, vamos utilizar uma tabela seguindo o exemplo abaixo:
 
 <center>
 
-|ID|Questão|Inspeção|
-| :-: | :----------: | :------: |
-|1|Pergunta 1|🔴|
-|2|Pergunta 2|🟡|
-|3|Pergunta 3|🟢|
-|4|Pergunta 4|🔴|
-|5|Pergunta 5|🟢|
-|6|Pergunta 6|🔴|
-|7|Pergunta 7|🟢|
-|8|Pergunta 8|🟢|
+|  ID   |  Questão   | Inspeção |
+| :---: | :--------: | :------: |
+|   1   | Pergunta 1 |    🔴     |
+|   2   | Pergunta 2 |    🟡     |
+|   3   | Pergunta 3 |    🟢     |
+|   4   | Pergunta 4 |    🔴     |
+|   5   | Pergunta 5 |    🟢     |
+|   6   | Pergunta 6 |    🔴     |
+|   7   | Pergunta 7 |    🟢     |
+|   8   | Pergunta 8 |    🟢     |
 
 
 *Tabela 1 - Preparação das questões para inspeção*
