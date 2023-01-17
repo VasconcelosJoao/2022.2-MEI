@@ -109,7 +109,7 @@ Vale destacar que há um quarto quadrante na tabela formada por essa técnica: r
 Abaixo o audio da pesquisa realizada com a persona [João Silva](../personas/#joao-silva)
 
 <audio controls>
-  <source src="../../../assets/outros/AudioTLS.mp3" type="audio/mpeg">
+  <source src="../../assets/outros/AudioTLS.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
