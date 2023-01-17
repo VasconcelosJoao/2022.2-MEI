@@ -43,6 +43,7 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 Já a verificação de cada História de Usuário (US), separadamente, se dará pelo checklist apresentado na tabela 2 abaixo:
 
 <center>
+  
 |  ID   |                                     Questão                                     | Inspeção |
 | :---: | :-----------------------------------------------------------------------------: | :------: |
 |   1   |                 Possui descrição clara e de fácil entendimento?                 |          |
