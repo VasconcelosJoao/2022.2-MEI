@@ -24,13 +24,18 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 <center>
 
   
-|  ID   |                              Questão                               | Inspeção |
-| :---: | :----------------------------------------------------------------: | :------: |
-|   1   | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário? |          |
-|   2   |      Os dados levantados fazem sentido no escopo do projeto?       |          |
-|   3   |                      O perfil é apresentado?                       |          |
-|   4   |            Há explicitado a fonte dos dados do perfil?             |          |
-|   5   |  É informado com base em quantas respostas o perfil foi traçado?   |          |
+|  ID   |                              Questão                                                        | Inspeção |
+| :---: | :-----------------------------------------------------------------------------------------: | :------: |
+|   1   | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário?                          |          |
+|   2   |      Os dados levantados fazem sentido no escopo do projeto?                                |          |
+|   3   |      O perfil do usuário apresenta dados demográficos?                                      |          |
+|   4   |      O perfil do usuário apresenta experiência no assunto?                                  |          |
+|   5   |      O perfil do usuário apresenta afinidade com tecnologias?                               |          |          
+|   6   |      O perfil do usuário apresenta as tarefas primárias que procura realizar como usuário   |          |
+|   7   |                      O perfil é apresentado?                                                |          |
+|   8   |            Há explicitado a fonte dos dados do perfil?                                      |          |
+|   9   |  É informado com base em quantas respostas o perfil foi traçado?                            |          |
+ 
 
   
 *Tabela 1 - Checklist planejado*
@@ -42,15 +47,19 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 Na tabela 2, há o checklist efetivado do artefato na versão 1.1:
 
 <center>
-
-|  ID   |                              Questão                               | Inspeção |
-| :---: | :----------------------------------------------------------------: | :------: |
-|   1   | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário? |    🟢     |
-|   2   |      Os dados levantados fazem sentido no escopo do projeto?       |    🟢     |
-|   3   |                      O perfil é apresentado?                       |    🟢     |
-|   4   |            Há explicitado a fonte dos dados do perfil?             |    🔴     |
-|   5   |  É informado com base em quantas respostas o perfil foi traçado?   |    🔴     |
   
+|  ID   |                              Questão                                                        | Inspeção |
+| :---: | :-----------------------------------------------------------------------------------------: | :------: |
+|   1   | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário?                          |     🟢     |
+|   2   |      Os dados levantados fazem sentido no escopo do projeto?                                |     🟢     |
+|   3   |      O perfil do usuário apresenta dados demográficos?                                      |     🟢     |
+|   4   |      O perfil do usuário apresenta experiência no assunto?                                  |     🟢     |
+|   5   |      O perfil do usuário apresenta afinidade com tecnologias?                               |     🟢     |          
+|   6   |      O perfil do usuário apresenta as tarefas primárias que procura realizar como usuário   |     🟢     |
+|   7   |                      O perfil é apresentado?                                                |     🟢     |
+|   8   |            Há explicitado a fonte dos dados do perfil?                                      |     🔴     |
+|   9   |  É informado com base em quantas respostas o perfil foi traçado?                            |     🔴     |
+
 *Tabela 2 - Checklist efetivado*
 
 </center>
@@ -65,10 +74,10 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.1:
 
 Por meio do checklist realizado podemos observar que:
   
-  * 03/05 exigências são atendidas;
-  * 02/05 não são atendidas
+  * 07/09 exigências são atendidas;
+  * 02/09 não são atendidas
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 60%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 77,77%.
   
 ## <a>Bibliografia</a>
 
