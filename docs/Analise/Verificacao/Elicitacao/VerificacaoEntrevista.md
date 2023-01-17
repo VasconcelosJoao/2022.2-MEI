@@ -42,7 +42,7 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 
 ## <a>Comentários</a>
 
-* Percebe-se que o documento está entregando requisitos importantes, mas falta atenção em alguns detalhes para que o documento fique completo.
+* Já na elicitação através da Técnica de Entrevista, demonstra um documento mais robusto e com mais informações. Porém ainda falta alguns pontos a serem recuperados.
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento
