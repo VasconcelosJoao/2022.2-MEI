@@ -193,6 +193,8 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Verificação LinkedIn - técnicas de priorização| Ana | 09/01/2023 | 09/01/2023 | Thiago
 | Verificação LinkedIn - Léxicos| Pedro Lucas | 08/01/2023 | 09/01/2023 | Thiago
 | Verificação LinkedIn - Planejamento| Pedro Lucas | 08/01/2023 | 09/01/2023 | Arthur
+| Verificação LinkedIn - Especificação Suplementar| Eduardo | 08/01/2023 | 09/01/2023 | Thiago
+| Verificação LinkedIn - Técnicas de Elicitação| Eduardo | 08/01/2023 | 09/01/2023 | Thiago
 | Validação LinkedIn - validação informal| Ana | 09/01/2023 | 09/01/2023 | Thiago
 
 *Tabela 11 - Tarefas executadas para a entrega 5*<br><br>
