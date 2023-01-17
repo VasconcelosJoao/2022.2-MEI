@@ -44,7 +44,7 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 
 Por meio do checklist realizado podemos observar que:
   
-  * 5/10 exigências são atendidas;
+  * 6/9 exigências são atendidas;
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 66,66%.
 

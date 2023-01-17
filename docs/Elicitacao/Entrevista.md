@@ -94,7 +94,7 @@ A elicitação de requisitos levou em consideração também o nível de benefí
 
 ## <a>Audio da entrevista</a>
 <audio controls>
-  <source src="../../../assets/outros/AudioEntrevistaRenan.mp3" type="audio/mpeg">
+  <source src="../../assets/outros/AudioEntrevistaRenan.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
