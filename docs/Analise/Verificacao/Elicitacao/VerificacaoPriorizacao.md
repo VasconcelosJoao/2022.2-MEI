@@ -24,17 +24,18 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 <center>
 
   
-|  ID   |                              Questão                              | Inspeção |
-| :---: | :---------------------------------------------------------------: | :------: |
-|   1   | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? |          |
-|   2   |     Houve participação do cliente ou personas na priorização?     |          |
-|   3   |                    A priorização foi validada?                    |          |
-|   4   |         Os participantes da elicitação são explicitados?          |          |
-|   5   |      Há gravação ou registro da priorização dos requisitos?       |          |
-|   6   |      Os requisitos priorizados estão identificados por IDs?       |          |
-|   7   |        Há um cronograma para a realização da priorização?         |          |
-|   8   |             A técnica FTF foi aplicada corretamente?              |          |
-|   9   |            A técnica MoSCoW foi aplicada corretamente?            |          |
+|  ID   |                              Questão                                             | Inspeção |
+| :---: | :------------------------------------------------------------------------------: | :------: |
+|   1   | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)?                |          |
+|   2   |     Houve participação do cliente ou personas na priorização?                    |          |
+|   3   |                    A priorização foi validada?                                   |          |
+|   4   |         Os participantes da elicitação são explicitados?                         |          |
+|   5   |      Há gravação ou registro da priorização dos requisitos?                      |          |
+|   6   |      Os requisitos priorizados estão identificados por IDs?                      |          |
+|   7   |        Há um cronograma para a realização da priorização?                        |          |
+|   8   |             A técnica First Things First foi aplicada corretamente?              |          |
+|   9   |            A técnica MoSCoW foi aplicada corretamente?                           |          |
+|  10   |      A técnica Three-level scale foi aplicada corretamente?                      |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -45,19 +46,20 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
+  
+|  ID   |                              Questão                                             | Inspeção |
+| :---: | :------------------------------------------------------------------------------: | :------: |
+|   1   | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)?                |     🟢    |
+|   2   |     Houve participação do cliente ou personas na priorização?                    |     🔴    |
+|   3   |                    A priorização foi validada?                                   |     🟢    |
+|   4   |         Os participantes da elicitação são explicitados?                         |     🟡    |
+|   5   |      Há gravação ou registro da priorização dos requisitos?                      |     🔴    |
+|   6   |      Os requisitos priorizados estão identificados por IDs?                      |     🟢    |
+|   7   |        Há um cronograma para a realização da priorização?                        |     🟡    |
+|   8   |             A técnica First Things First foi aplicada corretamente?              |     🟢    |
+|   9   |            A técnica MoSCoW foi aplicada corretamente?                           |     🟢    |
+|  10   |      A técnica Three-level scale foi aplicada corretamente?                      |     🟢    |  
 
-|  ID   |                              Questão                              | Inspeção |
-| :---: | :---------------------------------------------------------------: | :------: |
-|   1   | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? |    🟢     |
-|   2   |     Houve participação do cliente ou personas na priorização?     |    🔴     |
-|   3   |                    A priorização foi validada?                    |    🔴     |
-|   4   |         Os participantes da elicitação são explicitados?          |    🟡     |
-|   5   |      Há gravação ou registro da priorização dos requisitos?       |    🔴     |
-|   6   |      Os requisitos priorizados estão identificados por IDs?       |    🟢     |
-|   7   |        Há um cronograma para a realização da priorização?         |    🟡     |
-|   8   |             A técnica FTF foi aplicada corretamente?              |    🟢     |
-|   9   |            A técnica MoSCoW foi aplicada corretamente?            |    🟢     |
-|  10   |      A técnica Three-level scale foi aplicada corretamente?       |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 
@@ -73,9 +75,9 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Por meio do checklist realizado podemos observar que:
   
-  * 05/10 exigências são atendidas;
+  * 06/10 exigências são atendidas;
   * 02/10 são atendidas parcialmente 
-  * 03/10 não são atendidas
+  * 02/10 não são atendidas
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 60%.
   
