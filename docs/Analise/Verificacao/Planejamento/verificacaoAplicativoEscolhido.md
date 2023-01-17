@@ -25,11 +25,16 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 |  ID   |                                        Questão                                        | Inspeção |
 | :---: | :-----------------------------------------------------------------------------------: | :------: |
-|   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |          |
+|   1   |          Possui explicação sobre cada item que levou a escolha do aplicativo?         |          |
 |   2   |                             Possui bibliografia correta?                              |          |
 |   3   |                          Há uma introdução para o artefato?                           |          |
 |   4   |                       Possui motivos para a escolha do aplicativo?                    |          |
-
+|   5   |Possui informação se a equipe tem contato com as pessoas que utilizam o aplicativo?    |          |
+|   6   |                       Possui informação se o aplicativo tem alguma função que possa ter alguma melhoria?                    |          |
+|   7   |                       Possui informação de que o aplicativo possui algum problemana na acessibilidade para o usuário?                    |          | 
+|   8   |                       Possui informação sobre algum problema na confiabilidade?                    |          |
+  
+  
   
 *Tabela 1 - Checklist planejado*
 
@@ -43,11 +48,14 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 |  ID   |                                        Questão                                        | Inspeção  |
 | :---: | :-----------------------------------------------------------------------------------: | :-------: |
-|   1   |          Possui histórico de versão conforme o padrão utilizado no projeto?           |    🟢     |
+|   1   |       Possui explicação sobre cada item que levou a escolha do aplicativo?            |    🟢     |
 |   2   |                             Possui bibliografia correta?                              |    🟢     |
 |   3   |                          Há uma introdução para o artefato?                           |    🟢     |
 |   4   |                       Possui motivos para a escolha do aplicativo?                    |    🟢     |
-
+|   5   |Possui informação se a equipe tem contato com as pessoas que utilizam o aplicativo?    |    🟡     |
+|   6   |                       Possui informação se o aplicativo tem alguma função que possa ter alguma melhoria?                    |     🔴     |
+|   7   |                        Possui informação de que o aplicativo possui algum problemana na acessibilidade para o usuário?                    |     🔴     | 
+|   8   |                        Possui informação sobre algum problema na confiabilidade?                     |     🔴     |
 
 
 *Tabela 2 - Checklist efetivado*
@@ -56,7 +64,10 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 ## <a>Comentários</a>
 
-* Sem comentários a serem adicionados.
+  * O artefato possui informações de que possuem vários usuários do aplicativo, mas não possui informação se a equipe tem contato com pessoas que a utilizam.
+  * O artefato possui informações de como utilizar o aplicativo, mas não menciona se alguma funcionalidade possui uma provavel melhoria e que isso foi um dos motivos que ajudaram a escolher o aplicativo para ser abordado na disciplina.
+  * O artefato não menciona se o aplicativo possui todas as funcionalidades relacionada a acessibilidade, o que pode ser mais um motivo para a escolha do aplicativo.
+  * O artefato não menciona se o aplicativo possui confiabilidade para com o usuário, o que também pode se tornar um motivo de escolha do aplicativo.
 
   
 ## <a>Resultados</a>
@@ -64,7 +75,9 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Por meio do checklist realizado podemos observar que:
   
-  * 04/04 exigências são atendidas;
+  * 04/08 exigências são atendidas;
+  * 01/08 exigências está incompleta;
+  * 03/08 exigencias não foi realizado;
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
   
