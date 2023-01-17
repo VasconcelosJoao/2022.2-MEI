@@ -213,8 +213,10 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Verificação - Aplicativo Escolhido | Eduardo | 16/01/2023 | 16/01/2023 | João
 | Verificação - NFR Framework | Eduardo | 16/01/2023 | 16/01/2023 | João
 | Verificação - Backlog | Eduardo | 16/01/2023 | 16/01/2023 | João
+| Verificação - Cenários | Thiago Oliveira | 15/01/2023 | 16/01/2023 | João
+| Verificação - Léxicos | Thiago Oliveira | 15/01/2023 | 16/01/2023 | João
 | Validação - Prototipagem | Ana | 14/01/2023 | 15/01/2023 | João
-| Validação Informal | Thiago | 14/01/2023 | 15/01/2023 | João, Ana
+| Validação Informal | Thiago Oliveira | 14/01/2023 | 15/01/2023 | João, Ana
 | Elaboração do Protótipo | Arthur, João, Thiago | 14/01/2023 | 15/01/2023 | Ana, Pedro
 | Verificação da Prototipagem |João Lucas| 16/01/2023 | 16/01/2023 | Ana, Pedro
 
