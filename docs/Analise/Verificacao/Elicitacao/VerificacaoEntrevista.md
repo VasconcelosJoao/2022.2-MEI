@@ -51,7 +51,7 @@ Por meio do checklist realizado podemos observar que:
   
   * 8/11 exigências são atendidas;
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 90,9%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 72,72%.
 
 ## Bibliografia
 
