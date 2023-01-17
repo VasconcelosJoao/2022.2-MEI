@@ -202,6 +202,9 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Verificação - Termo de Consentimento | Ana | 14/01/2023 | 15/01/2023 | João
 | Verificação - Casos de Uso | Ana | 14/01/2023 | 15/01/2023 | João
 | Verificação - Rich Picture | Arthur | 16/01/2023 | 16/01/2023 | Ana
+| Verificação - Aplicativo Escolhido | Eduardo | 16/01/2023 | 16/01/2023 | João
+| Verificação - NFR Framework | Eduardo | 16/01/2023 | 16/01/2023 | João
+| Verificação - Backlog | Eduardo | 16/01/2023 | 16/01/2023 | João
 | Validação - Prototipagem | Ana | 14/01/2023 | 15/01/2023 | João
 | Validação Informal | Thiago | 14/01/2023 | 15/01/2023 | João, Ana
 | Elaboração do Protótipo | Arthur, João, Thiago | 14/01/2023 | 15/01/2023 | Ana, Pedro
