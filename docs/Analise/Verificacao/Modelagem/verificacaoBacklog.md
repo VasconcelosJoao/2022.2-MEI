@@ -56,6 +56,8 @@ Já a verificação de cada História de Usuário (US), separadamente, se dará 
 |   8   | Os critérios estão claros e contemplam cada funcionalidade dentro da história?? |          |
   
 *Tabela 2 - Checklist planejada história de usuário (US).
+
+</center>
   
 ## <a>Inspeção</a>
 
@@ -81,7 +83,7 @@ Na tabela 3, há o checklist efetivado do artefato na versão 1.0:
 
 </center>
 
-  ### <a>Individual</a>
+### <a>Individual</a>
 A tabela 4 a seguir apresenta o checklist com o resultado da inspeção de cada história de usuário(US) separadamente.
 
 <center>
