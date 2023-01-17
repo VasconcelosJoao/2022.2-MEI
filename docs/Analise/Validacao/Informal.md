@@ -1,10 +1,10 @@
 # Validação Informal
 ## <a>Histórico de Versões</a>
-|    Data    | Data Prevista de Revisão | Versão |             Descrição              |                     Autor                      |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :--------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 15/01/2023 |        16/01/2023        |  1.0   |        Criação do documento        | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
-| 16/01/2023 |        16/01/2023        |  1.1   |           Ajustes gerais           |     [Ana Luiza](https://github.com/AnHoff)     | [joão Lucas](https://github.com/HacKairos) |
-| 16/01/2023 |        16/01/2023        |  1.2   | Ajustes Na Conclusão e metodologia | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
+| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
+| 16/01/2023 |        16/01/2023        |  1.1   | Ajustes gerais | [Ana Luiza](https://github.com/AnHoff)     | [João Lucas](https://github.com/HacKairos) |
+| 16/01/2023 |        16/01/2023        |  1.2   |    Ajustes Na Conclusão e metodologia    |     [Thiago Oliveira](https://github.com/Thiab394)     | [Ana Luiza](https://github.com/AnHoff) e [João Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 Esse documento tem o propósito de apresentar a validação informal e como ela foi utilizada na validação do trabalho realizado por nossa equipe, que escolheu trabalhar com o aplicativo MEI.
@@ -25,22 +25,21 @@ O grupo 2, responsável por avaliar o Lichess, ao realizar a verificação e val
 <img src="../../../../assets/Analise/resposta_MEI.png">
 
 *Figura 1 - Resposta Obtida da Secretaria da Receita Federal*
-  
-Também foi enviado um E-mail para o mesmo orgão responsavel pelo desenvolvimento do MEI, com finalidade de ter uma validação da parte mais avançada que temos atualmente do projeto, sendo ela o prototipo de alta fidelidade. A partir disso esperamos retorno de algum encarregado ou, como no caso da resposta obtida pelo Lichess, gerente do projeto, referente à qualidade e exatidão do prototipo realizado.
 
 </center>
+  
+Também foi enviado um E-mail para o mesmo órgão responsável pelo desenvolvimento do MEI, com finalidade de ter uma validação da parte mais avançada que temos atualmente do projeto, sendo ela o protótipo de alta fidelidade. A partir disso, esperamos retorno de algum encarregado ou, como no caso da resposta obtida pelo Lichess, do gerente do projeto, referente à qualidade e exatidão do protótipo realizado.
 
 ## <a>Conclusão</a>
-De acordo com a resposta obtida a partir do e-mail enviado pelo grupo 2, os documentos e informações presentes no projeto até o momento estão "no caminho certo". Assim, vemos que estamos fazendo da maneira que deve ser feita mas que ainda há pontos a serem abordados ou melhorados. É importante tomar cuidado com a confecção dos documentos, principalmente
-com relação ao que aquele documento representa e o que se espera do mesmo.
+De acordo com a resposta obtida a partir do e-mail enviado pelo grupo 2, os documentos e informações presentes no projeto até o momento estão "no caminho certo". Assim, vemos que estamos fazendo da maneira que deve ser feita mas que ainda há pontos a serem abordados ou melhorados. É importante tomar cuidado com a confecção dos documentos, principalmente com relação ao que aquele documento representa e o que se espera do mesmo.
 
 Portanto, caso sigamos da maneira que estamos seguindo atualmente, acreditamos que o projeto atingirá seu objetivo principal e apresentará boa qualidade para qualquer um que queira verificar mais a fundo informações sobre o MEI e ter algumas ideias sobre como ele pode ser melhorado.
 
 Também foi falado de uma atualização que está por vir. A autenticação com o gov.br foi incluída na confecção do [Protótipo de Alta Fidelidade](./protAlta.md) elaborado pelo grupo, com o objetivo de apresentar ideias de melhorias no aplicativo, com foco em sua usabilidade e confiabilidade.
 
-Caso a resposta do E-mail sobre a validação do prototipo de alta seja respondida, ou qualquer atualização seja recebida, será registrada nesta conclusão.
+Caso a resposta do e-mail sobre a validação do prototipo de alta seja respondida, ou qualquer atualização seja recebida, será registrada nesta conclusão.
 
-Até hoje(16/01/2023), não obtivemos resposta ou qualquer atualização.
+Até hoje(16/01/2023), näo obtivemos resposta ou qualquer atualização.
 
 ## <a>Bibliografia</a>
 

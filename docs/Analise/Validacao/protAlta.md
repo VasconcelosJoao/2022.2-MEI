@@ -35,7 +35,9 @@ Também é possível acessar o protótipo clicando [aqui](https://www.figma.com/
 Como apresentado, o menu é semelhante ao que existe no aplicativo atual, porém mais colorido, minimalista e agradável. Com essa mudança no menu, é possível satisfazer o softgoal Acessibilidade que, por consequência, irá satisfazer o softgoal Usabilidade. Além disso, a nova forma de login pela plataforma gov.br e a reformulação do login pelo código de acesso promovem maior segurança ao sistema e ao usuário, atendendo ao softgoal Segurança que, por consequência, melhora a Confiabilidade do aplicativo.
 
 ## <a>Resultados</a>
-O protótipo elaborado foi validado por um usuário do MEI. Abaixo, é possível assistir à entrevista realizada, onde o avaliador explica as atividades a serem realizadas, em seguida aplica um questionário e, ao fim, recebe feedbacks gerais sobre o protótipo. Durante a entrevista, o entrevistado foi orientado a falar seus pensamentos em voz alta, a fim de prover mais detalhes sobre o que um usuário real acha das mudanças no sistema.
+O protótipo elaborado será validado por um usuário real do MEI, no dia 19/01/2023. O usuário em questão será parte de uma validação informal, onde a equipe procura obter validações e críticas sobre o que foi elaborado.
+
+A princípio, seguindo os novos softgoals satisfeitos, conclui-se que o protótipo apresenta vantagens com relação ao aplicativo atual.
 
 ## <a>Bibliografia</a>
 
