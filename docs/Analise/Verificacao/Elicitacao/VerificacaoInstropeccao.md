@@ -1,4 +1,4 @@
-# Verificação do Brainstorming
+# Verificação da Introspecção
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
