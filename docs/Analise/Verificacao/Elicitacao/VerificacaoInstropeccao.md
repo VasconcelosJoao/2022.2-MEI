@@ -1,8 +1,8 @@
 # Verificação da Introspecção
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
-| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) |  |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------------------------: |
+| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Introspecção](../../../Elicitacao/Introspeccao.md). A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
@@ -22,18 +22,17 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 
 <center>
 
-|  ID   |                                        Questão        | Inspeção |
-| :---: | :-----------------------------------------------------| :------: |
-|   1   |O histórico de versão padronizado?           |🟢|
-|   2   |O(s) autor(es) e o(s) revisor(es) para cada artefato?  |🟢|
-|   3   |Há uma introdução para o artefato?     |🔴|
-|   4   |Referências bibliográficas e/ou bibliografia em todos os artefatos;|🔴|
-|   5   |As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?|🔴|
-|   6   |Um texto fazendo uma introdução dos artefatos?|🔴|
-|   7   |O artefato possui os cenários de uso identificados pelo avaliador ?|🟢|
-|   8   |Possui identificação dos requisitos?|🟢|
-|   9   |Foi identificado data, horário e participantes?|🔴|
-|   10   |O documento deixa claro seus objetivos?|🟢|
+|  ID   | Questão                                                                        | Inspeção |
+| :---: | :----------------------------------------------------------------------------- | :------: |
+|   1   | O histórico de versão padronizado?                                             |    🟢     |
+|   2   | O(s) autor(es) e o(s) revisor(es) para cada artefato?                          |    🟢     |
+|   3   | Há uma introdução para o artefato?                                             |    🟢     |
+|   4   | Referências bibliográficas e/ou bibliografia em todos os artefatos;            |    🔴     |
+|   5   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? |    🔴     |
+|   6   | O artefato possui os cenários de uso identificados pelo avaliador ?            |    🟢     |
+|   7   | Possui identificação dos requisitos?                                           |    🟢     |
+|   8   | Foi identificado data, horário e participantes?                                |    🔴     |
+|   9   | O documento deixa claro seus objetivos?                                        |    🟢     |
   
 *Tabela 1 - Checklist planejado*
 
@@ -47,7 +46,7 @@ Por meio do checklist realizado podemos observar que:
   
   * 5/10 exigências são atendidas;
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 50%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 66,66%.
 
 ## Bibliografia
 

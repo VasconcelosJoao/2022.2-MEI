@@ -3,7 +3,7 @@
 |    Data    | Data Prevista de Revisão | Versão |          Descrição          |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :-------------------------: | :----------------------------------------: | :----------------------------------------: |
 | 14/01/2023 |        15/01/2023        |  1.0   |    Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [joão Lucas](https://github.com/HacKairos) |
-| 15/01/2023 |        15/01/2023        |  1.0   | Adição do prototipo e video | [joão Lucas](https://github.com/HacKairos) | [joão Lucas](https://github.com/HacKairos) |
+| 15/01/2023 |        15/01/2023        |  1.0   | Adição do prototipo e video | [joão Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução</a>
 Um protótipo é a representação limitada do design que permite aos stakeholders interagir com o produto a fim de adquirir experiências sobre como utilizá-lo. [1]

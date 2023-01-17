@@ -1,8 +1,8 @@
 # Verificação de Personas
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
-| 14/01/2023 |        15/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) |  |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    | Revisor |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :-----: |
+| 14/01/2023 |        15/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Personas](../../../Elicitacao/personas.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
@@ -24,20 +24,20 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 <center>
 
   
-| ID | Questão | Inspeção | 
-| :--: | :-------: | :------: |
-| 1 | As personas foram criadas baseadas nos dados do perfil do usuário? |  | 
-| 2 | Cada persona possui: nome e sobrenome? |  |  
-| 3 | Cada persona possui: dados demográficos? |  |  
-| 4 | Cada persona possui: foto? | |  
-| 5 | Cada persona possui: o status da persona?|  |  
-| 6 | Cada persona possui: habilidades?<br>As habilidades fazem sentido? |  |  
-| 7 | Cada persona possui: tarefas?<br>As tarefas fazem sentido? |  |  
-| 8 | Cada persona possui: relacionamentos?<br>Os relacionamentos fazem sentido? |  |  
-| 9 | Cada persona possui: requisitos?<br>Os requisitos fazem sentido? |  | 
-| 10 | Cada persona possui: expectativas?<br>As expectativas fazem sentido? | |
-| 11 | O documento informa o método de construção das personas? |  | 
-| 12 | O documento informa o porquê da quantidade de personas criadas? |  | 
+|  ID   |                                  Questão                                   | Inspeção |
+| :---: | :------------------------------------------------------------------------: | :------: |
+|   1   |     As personas foram criadas baseadas nos dados do perfil do usuário?     |          |
+|   2   |                   Cada persona possui: nome e sobrenome?                   |          |
+|   3   |                  Cada persona possui: dados demográficos?                  |          |
+|   4   |                         Cada persona possui: foto?                         |          |
+|   5   |                 Cada persona possui: o status da persona?                  |          |
+|   6   |     Cada persona possui: habilidades?<br>As habilidades fazem sentido?     |          |
+|   7   |         Cada persona possui: tarefas?<br>As tarefas fazem sentido?         |          |
+|   8   | Cada persona possui: relacionamentos?<br>Os relacionamentos fazem sentido? |          |
+|   9   |      Cada persona possui: requisitos?<br>Os requisitos fazem sentido?      |          |
+|  10   |    Cada persona possui: expectativas?<br>As expectativas fazem sentido?    |          |
+|  11   |          O documento informa o método de construção das personas?          |          |
+|  12   |      O documento informa o porquê da quantidade de personas criadas?       |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -49,20 +49,20 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-| ID | Questão | Inspeção | 
-| :--: | :-------: | :------: |
-| 1 | As personas foram criadas baseadas nos dados do perfil do usuário? | 🟢 | 
-| 2 | Cada persona possui: nome e sobrenome? |🟢 |  
-| 3 | Cada persona possui: dados demográficos? |🟢 |  
-| 4 | Cada persona possui: foto? |🟢 |  
-| 5 | Cada persona possui: o status da persona?| 🟢 |  
-| 6 | Cada persona possui: habilidades?<br>As habilidades fazem sentido? | 🟢 |  
-| 7 | Cada persona possui: tarefas?<br>As tarefas fazem sentido? | 🟢 |  
-| 8 | Cada persona possui: relacionamentos?<br>Os relacionamentos fazem sentido? | 🟢 |  
-| 9 | Cada persona possui: experiência prévia?<br>A experiência prévia faz sentido? | 🟢 | 
-| 10 | Cada persona possui: expectativas?<br>As expectativas fazem sentido? | 🟢|
-| 11 | O documento informa o método de construção das personas? | 🟢 | 
-| 12 | O documento informa o porquê da quantidade de personas criadas? | 🟢 | 
+|  ID   |                                    Questão                                    | Inspeção |
+| :---: | :---------------------------------------------------------------------------: | :------: |
+|   1   |      As personas foram criadas baseadas nos dados do perfil do usuário?       |    🟢     |
+|   2   |                    Cada persona possui: nome e sobrenome?                     |    🟢     |
+|   3   |                   Cada persona possui: dados demográficos?                    |    🟢     |
+|   4   |                          Cada persona possui: foto?                           |    🟢     |
+|   5   |                   Cada persona possui: o status da persona?                   |    🟢     |
+|   6   |      Cada persona possui: habilidades?<br>As habilidades fazem sentido?       |    🟢     |
+|   7   |          Cada persona possui: tarefas?<br>As tarefas fazem sentido?           |    🟢     |
+|   8   |  Cada persona possui: relacionamentos?<br>Os relacionamentos fazem sentido?   |    🟢     |
+|   9   | Cada persona possui: experiência prévia?<br>A experiência prévia faz sentido? |    🟢     |
+|  10   |     Cada persona possui: expectativas?<br>As expectativas fazem sentido?      |    🟢     |
+|  11   |           O documento informa o método de construção das personas?            |    🟢     |
+|  12   |        O documento informa o porquê da quantidade de personas criadas?        |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 

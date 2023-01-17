@@ -5,6 +5,9 @@
 |04/12/2022|05/12/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) |[Ana Luiza](https://github.com/AnHoff)|
 |08/12/2022|09/12/2022|1.1|Adição de detalhes do método| [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff)|
 
+
+## <a>Introdução</a>
+
 A instrospecção é uma técnica utilizada para elicitar requisitos. Caso deseje saber mais detalhadamente sobre essa técnica, acesse o documento de [técnicas de elicitação](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/). Foram obtidos a partir desse método dados sobre o nível de benefício e de penalidade que cada requisito agrega ao sistema caso seja implementado ou não.
 
 ## <a>Elicitação através da Introspecção</a>
