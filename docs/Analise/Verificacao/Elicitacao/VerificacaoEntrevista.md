@@ -5,7 +5,7 @@
 | 14/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) |  |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Entrevista](../../../Elicitaco/Entrevista.md). A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [Entrevista](../../../Elicitacao/Entrevista.md). A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 
 ## <a>Metodologia</a>
