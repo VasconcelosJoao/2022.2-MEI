@@ -73,8 +73,8 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |  12   |                                O rastro do léxico leva para o requisito especificado?                                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |  13   |                                         O léxico possui informaçõs concisas?                                          |  N/A  |   🟡   |   🟡   |   🟢   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |  14   |                                 A noção do léxico define o que é símbolo (denotação)?                                 |  N/A  |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |
-|  15   |                                     Os simbolos estão devidamente classificados?                                      |  N/A  |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |
-|  16   | Os impactos descrevem o efeito, uso ou coerência do símbolo no sitema ou efeito de algo na aplicação sobre o símbolo? |  N/A  |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |   🔴   |
+|  15   |                                     Os simbolos estão devidamente classificados?                                      |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  16   | Os impactos descrevem o efeito, uso ou coerência do símbolo no sitema ou efeito de algo na aplicação sobre o símbolo? |  N/A  |   🟡   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |
 |  17   |                                       Os sinônimos são compatíveis? (se houver)                                       |  N/A  |   🟢   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🔴   |   🟢   |
   
 *Tabela 2 - Checklist efetivado*
@@ -96,11 +96,11 @@ de que o documento já está vencido, o que conflita com o nome do léxico.
 
 Através dos checklists realizados podemos observar que:
 
-* 150/208 exigências são atendidas;
-* 6/208 exigências estão incompletas;
-* 52/208 exigências estão erradas ou não foram contempladas.
+* 182/208 exigências são atendidas;
+* 8/208 exigências estão incompletas;
+* 18/208 exigências estão erradas ou não foram contempladas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 73.55%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 89.42%.
 
 ## <a>Bibliografia</a>
 
