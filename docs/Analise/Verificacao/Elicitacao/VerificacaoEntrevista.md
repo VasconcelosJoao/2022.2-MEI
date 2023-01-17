@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :-----: |
-| 14/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [joão Lucas](https://github.com/HacKairos) |
+| 14/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Entrevista](../../../Elicitacao/Entrevista.md). A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
@@ -29,8 +29,8 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 |   3   | Há uma introdução para o artefato?                                             |    🟢     |
 |   4   | Referências bibliográficas e/ou bibliografia em todos os artefatos;            |    🔴     |
 |   5   | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? |    🟢     |
-|   6   | Um texto fazendo uma introdução dos artefatos?                                 |    🟢     |
-|   7   | Gravação da Entrevista?                                                        |    🟢     |
+|   6   | Um texto fazendo uma introdução dos artefatos?                                 |    🔴     |
+|   7   | Gravação da Entrevista?                                                        |    🔴     |
 |   8   | O Entrevistado?                                                                |    🟢     |
 |   9   | Possui identificação dos requisitos?                                           |    🟢     |
 |  10   | Foi identificado data, horário e participantes?                                |    🟢     |
