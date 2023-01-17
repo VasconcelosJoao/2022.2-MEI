@@ -1,11 +1,11 @@
-# Verificação dos Aplicativos Analisados
+# Verificação do Brainstorming
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
-| 14/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) |  |
+| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) |  |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Brainstorm](../../../Elicitaco/Brainstorm.md). A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [Brainstorming](../../../Elicitaco/Brainstorm.md). A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 
 ## <a>Metodologia</a>
@@ -31,6 +31,7 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 |   5   |As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?|🔴|
 |   6   |Um texto fazendo uma introdução dos artefatos?|🔴|
 |   7   | As Personas?|🟢|
+|   8   |Gravação do Brainstormin|🟢|
 |   8   |Possui identificação dos requisitos?|🟢|
 |   9   |Foi identificado data, horário e participantes?|🔴|
 |   10   |O documento deixa claro seus objetivos?|🟢|
@@ -48,9 +49,9 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 
 Por meio do checklist realizado podemos observar que:
   
-  * 5/10 exigências são atendidas;
+  * 6/11 exigências são atendidas;
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 50%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 54,54%.
 
 ## Bibliografia
 
