@@ -43,7 +43,7 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
-  
+
 |  ID   |                               Questão                               | Inspeção |
 | :---: | :-----------------------------------------------------------------: | :------: |
 |   1   |                Os softgoals condizem com o contexto?                |    🟢     |
