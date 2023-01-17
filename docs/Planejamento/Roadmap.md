@@ -191,6 +191,8 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
 | Verificação LinkedIn - técnicas de priorização| Ana | 09/01/2023 | 09/01/2023 | Thiago
+| Verificação LinkedIn - Léxicos| Pedro Lucas | 08/01/2023 | 09/01/2023 | Thiago
+| Verificação LinkedIn - Planejamento| Pedro Lucas | 08/01/2023 | 09/01/2023 | Arthur
 | Validação LinkedIn - validação informal| Ana | 09/01/2023 | 09/01/2023 | Thiago
 
 *Tabela 11 - Tarefas executadas para a entrega 5*<br><br>
@@ -199,6 +201,10 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
+| Verificação - Planejamento e metodologia da verificação | Pedro Lucas | 16/01/2023 | 16/01/2023 | João Lucas
+| Verificação - Brainstorming | Pedro Lucas | 16/01/2023 | 15/01/2023 | João
+| Verificação - Entrevista | Pedro Lucas | 16/01/2023 | 15/01/2023 | João
+| Verificação - Introspecção | Pedro Lucas | 16/01/2023 | 15/01/2023 | João
 | Verificação - Termo de Consentimento | Ana | 14/01/2023 | 15/01/2023 | João
 | Verificação - Casos de Uso | Ana | 14/01/2023 | 15/01/2023 | João
 | Verificação - Rich Picture | Arthur | 16/01/2023 | 16/01/2023 | Ana
@@ -208,6 +214,7 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Validação - Prototipagem | Ana | 14/01/2023 | 15/01/2023 | João
 | Validação Informal | Thiago | 14/01/2023 | 15/01/2023 | João, Ana
 | Elaboração do Protótipo | Arthur, João, Thiago | 14/01/2023 | 15/01/2023 | Ana, Pedro
+| Verificação da Prototipagem |João Lucas| 16/01/2023 | 16/01/2023 | Ana, Pedro
 
 *Tabela 12 - Tarefas executadas para a entrega 6*<br><br>
 
