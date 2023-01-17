@@ -1,14 +1,21 @@
 <h1 align="center">MEI - Microempreendedor Individual</h1>
 <p align="center"><img src="/docs/assets/images/favicon.png" alt="MEI" width="10%" /></p> 
 
+<div align="center">
 
-<h2 align="center">Sobre o projeto</h2>
+<h2>Sobre o projeto</h2>
 
-Este repositório destina-se à matéria de Requisitos de Software da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&gl=US), aplicando conceitos aprendidos na discplina.
+Este repositório destina-se à matéria de Requisitos de Software da Universidade de Brasília. Somos o grupo 3 e temos o objetivo de analisar o aplicativo [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&gl=US), aplicando conceitos aprendidos na disciplina.
 
+</div>
 
-<h2 align="center">Equipe</h2>
-Apresentação da equipe na Tabela 1 :
+<br>
+
+<div align="center"> 
+<h2>Equipe</h2>
+<br>
+
+Apresentação da equipe na Tabela 1:
 
 |Foto | Nome| GitHub| E-mail| 
 |:-----:|:-----:|:-----:|:-----:|
@@ -20,3 +27,5 @@ Apresentação da equipe na Tabela 1 :
 | <img width='100'  src='/docs/assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
 
 *Tabela 1 - Equipe*
+
+</div>
