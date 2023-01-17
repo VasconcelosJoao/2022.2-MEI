@@ -32,9 +32,9 @@ Para a realização da inspeção, será utilizada uma checklist com o objetivo 
 |   6   |Um texto fazendo uma introdução dos artefatos?|🔴|
 |   7   | As Personas?|🟢|
 |   8   |Gravação do Brainstormin|🟢|
-|   8   |Possui identificação dos requisitos?|🟢|
-|   9   |Foi identificado data, horário e participantes?|🔴|
-|   10   |O documento deixa claro seus objetivos?|🟢|
+|   9   |Possui identificação dos requisitos?|🟢|
+|   10   |Foi identificado data, horário e participantes?|🔴|
+|   11   |O documento deixa claro seus objetivos?|🟢|
   
 *Tabela 1 - Checklist planejado*
 
