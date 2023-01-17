@@ -1,7 +1,7 @@
 # Verificação de Personas
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    | Revisor |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :-----: |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------------------------: |
 | 14/01/2023 |        15/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>

@@ -1,11 +1,11 @@
-# Verificação das técnicas de priorização de requisitos
+# Verificação do Perfil Usuário
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
-| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) |  |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------------------------: |
+| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Personas](../../../Elicitacao/perfil.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [Perfil Usuário](../../../Elicitacao/perfil.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 A técnica de inspeção será utilizada para realizar esse processo. [1]
 
@@ -24,13 +24,13 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 <center>
 
   
-| ID | Questão | Inspeção | 
-| :--: | :-------: | :------: |
-1 | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário? |  |
-2 | Os dados levantados fazem sentido no escopo do projeto? |  |
-3 | O perfil é apresentado? |  |
-4 | Há explicitado a fonte dos dados do perfil? |  |
-5 | É informado com base em quantas respostas o perfil foi traçado? |  |
+|  ID   |                              Questão                               | Inspeção |
+| :---: | :----------------------------------------------------------------: | :------: |
+|   1   | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário? |          |
+|   2   |      Os dados levantados fazem sentido no escopo do projeto?       |          |
+|   3   |                      O perfil é apresentado?                       |          |
+|   4   |            Há explicitado a fonte dos dados do perfil?             |          |
+|   5   |  É informado com base em quantas respostas o perfil foi traçado?   |          |
 
   
 *Tabela 1 - Checklist planejado*
@@ -43,13 +43,13 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.1:
 
 <center>
 
-| ID | Questão | Inspeção | 
-| :--: | :-------: | :------: |
-1 | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário? | 🟢 |
-2 | Os dados levantados fazem sentido no escopo do projeto? | 🟢 |
-3 | O perfil é apresentado? | 🟢 |
-4 | Há explicitado a fonte dos dados do perfil? | 🔴 |
-5 | É informado com base em quantas respostas o perfil foi traçado? | 🔴 |
+|  ID   |                              Questão                               | Inspeção |
+| :---: | :----------------------------------------------------------------: | :------: |
+|   1   | É explicitado a(s) técnicas(s) de elicitação do perfil do usuário? |    🟢     |
+|   2   |      Os dados levantados fazem sentido no escopo do projeto?       |    🟢     |
+|   3   |                      O perfil é apresentado?                       |    🟢     |
+|   4   |            Há explicitado a fonte dos dados do perfil?             |    🔴     |
+|   5   |  É informado com base em quantas respostas o perfil foi traçado?   |    🔴     |
   
 *Tabela 2 - Checklist efetivado*
 

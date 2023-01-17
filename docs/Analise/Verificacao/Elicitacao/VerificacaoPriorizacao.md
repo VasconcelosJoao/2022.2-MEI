@@ -1,11 +1,11 @@
 # Verificação das técnicas de priorização de requisitos
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
-| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) |  |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------------------------: |
+| 16/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Personas](../../../Elicitacao/tecnicas-priorizacao.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.3 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [priorização de requisitos](../../../Elicitacao/tecnicas-priorizacao.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.3 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 A técnica de inspeção será utilizada para realizar esse processo. [1]
 
@@ -24,17 +24,17 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 <center>
 
   
-| ID | Questão | Inspeção | 
-| :--: | :-------: | :------: |
-1 | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? |  |
-2 | Houve participação do cliente ou personas na priorização? |  |
-3 | A priorização foi validada? |  |
-4 | Os participantes da elicitação são explicitados? |  |
-5 | Há gravação ou registro da priorização dos requisitos? |  |
-6 | Os requisitos priorizados estão identificados por IDs? |  |
-7 | Há um cronograma para a realização da priorização? |  |
-8 | A técnica FTF foi aplicada corretamente? |  |
-9 | A técnica MoSCoW foi aplicada corretamente? |  |
+|  ID   |                              Questão                              | Inspeção |
+| :---: | :---------------------------------------------------------------: | :------: |
+|   1   | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? |          |
+|   2   |     Houve participação do cliente ou personas na priorização?     |          |
+|   3   |                    A priorização foi validada?                    |          |
+|   4   |         Os participantes da elicitação são explicitados?          |          |
+|   5   |      Há gravação ou registro da priorização dos requisitos?       |          |
+|   6   |      Os requisitos priorizados estão identificados por IDs?       |          |
+|   7   |        Há um cronograma para a realização da priorização?         |          |
+|   8   |             A técnica FTF foi aplicada corretamente?              |          |
+|   9   |            A técnica MoSCoW foi aplicada corretamente?            |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -46,18 +46,18 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-| ID | Questão | Inspeção | 
-| :--: | :-------: | :------: |
-1 | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? | 🟢 |
-2 | Houve participação do cliente ou personas na priorização? | 🔴 |
-3 | A priorização foi validada? | 🔴 |
-4 | Os participantes da elicitação são explicitados? | 🟡 |
-5 | Há gravação ou registro da priorização dos requisitos? | 🔴 |
-6 | Os requisitos priorizados estão identificados por IDs? | 🟢 |
-7 | Há um cronograma para a realização da priorização? | 🟡 |
-8 | A técnica FTF foi aplicada corretamente? | 🟢 |
-9 | A técnica MoSCoW foi aplicada corretamente? | 🟢 |
-10 | A técnica Three-level scale foi aplicada corretamente? | 🟢 |
+|  ID   |                              Questão                              | Inspeção |
+| :---: | :---------------------------------------------------------------: | :------: |
+|   1   | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? |    🟢     |
+|   2   |     Houve participação do cliente ou personas na priorização?     |    🔴     |
+|   3   |                    A priorização foi validada?                    |    🔴     |
+|   4   |         Os participantes da elicitação são explicitados?          |    🟡     |
+|   5   |      Há gravação ou registro da priorização dos requisitos?       |    🔴     |
+|   6   |      Os requisitos priorizados estão identificados por IDs?       |    🟢     |
+|   7   |        Há um cronograma para a realização da priorização?         |    🟡     |
+|   8   |             A técnica FTF foi aplicada corretamente?              |    🟢     |
+|   9   |            A técnica MoSCoW foi aplicada corretamente?            |    🟢     |
+|  10   |      A técnica Three-level scale foi aplicada corretamente?       |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 
