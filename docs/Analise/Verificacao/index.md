@@ -55,7 +55,7 @@ Uma proposição é uma afirmação que tem um valor verdadeiro ou falso. A lóg
 Técnicas usando estratégias de inteligência artificial e heurísticas. Destina-se a criticar requisitos e comparar com domínios previamente codificados.<br></br>
 A formação desse domínio é, portanto, baseada em fatos de sistemas semelhantes que já foram determinados. Assistentes inteligentes fornecem feedback sobre requisitos preparados por engenheiros de software/requisitos. Dada a disponibilidade do domínio. É possível identificar fatos falsos ou ausentes.<br>
 
-## Método de Avaliação:
+## <a>Método de Avaliação</a>
 
 Para a verificação em questão, será utilizada a técnica de inspeção. Para a aplicação dessa técnica, haverá o uso de uma tabela com perguntas que visam avaliar se o artefato foi feito da maneira demandada pela disciplina. Assim, torna-se fácil visualizar se o mesmo foi elaborado corretamente.
 

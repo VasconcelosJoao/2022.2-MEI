@@ -1,10 +1,10 @@
 # Validação Informal
 ## <a>Histórico de Versões</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
-| 16/01/2023 |        16/01/2023        |  1.1   |    Ajustes gerais    |     [Ana Luiza](https://github.com/AnHoff)     | [joão Lucas](https://github.com/HacKairos) |
-| 16/01/2023 |        16/01/2023        |  1.2   |    Ajustes Na Conclusão e metodologia    |     [Thiago Oliveira](https://github.com/Thiab394)     | [-](https://github.com/) |
+|    Data    | Data Prevista de Revisão | Versão |             Descrição              |                     Autor                      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------------: | :--------------------------------------------: | :----------------------------------------: |
+| 15/01/2023 |        16/01/2023        |  1.0   |        Criação do documento        | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
+| 16/01/2023 |        16/01/2023        |  1.1   |           Ajustes gerais           |     [Ana Luiza](https://github.com/AnHoff)     | [joão Lucas](https://github.com/HacKairos) |
+| 16/01/2023 |        16/01/2023        |  1.2   | Ajustes Na Conclusão e metodologia | [Thiago Oliveira](https://github.com/Thiab394) | [joão Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 Esse documento tem o propósito de apresentar a validação informal e como ela foi utilizada na validação do trabalho realizado por nossa equipe, que escolheu trabalhar com o aplicativo MEI.
@@ -40,7 +40,7 @@ Também foi falado de uma atualização que está por vir. A autenticação com 
 
 Caso a resposta do E-mail sobre a validação do prototipo de alta seja respondida, ou qualquer atualização seja recebida, será registrada nesta conclusão.
 
-Até hoje(16/01/2023), nao obtivemos resposta ou qualquer atualização.
+Até hoje(16/01/2023), não obtivemos resposta ou qualquer atualização.
 
 ## <a>Bibliografia</a>
 
