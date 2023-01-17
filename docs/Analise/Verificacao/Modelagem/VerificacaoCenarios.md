@@ -64,10 +64,10 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   4   |                  O Cenário Possui Recurso?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   5   |                 O cenário Possui Episódios?                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   6   |                  O cenário Possui Exceção?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   7   |          É possível associar o título ao objetivo?          |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |      |      |   🟢   |   🟢   |   🟢   |   🟢   |
+|   7   |          É possível associar o título ao objetivo?          |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   8   |                O contexto foi bem definido?                 |  N/A  |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |
 |   9   |            Os atores foram colocados no cenário?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  10   |     Os episódios ajudam a atingir o objetivo descrito?      |  N/A  |   🟢   |   🟡   |   🟢   |   🟢   |      |      |   🟢   |   🟢   |   🟢   |   🟢   |
+|  10   |     Os episódios ajudam a atingir o objetivo descrito?      |  N/A  |   🟢   |   🟡   |   🟢   |   🟡   |   🟢   |   🟡   |   🟡   |   🟢   |   🟢   |   🟢   |
 |  11   |           Os recursos são realmente necessários?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |  12   |               O Documento Possui Introdução?                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
 |  13   |               O Documento Possui Metodologia?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
