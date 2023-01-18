@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [joão Lucas](https://github.com/HacKairos) | [-](https://github.com/) |
+| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [joão Lucas](https://github.com/HacKairos) | [Eduardo](https://github.com/edudsan) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Especificação Suplementar](../../../Modelagem/EspecificacaoSuplementar.md), 
