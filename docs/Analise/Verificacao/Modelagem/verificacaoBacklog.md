@@ -32,9 +32,9 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   5   |                      O backlog possui temas?                       |          |
 |   6   |              O backlog está bem definido e descrito?               |          |
 |   7   |                  Há legenda em todas as tabelas?                   |          |
-|   8   |                  Há legenda em todas as figuras?                   |          |
-|   9   |               Figuras são chamadas dentro do texto?                |          |
-|  10   |               Tabelas são chamadas dentro do texto?                |          |
+|   8   |               Tabelas são chamadas dentro do texto?                |         |
+|   9   |       As Histórias de Usuário seguem algum modelo ou padrão?       |         |
+|  10   | O épico possui especificação do autores que vão realizar a tarefa? |         |
   
 *Tabela 1 - Checklist planejado*
 
@@ -49,11 +49,14 @@ Já a verificação de cada História de Usuário (US), separadamente, se dará 
 |   1   |                 Possui descrição clara e de fácil entendimento?                 |          |
 |   2   |                             Possui rastreabilidade?                             |          |
 |   3   |                        É possível identificar os atores?                        |          |
-|   4   |                  É possível identificar os desejos dos atores?                  |          |
+|   4   |                  É possível identificar a intenção dos atores?                  |          |
 |   5   |                           A prioridade está correta?                            |          |
 |   6   |                              Possui identificação?                              |          |
 |   7   |                         Possui critérios de aceitação?                          |          |
-|   8   | Os critérios estão claros e contemplam cada funcionalidade dentro da história?? |          |
+|   8   | Os critérios estão claros e contemplam cada funcionalidade dentro da história? |          |
+|   9   | As tabelas possuem legendas? |          |  
+|   10  | As tabelas são referenciadas em algum texto? |          |  
+|   11  | Cada item possui um texto introdutório? |          |  
   
 *Tabela 2 - Checklist planejada história de usuário (US).
 
@@ -74,10 +77,9 @@ Na tabela 3, há o checklist efetivado do artefato na versão 1.0:
 |   5   |                      O backlog possui temas?                       |    🟢     |
 |   6   |              O backlog está bem definido e descrito?               |    🟡     |
 |   7   |                  Há legenda em todas as tabelas?                   |    🟢     |
-|   8   |                  Há legenda em todas as figuras?                   |   N/A    |
-|   9   |               Figuras são chamadas dentro do texto?                |   N/A    |
-|  10   |               Tabelas são chamadas dentro do texto?                |    🔴     |
-|  11   |       As Histórias de Usuário seguem algum modelo ou padrão?       |    🟢     |
+|   8   |               Tabelas são chamadas dentro do texto?                |    🔴     |
+|   9   |       As Histórias de Usuário seguem algum modelo ou padrão?       |    🟢     |
+|  10   | O épico possui especificação do autores que vão realizar a tarefa? |    🔴     |
   
 *Tabela 3 - Checklist efetivado*
 
@@ -93,11 +95,14 @@ A tabela 4 a seguir apresenta o checklist com o resultado da inspeção de cada 
 |   1   |                 Possui descrição clara e de fácil entendimento?                 |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   2   |                             Possui rastreabilidade?                             |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   3   |                        É possível identificar os atores?                        |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   4   |                  É possível identificar os desejos dos atores?                  |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   4   |                  É possível identificar a intenção dos atores?                  |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   5   |                           A prioridade está correta?                            |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   6   |                              Possui identificação?                              |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   7   |                         Possui critérios de aceitação?                          |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   8   | Os critérios estão claros e contemplam cada funcionalidade dentro da história?? |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   8   | Os critérios estão claros e contemplam cada funcionalidade dentro da história? |    🟢     |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   9   | As tabelas possuem legendas? |    🔴      | 🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴| 
+|   10  | As tabelas são referenciadas em algum texto? |    🔴      |  🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|
+|   11  | Cada item possui um texto introdutório? |      🔴    |  🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|🔴|
   
 *Tabela 4 - Checklist efetivado histórias de usuários*
 
@@ -106,7 +111,9 @@ A tabela 4 a seguir apresenta o checklist com o resultado da inspeção de cada 
 ## <a>Comentários</a>
 
 * Para melhor entendimento do artefato backlog a adição de um detalhamento melhor sobre o quesito da priorização;
-* Adicionar chamadas das tabelas em textos;
+* Adicionar chamadas das tabelas em textos no backlog;
+* Adicionar legendas, um texto explicativo e fazer referência das tabelas nos texto na história de usuário;
+* Descrever quem é o autor que irá realizar o épico;
 
   
 ## <a>Resultados</a>
@@ -114,11 +121,11 @@ A tabela 4 a seguir apresenta o checklist com o resultado da inspeção de cada 
 
 Por meio do checklist realizado podemos observar que:
   
-  * 153/155 exigências são atendidas;
-  * 1/155 exigências estão incompletas;
-  * 1/155 exigências estão erradas ou não foram contempladas.
+  * 152/209 exigências são atendidas;
+  * 1/209 exigências estão incompletas;
+  * 56/209 exigências estão erradas ou não foram contempladas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 99,35%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 86,36%.
   
 ## <a>Bibliografia</a>
 
