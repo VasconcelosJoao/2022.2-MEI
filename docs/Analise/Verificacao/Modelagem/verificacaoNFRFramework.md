@@ -33,6 +33,7 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   6   |              Os caminhos dos softgoals são coerentes?               |          |
 |   7   | Os diagramas representam os requisitos não-funcionais corretamente? |          |
 |   8   |                     A redundância foi evitada?                      |          |
+|   9   |                     As figuras são referenciadas em algum texto?    |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -54,6 +55,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   6   |              Os caminhos dos softgoals são coerentes?               |    🟢     |
 |   7   | Os diagramas representam os requisitos não-funcionais corretamente? |    🟢     |
 |   8   |                     A redundância foi evitada?                      |    🟢     |
+|   9   |                     As figuras são referenciadas em algum texto?    |    🔴     |
   
 *Tabela 2 - Checklist Efetivado.
   
@@ -62,7 +64,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
   
 ## <a>Comentários</a>
 
-* Nenhum comentário a ser adicionado
+* Referenciar as figuras em textos;
 
   
 ## <a>Resultados</a>
@@ -70,10 +72,11 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Por meio do checklist realizado podemos observar que:
   
-  * 8/8 exigências são atendidas;
+  * 8/9 exigências são atendidas;
+  * 1/9 exigências não foi implementada
   
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 94,44%.
   
 ## <a>Bibliografia</a>
 
