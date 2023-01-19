@@ -222,9 +222,22 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 *Tabela 12 - Tarefas executadas para a entrega 6*<br><br>
 
+**Entrega 7**
+
+| Tarefa | Responsáveis | Entrega | Revisão | Revisor |
+| --- | --- | --- | --- | --- |
+| Melhoria do Documento - Aplicativo Escolhido | Ana | 19/01/2023 | 20/01/2023 | 
+| Melhoria do Documento - Termo de Consentimento | Ana | 19/01/2023 | 20/01/2023 |
+| Melhoria do Documento - Entrevista | Ana | 19/01/2023 | 20/01/2023 |
+| Melhoria do Documento - Brainstorming | Ana | 19/01/2023 | 20/01/2023 |
+| Melhoria do Documento - Introspecção | Ana | 19/01/2023 | 20/01/2023 |
+
+*Tabela 13 - Tarefas executadas para a entrega 7*<br><br>
+
 </center>
 
 ## <a>Bibliografia</a>
 
-[1] BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
-[2] Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022
+[1] BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022.
+
+[2] Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022.

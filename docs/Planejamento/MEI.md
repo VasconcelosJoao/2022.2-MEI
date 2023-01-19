@@ -7,8 +7,12 @@
 |20/11/2022|21/11/2022|1.0|Criação do Documento| [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff)
 |20/11/2022|21/11/2022|1.1|Ajustes gerais e complementações| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 |29/11/2022|30/11/2022|1.2|Correção no Historico de Versão| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
+|19/01/2023|20/01/2023|1.3|Correções com base na verificação| [Ana Luiza](https://github.com/AnHoff)|
 
+## <a>Introdução</a>
 Existe um documento que comenta um pouco sobre cada um dos aplicativos analisados e que poderiam ser utilizados para o desenvolvimento desse projeto é recomendado ler tal documento e entender o que é o MEI.
+
+O presente documento foca em apresentar o MEI, com suas principais funcionalidades e motivos de escolha, seguido pelos problemas encontrados.
 
 ## <a>Motivos de escolha</a>
 O MEI é um aplicativo ligado ao Portal do Empreendedor, sendo um dos motivos mais relevantes para a escolha desse aplicativo a existência de uma ampla amostra de usuários. Tal público alvo abundante pode ser facilmente encontrado para auxiliar no desenvolvimento do projeto em questão, fator extremamente relevante para um bom andamento do mesmo. As funcionalidades do aplicativo serão apresentadas em seguida.
@@ -70,6 +74,11 @@ Essa é uma função que consta como nova, através dessa opção o usuário é 
 Essa é uma etapa que redireciona para um PDF, que proporciona ao usuário acesso a situações de dúvidas comuns.
 <br>
 Essa tela também permite acesso ao FAQ para retirar dúvidas e auxílio com o aplicativo. [1]
+
+## <a>Problemas Encontrados</a>
+O aplicativo tem baixa segurança, visto que a forma de login exige apenas o CNPJ do usuário e, portanto, qualquer um consegue acessar a conta de outros usuários sem passar por qualquer tipo de validação ou impedimento. Seria importante melhorar ou criar outras formas de autenticação de usuário.
+
+Outro problema é o excesso de simplicidade do aplicativo, que faz com que seja necessário ir a diversas páginas externas, na internet, para realizar várias de suas atividades propostas. O design é minimalista, porém não agradável, e faltam legendas para entender certos tópicos que podem ser estranhos para um novo usuário.
 
 ## <a>Bibliografia</a>
 

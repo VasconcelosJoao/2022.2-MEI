@@ -5,12 +5,15 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos)|
+|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|
 
 ## <a>Introdução</a>
 
 Depois de definir alguns tipos de perfis de usuários e personas, foi necessário conversar com algum dos possíveis usuários do aplicativo para entender as necessidades para que o usuário continue usando o MEI.
 
-Será utilizado o modelo de **Entrevista Fechada**, ou seja, definimos perguntas que serão interessantes para o levantamentos de requisitos e irei apresentar para o entrevistado.
+Será utilizado o modelo de **Entrevista Fechada**, ou seja, definimos perguntas que serão interessantes para o levantamentos de requisitos e irei apresentar para o entrevistado. 
+
+Esse documento foca em disponibilizar os dados resultantes da entrevista realizada. Caso queira saber mais sobre a técnica de entrevista, clique [aqui](./index.md).
 
 ## <a>Dados</a>
 
@@ -75,6 +78,17 @@ Resposta: Está sempre na mão e usa frequentemente os aplicativos do governo, p
 
 Resposta: Sem dificuldades.
 
+### <a>Gravação</a>
+
+<center>
+
+<audio controls>
+  <source src="../../assets/outros/AudioEntrevistaRenan.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</center>
+
 ## <a>Requisitos Elicitados</a>
 A elicitação de requisitos levou em consideração também o nível de benefício e penalidade que cada um traria ao sistema caso seja implementado ou não. Confira a tabela 1 abaixo.
 
@@ -92,14 +106,11 @@ A elicitação de requisitos levou em consideração também o nível de benefí
 
 </center>
 
-## <a>Audio da entrevista</a>
-<audio controls>
-  <source src="../../assets/outros/AudioEntrevistaRenan.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
 **Legendas**:
 
 * ENT -> ID da entrevista
 * Nível de Benefício -> Vaira de 1 a 9, onde 1 é pouco benéfico e 9 é muito benéfico
 * Penalidade -> Varia de 1 a 9, onde 1 não gera muitos problemas e 9 impossibilita o uso do usuário
+
+## <a>Bibliografia</a>
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.

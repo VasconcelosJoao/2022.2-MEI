@@ -4,13 +4,16 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |04/12/2022|05/12/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) |[Ana Luiza](https://github.com/AnHoff)|
 |08/12/2022|09/12/2022|1.1|Adição de detalhes do método| [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff)|
-
+|19/01/2023|20/01/2023|1.2|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|
 
 ## <a>Introdução</a>
 
-A instrospecção é uma técnica utilizada para elicitar requisitos. Caso deseje saber mais detalhadamente sobre essa técnica, acesse o documento de [técnicas de elicitação](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/). Foram obtidos a partir desse método dados sobre o nível de benefício e de penalidade que cada requisito agrega ao sistema caso seja implementado ou não.
+A instrospecção é uma técnica utilizada para elicitar requisitos. Caso deseje saber mais detalhadamente sobre essa técnica, acesse o documento de [técnicas de elicitação](./index.md).
+
+Foram obtidos a partir desse método dados sobre o nível de benefício e de penalidade que cada requisito agrega ao sistema caso seja implementado ou não, além da identificação de alguns requisitos.
 
 ## <a>Elicitação através da Introspecção</a>
+A introspecção foi realizada dia 05 de dezembro de 2022 às 15h pelo celular próprio do avaliador. O sistema utilizado foi Android, no dispositivo Galaxy S10.
 
 ### Acesso ao aplicativo
 
@@ -90,9 +93,12 @@ Deve fazer download de um arquivo PDF contendo a solução de dúvidas mais freq
 
 ### Arthur Taylor 
 
-Durante a utilização do aplicativo foi desafiador encontrar algumas funcionalidades, com algumas nescessitando da realização de ações em diferentes telas. Outro ponto que deve ser ressaltado é a nescessidade de redirecionamento para um site externo ao aplicativo para a realização da declaração anual e também a nescessidade de download de um arquivo com as principais perguntas que poderia ser substitído por algum tipo de chatbot ou fórum para facilitar o usuário encontrar respostas para suas perguntas sem a necessidade de acessar um documento externo ao aplicativo.
+Durante a utilização do aplicativo foi desafiador encontrar algumas funcionalidades, com algumas necessitando da realização de ações em diferentes telas. Outro ponto que deve ser ressaltado é a necessidade de redirecionamento para um site externo ao aplicativo para a realização da declaração anual e também a nescessidade de download de um arquivo com as principais perguntas que poderia ser substitído por algum tipo de chatbot ou fórum para facilitar o encontro de respostas para suas perguntas sem a necessidade de acessar um documento externo.
 
 ## Tabela de requisitos funcionais:
+A tabela 1 abaixo apresenta os requisitos funcionais identificados.
+
+<center>
 
 |ID|Requisito|Descrição|Nível de Benefício| Penalidade |
 | :----------: |:----------:| :------: | :-----------: | :---------: |
@@ -102,10 +108,23 @@ Durante a utilização do aplicativo foi desafiador encontrar algumas funcionali
 |IS04|Restituição|Deve ser possível pedir restituição|5|3|
 |IS05|FAQ|Deve ser possível consultar perguntas e respostas frequentes|5|3|
 
+*Tabela 1 - Requisitos funcionais*
+
+</center>
+
 ## Tabela de requisitos não funcionais:
+A tabela 2 abaixo apresenta os requisitos não funcionais identificados.
+<center>
 
 |ID|Requisito|Descrição|Nível de Benefício| Penalidade |
 | :----------: |:----------:| :------: | :-----------: | :---------: |
 |IS06|Compatibilidade|O aplicativo deve ser suportado pelos principais sistemas mobile|9|7|
 |IS07|Segurança|Deve se exigir um CNPJ para acesso do aplicativo|8|8|
 |IS08|Facilidade de uso|O aplicativo deve ser de fácil entendimento e uso por seus usuários|6|7|
+
+*Tabela 2 - Requisitos não funcionais*
+
+</center>
+
+## <a>Bibliografia</a>
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.
