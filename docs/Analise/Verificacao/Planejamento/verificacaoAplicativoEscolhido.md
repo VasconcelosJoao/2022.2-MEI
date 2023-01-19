@@ -79,7 +79,7 @@ Por meio do checklist realizado podemos observar que:
   * 01/08 exigências está incompleta;
   * 03/08 exigencias não foi realizado;
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
   
 ## <a>Bibliografia</a>
 
