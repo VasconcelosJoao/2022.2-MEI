@@ -3,7 +3,7 @@
 |    Data    | Data Prevista de Revisão | Versão | Descrição | Autor  | Revisor |
 | :--------: | :----------------------: | :----: | :-------: | :----: | :-----: |
 | 16/01/2023 | 16/01/2023 | 1.0 | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
-| 17/01/2023 | 18/01/2023 | 1.1 | Corrige avaliação e complementa tópicos | [Ana Luiza](https://github.com/AnHoff) | - |
+| 17/01/2023 | 18/01/2023 | 1.1 | Corrige avaliação e complementa tópicos | [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [priorização de requisitos](../../../Elicitacao/tecnicas-priorizacao.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.3 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
