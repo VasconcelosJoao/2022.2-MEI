@@ -4,7 +4,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |04/12/2022|05/12/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) |[Ana Luiza](https://github.com/AnHoff)|
 |08/12/2022|09/12/2022|1.1|Adição de detalhes do método| [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff)|
-|19/01/2023|20/01/2023|1.2|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|
+|19/01/2023|20/01/2023|1.2|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)| [Arthur Taylor](https://github.com/Eruel6)|
 
 ## <a>Introdução</a>
 
