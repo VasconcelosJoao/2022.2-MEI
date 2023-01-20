@@ -64,6 +64,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |  10   |    Cada persona possui expectativas?<br>As expectativas estão de acordo com o perfil do usuário?    |     🟢    |
 |  11   |          O documento informa o método de construção das personas?                                   |     🟢    |
 |  12   |      O documento informa o porquê da quantidade de personas criadas?                                |     🟢    |
+  
 *Tabela 2 - Checklist efetivado*
 
 </center>
