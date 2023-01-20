@@ -6,7 +6,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |[Ana Luiza](https://github.com/AnHoff)|
 |04/12/2022|05/12/2022|1.1|Adição de links e detalhamento do texto| [João Lucas](https://github.com/HacKairo) |[Pedro Lucas](https://github.com/PedroLSF)|
-|19/01/2023|20/01/2023|1.2|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|
+|19/01/2023|20/01/2023|1.2|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)| [Arthur Taylor](https://github.com/Eruel6)
 
 ## <a>Introdução</a>
 Esse documento foca em apresentar dados sobre o brainstorming realizado. Caso deseje entender mais sobre a técnica brainstorming, clique [*aqui*](./index.md/). [1]
@@ -21,7 +21,7 @@ A equipe irá se dividir em 1 mediador e 3 personas, a fim de se colocar no luga
 * Mediador: Thiago Oliveira.
 * Personas: Pedro Lucas, João Lucas e Eduardo.
 
-Os dados de Salete Camargo, João Silva e Isabela Menezes, personas que serão utilizadas no brainstorming, pode ser conferido [aqui](./personas.md).
+Os dados de Salete Camargo, João Silva e Isabela Menezes, personas que serão utilizadas no brainstorming, podem ser conferidos [aqui](./personas.md).
 
 Tendo em mente a definição dos perfis, o brainstorming foi realizado e pode ser visualizado no vídeo abaixo.
 
