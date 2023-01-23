@@ -1,9 +1,10 @@
 # Forward-from
 
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 23/01/2023 |        23/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
+|    Data    | Data Prevista de Revisão | Versão |        Descrição         |                     Autor                      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :----------------------: | :--------------------------------------------: | :----------------------------------------: |
+| 23/01/2023 |        23/01/2023        |  1.0   |   Criação do documento   | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
+| 23/01/2023 |        23/01/2023        |  1.1   | Finalização do documento |   [João Lucas](https://github.com/HacKairos)   | [-](https://github.com/) |
 
 
 ## <a>Introdução</a>
@@ -59,9 +60,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                         [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                          |
 |          Tema           |                   [Feature 1 - Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                    |
 |           US            |                                                   [US01](../../Modelagem/UserCases/#11-cadastro)                                                   |
-| Status da implementação |                                                                     Incompleto                                                                     |
+| Status da implementação |                                                              Parcialmente Incompleto                                                               |
 |        Artefatos        | [L17](../../Modelagem/Lexicos/#l17-usuario)<br> [L03](../../Modelagem/Lexicos/#l03-cnpj)<br> [UC02](../../Modelagem/CasosdeUso/#uc02-cadastro)<br> |
-|     Funcionalidade      |                 <img src="./../../assets/forwardfrom/../../docs/assets/forwardfrom/Loginlogin.png" width="100" height="100"></img>                 |
+|     Funcionalidade      |                                 <img src="../../assets/forwardfrom/Loginlogin.png" width="100" height="100"></img>                                 |
 
 ### <a>BS02</a>
 
@@ -70,9 +71,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |    [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)     |
 |          Tema           |       [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)        |
 |           US            |                               [US03](../../Modelagem/UserCases/#21-login)                                |
-| Status da implementação |                                  "Status da implementação do requisito"                                  |
+| Status da implementação |                                                 Completo                                                 |
 |        Artefatos        | [L01](../../Modelagem/Lexicos/#l01-acessar)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login)<br> |
-|     Funcionalidade      |                      "Vídeo/print da tela onde esta implementada a funcionalidade"                       |
+|     Funcionalidade      |              <img src="../../assets/forwardfrom/Login.gif" width="100" height="100"></img>               |
 
 ### <a>BS03</a>
 
@@ -81,9 +82,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                                  [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                   |
 |          Tema           |                             [Feature 4 - Notificações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                             |
 |           US            |                                                  [US05](../../Modelagem/UserCases/#31-lembrete)                                                  |
-| Status da implementação |                                                      "Status da implementação do requisito"                                                      |
+| Status da implementação |                                                                    Incompleto                                                                    |
 |        Artefatos        | [L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L07](../../Modelagem/Lexicos/#l07-das)<br> [UC04](../../Modelagem/CasosdeUso/#uc04-lembrete)<br> |
-|     Funcionalidade      |                                          "Vídeo/print da tela onde esta implementada a funcionalidade"                                           |
+|     Funcionalidade      |                               <img src="../../assets/forwardfrom/MenuInicial.png" width="100" height="100"></img>                                |
 
 ### <a>BS06</a>
 
@@ -92,9 +93,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                        [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                         |
 |          Tema           |                   [Feature 4 - Notificações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                   |
 |           US            |                                         [US06](../../Modelagem/UserCases/#32-aviso)                                          |
-| Status da implementação |                                            "Status da implementação do requisito"                                            |
+| Status da implementação |                                                          Imcompleto                                                          |
 |        Artefatos        |                                          [L10](../../Modelagem/Lexicos/#l10-exibir)                                          |
-|     Funcionalidade      |                                "Vídeo/print da tela onde esta implementada a funcionalidade"                                 |
+|     Funcionalidade      |                         <img src="../../assets/forwardfrom/DAS.png" width="100" height="100"></img>                          |
 
 ### <a>BS07</a>
 
@@ -103,9 +104,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                                               [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                               |
 |          Tema           |                                         [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                         |
 |           US            |                                                          [US11](../../Modelagem/UserCases/#41-chat)                                                           |
-| Status da implementação |                                                            "Status da implementação do requisito"                                                             |
+| Status da implementação |                                                                          Imcompleto                                                                           |
 |        Artefatos        | [C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L17](../../Modelagem/Lexicos/#l17-usuario)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br> |
-|     Funcionalidade      |                                                 "Vídeo/print da tela onde esta implementada a funcionalidade"                                                 |
+|     Funcionalidade      |                                      <img src="../../assets/forwardfrom/MenuInicial.png" width="100" height="100"></img>                                      |
 
 ### <a>ENT05</a>
 
@@ -114,9 +115,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                           [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                            |
 |          Tema           |                              [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                               |
 |           US            |                                                      [US03](../../Modelagem/UserCases/#21-login)                                                       |
-| Status da implementação |                                                         "Status da implementação do requisito"                                                         |
+| Status da implementação |                                                                       Incompleto                                                                       |
 |        Artefatos        | [L01](../../Modelagem/Lexicos/#l01-acessar)<br> [L05](../../Modelagem/Lexicos/#l05-conta)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login)<br> |
-|     Funcionalidade      |                                             "Vídeo/print da tela onde esta implementada a funcionalidade"                                              |
+|     Funcionalidade      |                                   <img src="../../assets/forwardfrom/Loginlogin.png" width="100" height="100"></img>                                   |
 
 ### <a>IS01</a>
 
@@ -125,9 +126,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                           [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                           |
 |          Tema           |                              [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                              |
 |           US            |                                                      [US03](../../Modelagem/UserCases/#21-login)                                                      |
-| Status da implementação |                                                        "Status da implementação do requisito"                                                         |
+| Status da implementação |                                                                       Completo                                                                        |
 |        Artefatos        | [L01](../../Modelagem/Lexicos/#l01-acessar)<br> [L03](../../Modelagem/Lexicos/#l03-cnpj)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login)<br> |
-|     Funcionalidade      |                                             "Vídeo/print da tela onde esta implementada a funcionalidade"                                             |
+|     Funcionalidade      |                                <img src="../../assets/forwardfrom/CodigodeAcesso.png" width="100" height="100"></img>                                 |
 
 ### <a>IS02</a>
 
@@ -136,9 +137,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                                [Financeiro](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                                 |
 |          Tema           |                            [Feature 6 - Boletos](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                            |
 |           US            |                                          [US14](../../Modelagem/UserCases/#51-emitir-boletos)                                          |
-| Status da implementação |                                                 "Status da implementação do requisito"                                                 |
+| Status da implementação |                                                                Completo                                                                |
 |        Artefatos        | [C01](../../Modelagem/Cenarios/#cenarios_1)<br> [L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L07](../../Modelagem/Lexicos/#l07-das) |
-|     Funcionalidade      |                                     "Vídeo/print da tela onde esta implementada a funcionalidade"                                      |
+|     Funcionalidade      |                              <img src="../../assets/forwardfrom/DAS.png" width="100" height="100"></img>                               |
 
 ### <a>IS03</a>
 
@@ -147,9 +148,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                                                        [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                        |
 |          Tema           |                                                     [Feature 5 - Perfil](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                      |
 |           US            |                                                                   [US16](../../Modelagem/UserCases/#53-informacoes-cnpj)                                                                    |
-| Status da implementação |                                                                           "Status da implementação do requisito"                                                                            |
+| Status da implementação |                                                                                          Completo                                                                                           |
 |        Artefatos        | [C06](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br>[L11](../../Modelagem/Lexicos/#l11-informacao)<br>[L03](../../Modelagem/Lexicos/#l03-cnpj) |
-|     Funcionalidade      |                                                                "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                |
+|     Funcionalidade      |                                                        <img src="../../assets/forwardfrom/cnpj.png" width="100" height="100"></img>                                                         |
 
 ### <a>IS04</a>
 
@@ -158,9 +159,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |              [Financeiro](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)              |
 |          Tema           |       [Feature 7 - Restituição](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)        |
 |           US            |                    [US15](../../Modelagem/UserCases/#52-solicitar-restituicao)                    |
-| Status da implementação |                              "Status da implementação do requisito"                               |
+| Status da implementação |                                             Completo                                              |
 |        Artefatos        | [C10](../../Modelagem/Cenarios/#cenarios_1)<br> [L15](../../Modelagem/Lexicos/#l15-restituir)<br> |
-|     Funcionalidade      |                   "Vídeo/print da tela onde esta implementada a funcionalidade"                   |
+|     Funcionalidade      |          <img src="../../assets/forwardfrom/Pedido.png" width="100" height="100"></img>           |
 
 ### <a>IS05</a>
 
@@ -169,9 +170,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                                                [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                                |
 |          Tema           |                                          [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                          |
 |           US            |                                                            [US13](../../Modelagem/UserCases/#43-faq)                                                            |
-| Status da implementação |                                                             "Status da implementação do requisito"                                                              |
+| Status da implementação |                                                                           Incompleto                                                                            |
 |        Artefatos        | [C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br> |
-|     Funcionalidade      |                                                  "Vídeo/print da tela onde esta implementada a funcionalidade"                                                  |
+|     Funcionalidade      |                                       <img src="../../assets/forwardfrom/MenuInicial.png" width="100" height="100"></img>                                       |
 
 ## <a>Requisitos Não-Funcionais</a>
 ### <a>BS04</a>
@@ -180,7 +181,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :------------------------------------------------------------------: |
 |           NFR           |    [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)     |
 |           ES            | [Performance](../../Modelagem/EspecificacaoSuplementar/#performance) |
-| Status da implementação |                "Status da implementação do requisito"                |
+| Status da implementação |                               Completo                               |
 
 ### <a>BS05</a>
 
@@ -188,7 +189,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :---------------------------------------------------------------------------------: |
 |           NFR           |            [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)            |
 |           ES            |     [Confiabilidade](../../Modelagem/EspecificacaoSuplementar/#confiabilidade)      |
-| Status da implementação |                       "Status da implementação do requisito"                        |
+| Status da implementação |                                     Incompleto                                      |
 
 ### <a>BS08</a>
 
@@ -196,7 +197,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :------------------------------------------------------------------------------------: |
 |           NFR           |        [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)         |
 |           ES            |      [Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade)      |
-| Status da implementação |                         "Status da implementação do requisito"                         |
+| Status da implementação |                                        Completo                                        |
 
 ### <a>BS09</a>
 
@@ -204,7 +205,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 |           NFR           |                                   [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)                                    |
 |           ES            |                                                                   [-]()                                                                    |
-| Status da implementação |                                                   "Status da implementação do requisito"                                                   |
+| Status da implementação |                                                                  Completo                                                                  |
 
 ### <a>BS010</a>
 
@@ -212,7 +213,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :--------------------------------------------------------------------------: |
 |           NFR           |   [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)    |
 |           ES            | [Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) |
-| Status da implementação |                    "Status da implementação do requisito"                    |
+| Status da implementação |                                   Completo                                   |
 
 ### <a>BS011</a>
 
@@ -220,7 +221,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :----------------------------------------------------------------------------------------------------------------: |
 |           NFR           |                          [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)                           |
 |           ES            |                        [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)                        |
-| Status da implementação |                                       "Status da implementação do requisito"                                       |
+| Status da implementação |                                                      Completo                                                      |
 
 ### <a>BS012</a>
 
@@ -228,7 +229,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :------------------------------------------------------------------: |
 |           NFR           |   [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)    |
 |           ES            | [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade) |
-| Status da implementação |                "Status da implementação do requisito"                |
+| Status da implementação |                               Completo                               |
 
 ### <a>ENT01</a>
 
@@ -236,7 +237,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :------------------------------------------------------------------------------------: |
 |           NFR           |         [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)          |
 |           ES            |                                         [-]()                                          |
-| Status da implementação |                         "Status da implementação do requisito"                         |
+| Status da implementação |                                        Completo                                        |
 
 ### <a>ENT02</a>
 
@@ -244,7 +245,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :---------------------------------------------------------------------------------: |
 |           NFR           |            [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)            |
 |           ES            |                                        [-]()                                        |
-| Status da implementação |                       "Status da implementação do requisito"                        |
+| Status da implementação |                                      Completo                                       |
 
 ### <a>ENT03</a>
 
@@ -252,7 +253,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :--------------------------------------------------------------: |
 |           NFR           | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)  |
 |           ES            |                              [-]()                               |
-| Status da implementação |              "Status da implementação do requisito"              |
+| Status da implementação |                             Completo                             |
 
 ### <a>ENT04</a>
 
@@ -260,7 +261,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :--------------------------------------------------------------------------------: |
 |           NFR           |           [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)            |
 |           ES            |        [Performance](../../Modelagem/EspecificacaoSuplementar/#performance)        |
-| Status da implementação |                       "Status da implementação do requisito"                       |
+| Status da implementação |                                      Completo                                      |
 
 ### <a>IS06</a>
 
@@ -268,7 +269,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :--------------------------------------------------------------------------: |
 |           NFR           |   [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)    |
 |           ES            | [Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) |
-| Status da implementação |                    "Status da implementação do requisito"                    |
+| Status da implementação |                                   Completo                                   |
 
 ### <a>IS07</a>
 
@@ -276,7 +277,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :-----------------------------------------------------------------------------------: |
 |           NFR           |         [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)         |
 |           ES            |         [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)          |
-| Status da implementação |                        "Status da implementação do requisito"                         |
+| Status da implementação |                                       Completo                                        |
 
 ### <a>IS08</a>
 
@@ -284,7 +285,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 | :---------------------: | :---------------------------------------------------------------------------------------------------------: |
 |           NFR           |                       [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)                       |
 |           ES            |                    [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)                     |
-| Status da implementação |                                   "Status da implementação do requisito"                                    |
+| Status da implementação |                                                  Completo                                                   |
 
 ## <a>Referencias</a>
 
