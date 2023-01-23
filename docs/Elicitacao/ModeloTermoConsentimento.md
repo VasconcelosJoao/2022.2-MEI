@@ -4,7 +4,11 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |08/12/2022|09/12/2022|1.0|Criação do Modelo| [Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)
-|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|
+|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff) e [Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)
+
+## Intrudoção
+Este documento tem como objetivo ser um modelo para a criação dos termos de consentimentos que serão utilizados para a reliazação das entrevistas e/ou qualquer 
+meio de interação com algum usuário do MEI, externo ao projeto.
 
 ## <a>TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO</a>
 
@@ -38,3 +42,6 @@ Tendo em vista os itens acima apresentados, eu, de forma livre e esclarecida, ma
 **Assinatura do Pesquisador**:
 
 **Pesquisadores**: 
+
+## Bibliografia
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
