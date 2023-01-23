@@ -176,114 +176,114 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 ## <a>Requisitos Não-Funcionais</a>
 ### <a>BS04</a>
 
-|          BS04           |           "Identificador do requisito"            |
+|          BS04           |O aplicativo deve obter dados dentro do próprio aplicativo|
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Desempenho](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#desempenho)|
+|           ES            |[Performance](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#performance) |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>BS05</a>
 
-|          BS05           |           "Identificador do requisito"            |
+|          BS05           |O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Desempenho](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#desempenho)|
+|           ES            |[Confiabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#confiabilidade)|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>BS08</a>
 
-|          BS08           |           "Identificador do requisito"            |
+|          BS08           |O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos|
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Suportabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#suportabilidade)|
+|           ES            |[Suportabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#suportabilidade) |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>BS09</a>
 
-|          BS09           |           "Identificador do requisito"            |
+|          BS09           |           O aplicativo deve validar a [pessoa](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario) que está utilizando o [CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)|
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Confiabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#confiabilidade)|
+|           ES            | [-]() |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>BS010</a>
 
-|          BS010          |           "Identificador do requisito"            |
+|          BS010          |           O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO           |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Suportabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#suportabilidade)|
+|           ES            | [Suportabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#suportabilidade) |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>BS011</a>
 
-|          BS011          |           "Identificador do requisito"            |
+|          BS011          |           O aplicativo deve ser acessível para [usuário](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario) com algum tipo de deficiência            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#usabilidade)|
+|           ES            |[Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#usabilidade)|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>BS012</a>
 
-|          BS012          |           "Identificador do requisito"            |
+|          BS012          |           O aplicativo deve conter texto que seja de fácil entendimento            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           | [SIG de Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#usabilidade)|
+|           ES            |[Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#usabilidade)|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>ENT01</a>
 
-|          ENT01          |           "Identificador do requisito"            |
+|          ENT01          |O aplicativo deve solicitar o [CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj) apenas uma vez |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Confiabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#confiabilidade)|
+|           ES            |[-]()|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>ENT02</a>
 
-|          ENT02          |           "Identificador do requisito"            |
+|          ENT02          |           O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Desempenho](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#desempenho)|
+|           ES            |[-]()|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>ENT03</a>
 
-|          ENT03          |           "Identificador do requisito"            |
+|          ENT03          |          O aplicativo deve evitar os erros e telas brancas através do uso	            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#usabilidade)|
+|           ES            |[-]() |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>ENT04</a>
 
-|          ENT04          |           "Identificador do requisito"            |
+|          ENT04          |          O aplicativo deve salvar as [informações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l11-informacao)            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Desempenho](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#desempenho)|
+|           ES            |[Performance](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#performance)|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>IS06</a>
 
-|          IS06           |           "Identificador do requisito"            |
+|          IS06           |           O aplicativo deve ser suportado pelos principais sistemas mobile            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Suportabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#suportabilidade)|
+|           ES            |[Suportabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#suportabilidade) |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>IS07</a>
 
-|          IS07           |           "Identificador do requisito"            |
+|          IS07           |          Deve se exigir um [CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj) para acesso do aplicativo            |
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Confiabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#confiabilidade)|
+|           ES            | [Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#usabilidade) |
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ### <a>IS08</a>
 
-|          IS08           |           "Identificador do requisito"            |
+|          IS08           |O aplicativo deve ser de fácil entendimento e uso por seus [usuários](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario)|
 | :---------------------: | :-----------------------------------------------: |
-|           NFR           |            "NFR derivado do requisito"            |
-|           ES            | "Especificação Suplementar derivada do requisito" |
+|           NFR           |[SIG de Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/#usabilidade)|
+|           ES            |[Usabilidade](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/#usabilidade)|
 | Status da implementação |      "Status da implementação do requisito"       |
 
 ## <a>Referencias</a>
