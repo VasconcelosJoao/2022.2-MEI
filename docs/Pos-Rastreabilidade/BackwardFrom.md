@@ -54,8 +54,14 @@ _Tabela 1 - Exemplo_
 |          RF6            |O Usuário deve conseguir ativar lembretes para o pagamento do DAS|[BS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)|
 |          RF7            |O Usuário deve conseguir ir até o final da operação antes de realizar outra ação|[ENT2](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)|
 |          RF8            |O Usuário deve conseguir utilizar o sistema sem erros|[ENT3](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)|
-|          RF9            |O Usuário deve conseguir utilizar o sistema em diversos aparelhos|[BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
-|          RF8            |O Usuário deve conseguir utilizar o sistema sem erros|[ENT3](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)|
+|          RF9            |O Usuário deve conseguir utilizar o sistema em diversos aparelhos|[BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e [BS10](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)|
+|          RF10            |O Sistema deve validar o CNPJ utilizado|[BS09](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
+|          RF11            |O Sistema deve abranger todos os tipos de usuários|[BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
+|          RF12            |O Sistema deve abranger todos os tipos de usuários|[BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)|
+|          RF14            |O Usuário deve conseguir emitir o DAS|[IS02](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
+|          RF15            |O Usuário deve conseguir obter informações sobre o status do seu CNPJ|[IS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
+|          RF16            |O Usuário deve conseguir solicitar Restituição|[IS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
+
 
 
 
