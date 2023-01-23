@@ -18,14 +18,12 @@ A matriz possui 8 colunas com o propósito de promover os dados de forma mais cl
     * 🟢: o requisito está completamente implementado;
     * 🟡: o requisito está parcialmente implementado;
     * 🔴: o requisito não foi implementado;
-* **Backward-From**: link para seu rastro em backward-from;
 * **Forward-From**: link para seu rastro em forward-from.
 
 ## <a>Matriz Geral</a>
 A tabela 1 abaixo apresenta a matriz elaborada:
 
 <center>
-
   
 |  ID   | Descrição | Elicitação | Artefatos | Implementação  | Forward-from |
 | :---: | :-------: | :--------: | :-------: | :------------: | :----------: |
@@ -40,6 +38,20 @@ A tabela 1 abaixo apresenta a matriz elaborada:
 | RF09  | Deve ser possível [Consultar](../../Modelagem/Lexicos/#l04-consultar) [informações](../../Modelagem/Lexicos/#l11-informacao) do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) | Introspecção | [US16](../../Modelagem/UserCases/#53-informacoes-cnpj)<br>[C06](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br>[L11](../../Modelagem/Lexicos/#l11-informacao)<br>[L03](../../Modelagem/Lexicos/#l03-cnpj) | 🟢  | [IS03](../ForwardFrom/#is03)|
 | RF10  | Deve ser possível pedir [restituição](../../Modelagem/Lexicos/#l15-restituir) | Introspecção | [US15](../../Modelagem/UserCases/#52-solicitar-restituicao)<br>[C10](../../Modelagem/Cenarios/#cenarios_1)<br> [L15](../../Modelagem/Lexicos/#l15-restituir) | 🟢  | [IS04](../ForwardFrom/#is04)|
 | RF11  | Deve ser possível [consultar](../../Modelagem/Lexicos/#l04-consultar) perguntas e respostas frequentes | Introspecção | [US13](../../Modelagem/UserCases/#43-faq)<br>[C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte) | 🟡  | [IS05](../ForwardFrom/#is05)|
+| RNF01  | O aplicativo deve obter dados dentro do próprio aplicativo | Brainstorm | [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)<br>[Performance](../../Modelagem/EspecificacaoSuplementar/#performance) | 🟢  | [BS04](../ForwardFrom/#bs04)|
+| RNF02  | O aplicativo deve solicitar autorização para pegar dados de outros sites do governo | Brainstorm | [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)<br>[Confiabilidade](../../Modelagem/EspecificacaoSuplementar/#confiabilidade) | 🔴  | [BS05](../ForwardFrom/#bs05)|
+| RNF03  | O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos | Brainstorm | [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)<br>[Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) | 🟢  | [BS08](../ForwardFrom/#bs08)|
+| RNF04  | O aplicativo deve validar a [pessoa](../../Modelagem/Lexicos/#l17-usuario) que está utilizando o [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) | Brainstorm | [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade) | 🟢  | [BS09](../ForwardFrom/#bs09)|
+| RNF05  | O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO | Brainstorm | [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)<br>[Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) | 🟢  | [BS10](../ForwardFrom/#bs010)|
+| RNF06  | O aplicativo deve ser acessível para [usuário](../../Modelagem/Lexicos/#l17-usuario) com algum tipo de deficiência | Brainstorm | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)<br> [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade) | 🟢  | [BS11](../ForwardFrom/#bs011)|
+| RNF07  | O aplicativo deve conter texto que seja de fácil entendimento | Brainstorm | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)<br> [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade) | 🟢  | [BS12](../ForwardFrom/#bs012)|
+| RNF08  | O aplicativo deve solicitar o [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) apenas uma vez | Entrevista | [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade) | 🟢  | [ENT01](../ForwardFrom/#ent01)|
+| RNF09  | O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa | Entrevista | [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho) | 🟢  | [ENT02](../ForwardFrom/#ent02)|
+| RNF10  | O aplicativo deve evitar os erros e telas brancas através do uso | Entrevista | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade) | 🟢  | [ENT03](../ForwardFrom/#ent03)|
+| RNF11  | O aplicativo deve salvar as [informações](../../Modelagem/Lexicos/#l11-informacao) | Entrevista | [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)<br>[Performance](../../Modelagem/EspecificacaoSuplementar/#performance) | 🟢  | [ENT04](../ForwardFrom/#ent04)|
+| RNF12  |  O aplicativo deve ser suportado pelos principais sistemas mobile | Instrospecção | [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)<br>[Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade)| 🟢  | [IS06](../ForwardFrom/#is06)|
+| RNF13  | Deve se exigir um [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) para acesso do aplicativo | Instrospecção | [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)<br> [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)| 🟢  | [IS07](../ForwardFrom/#is07)|
+| RNF14  | O aplicativo deve ser de fácil entendimento e uso por seus [usuários](../../Modelagem/Lexicos/#l17-usuario) | Instrospecção | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)<br>[Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade) | 🟢  | [IS08](../ForwardFrom/#is08)|
 
 *Tabela 1 - Matriz Geral*
 
