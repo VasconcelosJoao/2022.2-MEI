@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão | Descrição | Autor  | Revisor |
 | :--------: | :----------------------: | :----: | :-------: | :----: | :-----: |
-| 22/01/2023 | 23/01/2023 | 1.0 | Criação do documento | [Ana Luiza](https://github.com/AnHoff) |  |
+| 22/01/2023 | 23/01/2023 | 1.0 | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6) |
 
 ## <a>Introdução</a>
 A matriz geral elaborada e apresentada neste documento tem o objetivo de melhorar a visualização da pós-rastreabilidade dos requisitos identificados durante o projeto. A matriz reúne informações presentes nos documentos [Backward-From](./BackwardFrom.md) e [Forward-From](./ForwardFrom.md). [1]
