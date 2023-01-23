@@ -5,12 +5,41 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |09/12/2022|10/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo](https://github.com/edudsan)|[Thiago Oliveira](https://github.com/Thiab394) |
 |10/12/2022|11/12/2022|1.1|Adição Dos Diagramas de Caso de Uso| [Thiago Oliveira](https://github.com/Thiab394)| [Pedro Lucas](https://github.com/PedroLSF)|
+|22/01/2022|23/01/2022|1.2|Correção do Documento de acordo com a verificação| [Thiago Oliveira](https://github.com/Thiab394)| [-](https://github.com/)|
 
 ## <a>Introdução</a>
 Um caso de uso define uma sequência de ações executadas pelo sistema que geram um resultado de valor observável para um ator em particular. Cada caso de uso deve gerar um significado de valor para o ator que utiliza o sistema.
 
 ## <a>Metodologia</a>
 Após a elicitação de requisitos funcionais, o grupo escolheu os principais requisitos para o desenvolvimento de tabelas e diagramas de casos de uso.
+
+Como podemos ver na "Figura 1", o diagrama geral de casos de uso do MEI, sem muitos detalhes e em seguida os diagramas especificos de cada caso de uso, representando
+todos seus fluxos, sendo eles respectivamente as "Figuras" de 2 até 6, e as tabelas dos UC's, representadas respectivamente pelas "Tabelas" de 1 a 5.
+
+Modelo de tabela de Caso de Uso:
+
+|**UC0X**|*Titulo do UC*|
+| :----------: |:-----------|
+|Versão|*Versão do UC*|
+|Autores|*Autores do UC*|
+|Descrição|*Descrição do UC*|
+|Atores|*Atores do UC*|
+|Pré Condições|*Pré Condições do UC*|
+|Fluxo Principal|*Fluxo Principal do UC em topicos*|
+|Fluxo Alternativo|*Fluxo Altenativo do UC em topicos*|
+|Fluxo de Exceção|*Fluxo de exceção do UC em topicos* |
+|Pós Condições|*Pos condições do UC*|
+|Rastreabilidade|*Rastreabilidade do UC*|
+
+Explicação dos elementos:<br>
+**Atores:** Representa os atores, podendo ser pessoas, instituições ou até sistemas do site ou app, que interagem com o caso de uso diretamente<br>
+**Pré Condições:** Indica as condições para que pelo menos um dos fluxos seja atendido completamente <br>
+**Fluxo Principal:** Representa o fluxo que ocorrerá com mais frequência quando o usuário utilizar tal recurso representado no caso de uso<br>
+**Fluxo Alternativo:** Representa o fluxo mais relevante que ocorrerá com menos frequencia que o fluxo principal<br>
+**Fluxo de Exceção:** Representa a exceção do recurso representado no caso de uso, normalmente sendo a recusação da funcionalidade ou saída da mesma<br>
+**Pós Condições:** Indica as condições que obrigatoriamente ocorrerão após a realização de cada fluxo<br>
+**Rastreabilidade:** Indica a rastreabilidade utilizada pra criação do caso de uso<br>
+
 
 ## <a>Casos de Uso</a>
 Legenda:
@@ -53,7 +82,7 @@ Legenda:
 |Versão|Atual: 1.0 (10/12)|
 |Autores|Pedro Lucas e Thiago|
 |Descrição|Enviar as documentações necessárias para virar MEI|
-|Atores|> Usuário <br> > MEI|
+|Atores|> Usuário <br> > MEI <br> > Serviço de Autenticação do MEI|
 |Pré Condições|> Não ser MEI|
 |Fluxo Principal|> Usuário acessa o MEI <br> > Usuário clica em "Criar CNPJ" <br> > Usuário envia todas as documentações <br>|
 |Fluxo Alternativo|Por ser um processo burocrático, não tem fluxo alternativo|
@@ -118,10 +147,10 @@ Legenda:
 |Versão|Atual: 1.0 (10/12)|
 |Autores|Pedro Lucas e Thiago|
 |Descrição|Autorizar acesso a dados externos|
-|Atores|> Usuário <br> > MEI|
+|Atores|> Usuário <br> > MEI <br> > Serviço de Autorização do MEI|
 |Pré Condições|> Estar Logado|
 |Fluxo Principal|> Usuário acessa o MEI <br> > Usuário digita o CNPJ <br> > Usuário digita sua senha <br> > Usuário clica em "Acessar" <br> > Usuário autoriza a utilização de outros sites do governo|
-|Fluxo Alternativo|Não será utilizado|
+|Fluxo Alternativo|Por ser um processo burocrático, não tem fluxo alternativo|
 |Fluxo de Exceção|**Fluxo de Exceção 1 - Recusar** <br> > Usuário recusa a utilização|
 |Pós Condições|Usuário pode realizar outras operações sem necessitar de sites externos do Governo|
 |Rastreabilidade|BS04 e BS05|
@@ -131,5 +160,6 @@ Legenda:
 </center>
 
 ## <a>Referências Bibliográficas</a>
-- Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 10 de dezembro de 2022
+[1] Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 10 de dezembro de 2022
 
+[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 09 de janeiro de 2023
