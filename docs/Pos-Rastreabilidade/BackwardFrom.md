@@ -47,15 +47,15 @@ _Tabela 1 - Exemplo_
 |  RF4  |      O Usuário deve receber avisos para as operações realizadas com sucesso      |                                              [BS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [ENT4](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)                                              |
 |  RF5  |                O Usuário deve ter acesso ao suporte do aplicativo                |                                             [BS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                             |
 |  RF6  |        O Usuário deve conseguir ativar lembretes para o pagamento do DAS         |                                                                                        [BS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)                                                                                        |
-|  RF7  | O Usuário deve conseguir ir até o final da operação antes de realizar outra ação |                                              [ENT2](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)                                              |
-|  RF8  |              O Usuário deve conseguir utilizar o sistema sem erros               |                                              [ENT3](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)                                              |
-|  RF9  |        O Usuário deve conseguir utilizar o sistema em diversos aparelhos         | [BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e [BS10](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) |
-| RF10  |                     O Sistema deve validar o CNPJ utilizado                      |                                             [BS09](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                             |
-| RF11  |                O Sistema deve abranger todos os tipos de usuários                |                                             [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                             |
-| RF12  |                O Sistema deve abranger todos os tipos de usuários                | [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) |
-| RF14  |                      O Usuário deve conseguir emitir o DAS                       |                                                                                        [IS02](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                                                                         |
-| RF15  |      O Usuário deve conseguir obter informações sobre o status do seu CNPJ       |                                                                                        [IS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                                                                         |
-| RF16  |                  O Usuário deve conseguir solicitar Restituição                  |                                                                                        [IS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                                                                         |
+|  RNF7  | O Usuário deve conseguir ir até o final da operação antes de realizar outra ação |                                              [ENT2](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)                                              |
+|  RNF8  |              O Usuário deve conseguir utilizar o sistema sem erros               |                                              [ENT3](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/), [BS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)                                              |
+|  RNF9  |        O Usuário deve conseguir utilizar o sistema em diversos aparelhos         | [BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e [BS10](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) |
+| RNF10  |                     O Sistema deve validar o CNPJ utilizado                      |                                             [BS09](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                             |
+| RNF11  |                O Sistema deve abranger todos os tipos de usuários                |                                             [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                             |
+| RNF12  |                O Sistema deve abranger todos os tipos de usuários                | [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/), [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) |
+| RF13  |                      O Usuário deve conseguir emitir o DAS                       |                                                                                        [IS02](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                                                                         |
+| RF14  |      O Usuário deve conseguir obter informações sobre o status do seu CNPJ       |                                                                                        [IS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                                                                         |
+| RF15  |                  O Usuário deve conseguir solicitar Restituição                  |                                                                                        [IS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)                                                                                         |
 
 # Elos funcionais
 
@@ -130,7 +130,7 @@ Brainstorm: BS03
 * Não possui artefatos para moldar o elo
 
 
-### RF7
+### RNF7
 
 **Categoria:** Desenvolvimento
 
@@ -142,7 +142,7 @@ Entrevista: ENT2
 Agregação: ENT2  Agrega: BS04
 
 
-### RF8
+### RNF8
 
 **Categoria:** Desenvolvimento
 
@@ -154,7 +154,7 @@ Entrevista: ENT3
 Agregação: BS05  Agrega: ENT3
 
 
-### RF9
+### RNF9
 
 **Categoria:** Desenvolvimento
 
@@ -167,7 +167,7 @@ Agregação: IS06  Agrega: BS08 e BS10
 Representação: BS08 e BS10   Representa: IS06
 
 
-### RF10
+### RNF10
 
 **Categoria:** Desenvolvimento
 
@@ -179,7 +179,7 @@ Introspecção: IS07
 Agregação: BS09  Agrega: IS07 
 
 
-### RF11
+### RNF11
 
 **Categoria:** Desenvolvimento
 
@@ -191,7 +191,7 @@ Introspecção: IS08
 Agregação: BS11  Agrega: IS08
 
 
-### RF12
+### RNF12
 
 **Categoria:** Desenvolvimento
 
