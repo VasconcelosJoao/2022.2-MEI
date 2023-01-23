@@ -2,8 +2,8 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |          Descrição          |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :-------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 14/01/2023 |        15/01/2023        |  1.0   |    Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [joão Lucas](https://github.com/HacKairos) |
-| 15/01/2023 |        15/01/2023        |  1.0   | Adição do prototipo e video | [joão Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+| 14/01/2023 |        15/01/2023        |  1.0   |    Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [João Lucas](https://github.com/HacKairos) |
+| 15/01/2023 |        15/01/2023        |  1.0   | Adição do protótipo e vídeo | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução</a>
 Um protótipo é a representação limitada do design que permite aos stakeholders interagir com o produto a fim de adquirir experiências sobre como utilizá-lo. [1]
@@ -18,7 +18,7 @@ No caso desse projeto, o objetivo de criar esse protótipo é simples: reformula
 No protótipo apresentado a seguir, é possível acessar 4 das funções existentes hoje. Além disso, uma nova forma de login é sugerida, sendo possível logar tanto pelo código de acesso quanto pelo gov.br.
 
 ## <a>Protótipo</a>
-A seguir, é possivel visualizar todo o protótipo de alta fidelidade e seu funcionamento.
+A seguir, é possivel visualizar todo o protótipo de alta fidelidade, elaborado por João e Arthur, e seu funcionamento.
 
 <center>
 

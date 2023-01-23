@@ -8,7 +8,7 @@
 A matriz geral elaborada e apresentada neste documento tem o objetivo de melhorar a visualização da pós-rastreabilidade dos requisitos identificados durante o projeto. A matriz reúne informações presentes nos documentos [Backward-From](./BackwardFrom.md) e [Forward-From](./ForwardFrom.md). [1]
 
 ## <a>Metodologia</a>
-A matriz possui 8 colunas, são elas:
+A matriz possui 8 colunas com o propósito de promover os dados de forma mais clara e completa possível. São elas:
 
 * **ID**: identificação de cada item da matriz;
 * **Descrição**: título ou resumo dos itens da matriz;
