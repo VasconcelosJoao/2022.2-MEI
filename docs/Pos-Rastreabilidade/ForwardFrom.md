@@ -49,121 +49,121 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 ## 4. Requisitos Funcionais
 ### BS01
 
-|           BS01            |"Identificador do requisito"|
+|           BS01            |O aplicativo deve instruir o [usuário](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario) para a criação do [CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Cadastro e Autenticação](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|          Tema           |[Feature 1 - Cadastro e Autenticação](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|           US            |[US01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#11-cadastro)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS02
 
-|           BS02            |"Identificador do requisito"|
+|           BS02            |Implementação de um sistema de [login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l01-acessar)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Cadastro e Autenticação](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|          Tema           |[Feature 2 - Login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|           US            |[US03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#21-login)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS03
 
-|           BS03            |"Identificador do requisito"|
+|           BS03            |O aplicativo deve [emitir](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l09-emitir) um lembrete para o pagamento do [DAS](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l07-das)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Configurações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
+|          Tema           |[Feature 4 - Notificações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
+|           US            |[US05](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#31-lembrete)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS06
 
-|           BS06            |"Identificador do requisito"|
+|           BS06            |O aplicativo deve [mostrar](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l10-exibir) de forma clara se uma ação foi realizada com sucesso ou não|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Configurações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
+|          Tema           |[Feature 4 - Notificações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
+|           US            |[US06](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#32-aviso)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS07
 
-|           BS07            |"Identificador do requisito"|
+|           BS07            |O aplicativo deve fornecer suporte para os [usuários](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)|
+|          Tema           |[Feature 6 - Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)|
+|           US            |[US11](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#41-chat)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### ENT05
 
-|           ENT05            |"Identificador do requisito"|
+|           ENT05            |O aplicativo deve realizar o [login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l01-acessar) em mais de uma [conta](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l05-conta)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Cadastro e Autenticação](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|          Tema           |[Feature 2 - Login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|           US            |[US03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#21-login)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS01
 
-|           IS01            |"Identificador do requisito"|
+|           IS01            |Deve ser possível realizar [login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l01-acessar) a partir de um [CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Cadastro e Autenticação](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|          Tema           |[Feature 2 - Login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
+|           US            |[US03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#21-login)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS02
 
-|           IS02            |"Identificador do requisito"|
+|           IS02            |Deve ser possível [emitir](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l09-emitir) o [DAS](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l07-das)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Financeiro](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)|
+|          Tema           |[Feature 6 - Boletos](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)|
+|           US            |[US14](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#51-emitir-boletos)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS03
 
-|           IS03            |"Identificador do requisito"|
+|           IS03            |Deve ser possível [Consultar](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l04-consultar) [informações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l11-informacao) do [CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Configurações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
+|          Tema           |[Feature 5 - Perfil](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
+|           US            |[US16](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#53-informacoes-cnpj)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS04
 
-|           IS04            |"Identificador do requisito"|
+|           IS04            |Deve ser possível pedir [restituição](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l15-restituir)|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Financeiro](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)|
+|          Tema           |[Feature 7 - Restituição](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)|
+|           US            |[US15](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#52-solicitar-restituicao)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS05
 
-|           IS05            |"Identificador do requisito"|
+|           IS05            |Deve ser possível [consultar](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l04-consultar) perguntas e respostas frequentes|
 | :---------------------: | :-----------: |
-|          Épico          |"Épico onde se encontra o requisito no backlog"|
-|          Tema           |"Tema onde se encontra o requisito no backlog"|
-|           US            |"História de usuário correspondente ao requisito"|
+|          Épico          |[Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)|
+|          Tema           |[Feature 6 - Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)|
+|           US            |[US13](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#43-faq)|
 | Status da implementação |"Status da implementação do requisito"|
 |        Artefatos        |"Artefatos derivados do requisito"|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
