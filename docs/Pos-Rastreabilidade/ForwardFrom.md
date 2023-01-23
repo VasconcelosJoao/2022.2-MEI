@@ -52,6 +52,9 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 - NFR: NFR Framework
 
 ## <a>Requisitos Funcionais</a>
+
+<center>
+
 ### <a>BS01</a>
 
 |          BS01           |      O aplicativo deve instruir o [usuário](../../Modelagem/Lexicos/#l17-usuario) para a criação do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)      |
@@ -173,7 +176,12 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |        Artefatos        | [C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br> |
 |     Funcionalidade      |                                       <img src="../../assets/forwardfrom/MenuInicial.png" width="100" height="100"></img>                                       |
 
+</center>
+
 ## <a>Requisitos Não-Funcionais</a>
+
+<center>
+
 ### <a>BS04</a>
 
 |          BS04           |      O aplicativo deve obter dados dentro do próprio aplicativo      |
@@ -285,6 +293,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |           NFR           |                       [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)                       |
 |           ES            |                    [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)                     |
 | Status da implementação |                                                  Completo                                                   |
+
 
 ## <a>Referencias</a>
 
