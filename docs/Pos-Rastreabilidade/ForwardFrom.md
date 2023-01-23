@@ -1,9 +1,10 @@
 # Forward-from
 
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 23/01/2023 |        23/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
+|    Data    | Data Prevista de Revisão | Versão |        Descrição         |                     Autor                      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :----------------------: | :--------------------------------------------: | :----------------------------------------: |
+| 23/01/2023 |        23/01/2023        |  1.0   |   Criação do documento   | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
+| 23/01/2023 |        23/01/2023        |  1.1   | Finalização do documento |   [João Lucas](https://github.com/HacKairos)   | [-](https://github.com/) |
 
 
 ## <a>Introdução</a>
