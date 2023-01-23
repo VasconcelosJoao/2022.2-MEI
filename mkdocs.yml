@@ -86,6 +86,10 @@ nav:
     - Modelo Ágil:
       - Histórias de Usuário: Modelagem/UserCases.md
       - Backlog: Modelagem/Agil/BacklogDoProduto.md
+  - Pós-Rastreabilidade:
+    - Backward-from: Pos-Rastreabilidade/BackwardFrom.md
+    - Forward-from: Pos-Rastreabilidade/ForwardFrom.md
+    - Matriz Geral: Pos-Rastreabilidade/MatrizGeral.md
   - Análise:
     - Introdução: Analise/index.md
     - Identificação De Partes: Analise/IdentificaçãoDePartes.md
