@@ -40,7 +40,8 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 - BS: Brainstorming
 - ENT : Entrevista
 - IS: Introspecção
-- C: cenário
+- C: Cenário
+- L: Léxico
 - UC: Caso de uso
 - US: História de usuário
 - ES: Especificação Suplementar
@@ -55,7 +56,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 1 - Cadastro e Autenticação](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
 |           US            |[US01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#11-cadastro)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[L17](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario)<br> [L03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)<br> [UC02](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc02-cadastro)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS02
@@ -66,7 +67,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 2 - Login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
 |           US            |[US03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#21-login)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[L01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l01-acessar)<br> [UC01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc01-fazer-login)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS03
@@ -77,7 +78,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 4 - Notificações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
 |           US            |[US05](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#31-lembrete)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[L09](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l09-emitir)<br> [L07](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l07-das)<br> [UC04](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc04-lembrete)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS06
@@ -88,7 +89,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 4 - Notificações](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
 |           US            |[US06](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#32-aviso)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[L10](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l10-exibir)|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### BS07
@@ -99,7 +100,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 6 - Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)|
 |           US            |[US11](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#41-chat)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[C02](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/#cenarios_1)<br> [L17](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l17-usuario)<br> [UC03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### ENT05
@@ -110,7 +111,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 2 - Login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
 |           US            |[US03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#21-login)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[L01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l01-acessar)<br> [L05](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l05-conta)<br> [UC01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc01-fazer-login)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS01
@@ -121,7 +122,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 2 - Login](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)|
 |           US            |[US03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#21-login)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[L01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l01-acessar)<br> [L03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)<br> [UC01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc01-fazer-login)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS02
@@ -132,7 +133,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 6 - Boletos](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)|
 |           US            |[US14](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#51-emitir-boletos)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[C01](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/#cenarios_1)<br> [L09](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l09-emitir)<br> [L07](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l07-das)|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS03
@@ -143,7 +144,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 5 - Perfil](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)|
 |           US            |[US16](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#53-informacoes-cnpj)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[C06](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/#cenarios_1)<br> [L04](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l04-consultar)<br>[L11](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l11-informacao)<br>[L03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l03-cnpj)|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS04
@@ -154,7 +155,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 7 - Restituição](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)|
 |           US            |[US15](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#52-solicitar-restituicao)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[C10](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/#cenarios_1)<br> [L15](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l15-restituir)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ### IS05
@@ -165,7 +166,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Tema           |[Feature 6 - Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)|
 |           US            |[US13](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/#43-faq)|
 | Status da implementação |"Status da implementação do requisito"|
-|        Artefatos        |"Artefatos derivados do requisito"|
+|        Artefatos        |[C02](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/#cenarios_1)<br> [L04](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/#l04-consultar)<br> [UC03](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br>|
 |     Funcionalidade      |"Vídeo/print da tela onde esta implementada a funcionalidade"|
 
 ## 5. Requisitos Não-Funcionais
