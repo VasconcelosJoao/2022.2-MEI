@@ -40,7 +40,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 
 </center>
 
-## <a>Legenda:</a>
+## <a>Legenda</a>
 
 - BS: Brainstorming
 - ENT: Entrevista
