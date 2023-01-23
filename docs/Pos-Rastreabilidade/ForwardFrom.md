@@ -54,237 +54,237 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 ## <a>Requisitos Funcionais</a>
 ### <a>BS01</a>
 
-|          BS01           |                             O aplicativo deve instruir o [usuário](../../Modelagem/Lexicos/#l17-usuario) para a criação do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)                             |
-| :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                       [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                                                                        |
-|          Tema           |                                                                 [Feature 1 - Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                                                                  |
-|           US            |                                                                                                 [US01](../../Modelagem/UserCases/#11-cadastro)                                                                                                 |
-| Status da implementação |                                                                                                                            "Status da implementação do requisito"                                                                                                                            |
+|          BS01           |      O aplicativo deve instruir o [usuário](../../Modelagem/Lexicos/#l17-usuario) para a criação do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)      |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                         [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                          |
+|          Tema           |                   [Feature 1 - Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                    |
+|           US            |                                                   [US01](../../Modelagem/UserCases/#11-cadastro)                                                   |
+| Status da implementação |                                                                     Incompleto                                                                     |
 |        Artefatos        | [L17](../../Modelagem/Lexicos/#l17-usuario)<br> [L03](../../Modelagem/Lexicos/#l03-cnpj)<br> [UC02](../../Modelagem/CasosdeUso/#uc02-cadastro)<br> |
-|     Funcionalidade      |                                                                                                                "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                 |
+|     Funcionalidade      |                 <img src="./../../assets/forwardfrom/../../docs/assets/forwardfrom/Loginlogin.png" width="100" height="100"></img>                 |
 
 ### <a>BS02</a>
 
-|          BS02           |                                      Implementação de um sistema de [login](../../Modelagem/Lexicos/#l01-acessar)                                      |
-| :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                           [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                            |
-|          Tema           |                              [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                               |
-|           US            |                                                      [US03](../../Modelagem/UserCases/#21-login)                                                       |
-| Status da implementação |                                                                                "Status da implementação do requisito"                                                                                |
+|          BS02           |               Implementação de um sistema de [login](../../Modelagem/Lexicos/#l01-acessar)               |
+| :---------------------: | :------------------------------------------------------------------------------------------------------: |
+|          Épico          |    [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)     |
+|          Tema           |       [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)        |
+|           US            |                               [US03](../../Modelagem/UserCases/#21-login)                                |
+| Status da implementação |                                  "Status da implementação do requisito"                                  |
 |        Artefatos        | [L01](../../Modelagem/Lexicos/#l01-acessar)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login)<br> |
-|     Funcionalidade      |                                                                    "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                     |
+|     Funcionalidade      |                      "Vídeo/print da tela onde esta implementada a funcionalidade"                       |
 
 ### <a>BS03</a>
 
-|          BS03           |                            O aplicativo deve [emitir](../../Modelagem/Lexicos/#l09-emitir) um lembrete para o pagamento do [DAS](../../Modelagem/Lexicos/#l07-das)                             |
-| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                                [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                                                 |
-|          Tema           |                                                                           [Feature 4 - Notificações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                                           |
-|           US            |                                                                                                [US05](../../Modelagem/UserCases/#31-lembrete)                                                                                                |
-| Status da implementação |                                                                                                                           "Status da implementação do requisito"                                                                                                                           |
+|          BS03           |     O aplicativo deve [emitir](../../Modelagem/Lexicos/#l09-emitir) um lembrete para o pagamento do [DAS](../../Modelagem/Lexicos/#l07-das)      |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                                  [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                   |
+|          Tema           |                             [Feature 4 - Notificações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                             |
+|           US            |                                                  [US05](../../Modelagem/UserCases/#31-lembrete)                                                  |
+| Status da implementação |                                                      "Status da implementação do requisito"                                                      |
 |        Artefatos        | [L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L07](../../Modelagem/Lexicos/#l07-das)<br> [UC04](../../Modelagem/CasosdeUso/#uc04-lembrete)<br> |
-|     Funcionalidade      |                                                                                                               "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                |
+|     Funcionalidade      |                                          "Vídeo/print da tela onde esta implementada a funcionalidade"                                           |
 
 ### <a>BS06</a>
 
 |          BS06           | O aplicativo deve [mostrar](../../Modelagem/Lexicos/#l10-exibir) de forma clara se uma ação foi realizada com sucesso ou não |
-| :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :---------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                        [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                         |
 |          Tema           |                   [Feature 4 - Notificações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                   |
 |           US            |                                         [US06](../../Modelagem/UserCases/#32-aviso)                                          |
-| Status da implementação |                                                                   "Status da implementação do requisito"                                                                   |
+| Status da implementação |                                            "Status da implementação do requisito"                                            |
 |        Artefatos        |                                          [L10](../../Modelagem/Lexicos/#l10-exibir)                                          |
-|     Funcionalidade      |                                                       "Vídeo/print da tela onde esta implementada a funcionalidade"                                                        |
+|     Funcionalidade      |                                "Vídeo/print da tela onde esta implementada a funcionalidade"                                 |
 
 ### <a>BS07</a>
 
-|          BS07           |                                                                                O aplicativo deve fornecer suporte para os [usuários](../../Modelagem/Lexicos/#l17-usuario)                                                                                |
-| :---------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                                             [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                                                                             |
-|          Tema           |                                                                                       [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                                                                       |
-|           US            |                                                                                                        [US11](../../Modelagem/UserCases/#41-chat)                                                                                                         |
-| Status da implementação |                                                                                                                                 "Status da implementação do requisito"                                                                                                                                  |
+|          BS07           |                                  O aplicativo deve fornecer suporte para os [usuários](../../Modelagem/Lexicos/#l17-usuario)                                  |
+| :---------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                                               [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                               |
+|          Tema           |                                         [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                         |
+|           US            |                                                          [US11](../../Modelagem/UserCases/#41-chat)                                                           |
+| Status da implementação |                                                            "Status da implementação do requisito"                                                             |
 |        Artefatos        | [C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L17](../../Modelagem/Lexicos/#l17-usuario)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br> |
-|     Funcionalidade      |                                                                                                                      "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                      |
+|     Funcionalidade      |                                                 "Vídeo/print da tela onde esta implementada a funcionalidade"                                                 |
 
 ### <a>ENT05</a>
 
-|          ENT05          |                                O aplicativo deve realizar o [login](../../Modelagem/Lexicos/#l01-acessar) em mais de uma [conta](../../Modelagem/Lexicos/#l05-conta)                                 |
-| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                         [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                                                                          |
-|          Tema           |                                                                            [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                                                                             |
-|           US            |                                                                                                    [US03](../../Modelagem/UserCases/#21-login)                                                                                                     |
-| Status da implementação |                                                                                                                              "Status da implementação do requisito"                                                                                                                              |
+|          ENT05          |         O aplicativo deve realizar o [login](../../Modelagem/Lexicos/#l01-acessar) em mais de uma [conta](../../Modelagem/Lexicos/#l05-conta)          |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                           [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                            |
+|          Tema           |                              [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                               |
+|           US            |                                                      [US03](../../Modelagem/UserCases/#21-login)                                                       |
+| Status da implementação |                                                         "Status da implementação do requisito"                                                         |
 |        Artefatos        | [L01](../../Modelagem/Lexicos/#l01-acessar)<br> [L05](../../Modelagem/Lexicos/#l05-conta)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login)<br> |
-|     Funcionalidade      |                                                                                                                  "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                   |
+|     Funcionalidade      |                                             "Vídeo/print da tela onde esta implementada a funcionalidade"                                              |
 
 ### <a>IS01</a>
 
-|          IS01           |                                  Deve ser possível realizar [login](../../Modelagem/Lexicos/#l01-acessar) a partir de um [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)                                  |
-| :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                         [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                                                                         |
-|          Tema           |                                                                            [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                                                                            |
-|           US            |                                                                                                    [US03](../../Modelagem/UserCases/#21-login)                                                                                                    |
-| Status da implementação |                                                                                                                             "Status da implementação do requisito"                                                                                                                              |
+|          IS01           |           Deve ser possível realizar [login](../../Modelagem/Lexicos/#l01-acessar) a partir de um [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)           |
+| :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                           [Cadastro e Autenticação](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                           |
+|          Tema           |                              [Feature 2 - Login](../../Modelagem/Agil/BacklogDoProduto/#epico-1-cadastro-e-autenticacao)                              |
+|           US            |                                                      [US03](../../Modelagem/UserCases/#21-login)                                                      |
+| Status da implementação |                                                        "Status da implementação do requisito"                                                         |
 |        Artefatos        | [L01](../../Modelagem/Lexicos/#l01-acessar)<br> [L03](../../Modelagem/Lexicos/#l03-cnpj)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login)<br> |
-|     Funcionalidade      |                                                                                                                  "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                  |
+|     Funcionalidade      |                                             "Vídeo/print da tela onde esta implementada a funcionalidade"                                             |
 
 ### <a>IS02</a>
 
-|          IS02           |                                      Deve ser possível [emitir](../../Modelagem/Lexicos/#l09-emitir) o [DAS](../../Modelagem/Lexicos/#l07-das)                                       |
-| :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                              [Financeiro](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                                                                               |
-|          Tema           |                                                                          [Feature 6 - Boletos](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                                                                          |
-|           US            |                                                                                        [US14](../../Modelagem/UserCases/#51-emitir-boletos)                                                                                        |
-| Status da implementação |                                                                                                                      "Status da implementação do requisito"                                                                                                                      |
+|          IS02           |               Deve ser possível [emitir](../../Modelagem/Lexicos/#l09-emitir) o [DAS](../../Modelagem/Lexicos/#l07-das)                |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                                [Financeiro](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                                 |
+|          Tema           |                            [Feature 6 - Boletos](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                            |
+|           US            |                                          [US14](../../Modelagem/UserCases/#51-emitir-boletos)                                          |
+| Status da implementação |                                                 "Status da implementação do requisito"                                                 |
 |        Artefatos        | [C01](../../Modelagem/Cenarios/#cenarios_1)<br> [L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L07](../../Modelagem/Lexicos/#l07-das) |
-|     Funcionalidade      |                                                                                                          "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                           |
+|     Funcionalidade      |                                     "Vídeo/print da tela onde esta implementada a funcionalidade"                                      |
 
 ### <a>IS03</a>
 
-|          IS03           |                                 Deve ser possível [Consultar](../../Modelagem/Lexicos/#l04-consultar) [informações](../../Modelagem/Lexicos/#l11-informacao) do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)                                 |
-| :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                                                                             [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                                                                                             |
-|          Tema           |                                                                                                                          [Feature 5 - Perfil](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                                                                                           |
-|           US            |                                                                                                                                        [US16](../../Modelagem/UserCases/#53-informacoes-cnpj)                                                                                                                                         |
-| Status da implementação |                                                                                                                                                                       "Status da implementação do requisito"                                                                                                                                                                        |
+|          IS03           |          Deve ser possível [Consultar](../../Modelagem/Lexicos/#l04-consultar) [informações](../../Modelagem/Lexicos/#l11-informacao) do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)          |
+| :---------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                                                        [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                        |
+|          Tema           |                                                     [Feature 5 - Perfil](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                                                      |
+|           US            |                                                                   [US16](../../Modelagem/UserCases/#53-informacoes-cnpj)                                                                    |
+| Status da implementação |                                                                           "Status da implementação do requisito"                                                                            |
 |        Artefatos        | [C06](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br>[L11](../../Modelagem/Lexicos/#l11-informacao)<br>[L03](../../Modelagem/Lexicos/#l03-cnpj) |
-|     Funcionalidade      |                                                                                                                                                            "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                                                            |
+|     Funcionalidade      |                                                                "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                |
 
 ### <a>IS04</a>
 
-|          IS04           |                                  Deve ser possível pedir [restituição](../../Modelagem/Lexicos/#l15-restituir)                                  |
-| :---------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                     [Financeiro](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                                     |
-|          Tema           |                              [Feature 7 - Restituição](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)                               |
-|           US            |                                           [US15](../../Modelagem/UserCases/#52-solicitar-restituicao)                                           |
-| Status da implementação |                                                                            "Status da implementação do requisito"                                                                             |
+|          IS04           |           Deve ser possível pedir [restituição](../../Modelagem/Lexicos/#l15-restituir)           |
+| :---------------------: | :-----------------------------------------------------------------------------------------------: |
+|          Épico          |              [Financeiro](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)              |
+|          Tema           |       [Feature 7 - Restituição](../../Modelagem/Agil/BacklogDoProduto/#epico-4-financeiro)        |
+|           US            |                    [US15](../../Modelagem/UserCases/#52-solicitar-restituicao)                    |
+| Status da implementação |                              "Status da implementação do requisito"                               |
 |        Artefatos        | [C10](../../Modelagem/Cenarios/#cenarios_1)<br> [L15](../../Modelagem/Lexicos/#l15-restituir)<br> |
-|     Funcionalidade      |                                                                 "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                 |
+|     Funcionalidade      |                   "Vídeo/print da tela onde esta implementada a funcionalidade"                   |
 
 ### <a>IS05</a>
 
-|          IS05           |                                                                           Deve ser possível [consultar](../../Modelagem/Lexicos/#l04-consultar) perguntas e respostas frequentes                                                                            |
-| :---------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Épico          |                                                                                              [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                                                                              |
-|          Tema           |                                                                                        [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                                                                        |
-|           US            |                                                                                                          [US13](../../Modelagem/UserCases/#43-faq)                                                                                                          |
-| Status da implementação |                                                                                                                                  "Status da implementação do requisito"                                                                                                                                   |
+|          IS05           |                             Deve ser possível [consultar](../../Modelagem/Lexicos/#l04-consultar) perguntas e respostas frequentes                              |
+| :---------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Épico          |                                                [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                                |
+|          Tema           |                                          [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                          |
+|           US            |                                                            [US13](../../Modelagem/UserCases/#43-faq)                                                            |
+| Status da implementação |                                                             "Status da implementação do requisito"                                                              |
 |        Artefatos        | [C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br> |
-|     Funcionalidade      |                                                                                                                       "Vídeo/print da tela onde esta implementada a funcionalidade"                                                                                                                       |
+|     Funcionalidade      |                                                  "Vídeo/print da tela onde esta implementada a funcionalidade"                                                  |
 
 ## <a>Requisitos Não-Funcionais</a>
 ### <a>BS04</a>
 
-|          BS04           |O aplicativo deve obter dados dentro do próprio aplicativo|
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)|
-|           ES            |[Performance](../../Modelagem/EspecificacaoSuplementar/#performance) |
-| Status da implementação |      "Status da implementação do requisito"       |
+|          BS04           |      O aplicativo deve obter dados dentro do próprio aplicativo      |
+| :---------------------: | :------------------------------------------------------------------: |
+|           NFR           |    [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)     |
+|           ES            | [Performance](../../Modelagem/EspecificacaoSuplementar/#performance) |
+| Status da implementação |                "Status da implementação do requisito"                |
 
 ### <a>BS05</a>
 
-|          BS05           |O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)|
-|           ES            |[Confiabilidade](../../Modelagem/EspecificacaoSuplementar/#confiabilidade)|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          BS05           | O aplicativo deve solicitar autorização para pegar dados de outros sites do governo |
+| :---------------------: | :---------------------------------------------------------------------------------: |
+|           NFR           |            [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)            |
+|           ES            |     [Confiabilidade](../../Modelagem/EspecificacaoSuplementar/#confiabilidade)      |
+| Status da implementação |                       "Status da implementação do requisito"                        |
 
 ### <a>BS08</a>
 
-|          BS08           |O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos|
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)|
-|           ES            |[Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) |
-| Status da implementação |      "Status da implementação do requisito"       |
+|          BS08           | O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos |
+| :---------------------: | :------------------------------------------------------------------------------------: |
+|           NFR           |        [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)         |
+|           ES            |      [Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade)      |
+| Status da implementação |                         "Status da implementação do requisito"                         |
 
 ### <a>BS09</a>
 
-|          BS09           |           O aplicativo deve validar a [pessoa](../../Modelagem/Lexicos/#l17-usuario) que está utilizando o [CNPJ](../../Modelagem/Lexicos/#l03-cnpj)|
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)|
-|           ES            | [-]() |
-| Status da implementação |      "Status da implementação do requisito"       |
+|          BS09           | O aplicativo deve validar a [pessoa](../../Modelagem/Lexicos/#l17-usuario) que está utilizando o [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|           NFR           |                                   [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)                                    |
+|           ES            |                                                                   [-]()                                                                    |
+| Status da implementação |                                                   "Status da implementação do requisito"                                                   |
 
 ### <a>BS010</a>
 
-|          BS010          |           O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO           |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)|
+|          BS010          | O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO |
+| :---------------------: | :--------------------------------------------------------------------------: |
+|           NFR           |   [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)    |
 |           ES            | [Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) |
-| Status da implementação |      "Status da implementação do requisito"       |
+| Status da implementação |                    "Status da implementação do requisito"                    |
 
 ### <a>BS011</a>
 
-|          BS011          |           O aplicativo deve ser acessível para [usuário](../../Modelagem/Lexicos/#l17-usuario) com algum tipo de deficiência            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)|
-|           ES            |[Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          BS011          | O aplicativo deve ser acessível para [usuário](../../Modelagem/Lexicos/#l17-usuario) com algum tipo de deficiência |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|           NFR           |                          [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)                           |
+|           ES            |                        [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)                        |
+| Status da implementação |                                       "Status da implementação do requisito"                                       |
 
 ### <a>BS012</a>
 
-|          BS012          |           O aplicativo deve conter texto que seja de fácil entendimento            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)|
-|           ES            |[Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          BS012          |    O aplicativo deve conter texto que seja de fácil entendimento     |
+| :---------------------: | :------------------------------------------------------------------: |
+|           NFR           |   [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)    |
+|           ES            | [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade) |
+| Status da implementação |                "Status da implementação do requisito"                |
 
 ### <a>ENT01</a>
 
-|          ENT01          |O aplicativo deve solicitar o [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) apenas uma vez |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)|
-|           ES            |[-]()|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          ENT01          | O aplicativo deve solicitar o [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) apenas uma vez |
+| :---------------------: | :------------------------------------------------------------------------------------: |
+|           NFR           |         [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)          |
+|           ES            |                                         [-]()                                          |
+| Status da implementação |                         "Status da implementação do requisito"                         |
 
 ### <a>ENT02</a>
 
-|          ENT02          |           O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)|
-|           ES            |[-]()|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          ENT02          | O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa |
+| :---------------------: | :---------------------------------------------------------------------------------: |
+|           NFR           |            [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)            |
+|           ES            |                                        [-]()                                        |
+| Status da implementação |                       "Status da implementação do requisito"                        |
 
 ### <a>ENT03</a>
 
-|          ENT03          |          O aplicativo deve evitar os erros e telas brancas através do uso	            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)|
-|           ES            |[-]() |
-| Status da implementação |      "Status da implementação do requisito"       |
+|          ENT03          | O aplicativo deve evitar os erros e telas brancas através do uso |
+| :---------------------: | :--------------------------------------------------------------: |
+|           NFR           | [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)  |
+|           ES            |                              [-]()                               |
+| Status da implementação |              "Status da implementação do requisito"              |
 
 ### <a>ENT04</a>
 
-|          ENT04          |          O aplicativo deve salvar as [informações](../../Modelagem/Lexicos/#l11-informacao)            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)|
-|           ES            |[Performance](../../Modelagem/EspecificacaoSuplementar/#performance)|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          ENT04          | O aplicativo deve salvar as [informações](../../Modelagem/Lexicos/#l11-informacao) |
+| :---------------------: | :--------------------------------------------------------------------------------: |
+|           NFR           |           [SIG de Desempenho](../../Modelagem/NFRFramework/#desempenho)            |
+|           ES            |        [Performance](../../Modelagem/EspecificacaoSuplementar/#performance)        |
+| Status da implementação |                       "Status da implementação do requisito"                       |
 
 ### <a>IS06</a>
 
-|          IS06           |           O aplicativo deve ser suportado pelos principais sistemas mobile            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)|
-|           ES            |[Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) |
-| Status da implementação |      "Status da implementação do requisito"       |
+|          IS06           |       O aplicativo deve ser suportado pelos principais sistemas mobile       |
+| :---------------------: | :--------------------------------------------------------------------------: |
+|           NFR           |   [SIG de Suportabilidade](../../Modelagem/NFRFramework/#suportabilidade)    |
+|           ES            | [Suportabilidade](../../Modelagem/EspecificacaoSuplementar/#suportabilidade) |
+| Status da implementação |                    "Status da implementação do requisito"                    |
 
 ### <a>IS07</a>
 
-|          IS07           |          Deve se exigir um [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) para acesso do aplicativo            |
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)|
-|           ES            | [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade) |
-| Status da implementação |      "Status da implementação do requisito"       |
+|          IS07           | Deve se exigir um [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) para acesso do aplicativo |
+| :---------------------: | :-----------------------------------------------------------------------------------: |
+|           NFR           |         [SIG de Confiabilidade](../../Modelagem/NFRFramework/#confiabilidade)         |
+|           ES            |         [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)          |
+| Status da implementação |                        "Status da implementação do requisito"                         |
 
 ### <a>IS08</a>
 
-|          IS08           |O aplicativo deve ser de fácil entendimento e uso por seus [usuários](../../Modelagem/Lexicos/#l17-usuario)|
-| :---------------------: | :-----------------------------------------------: |
-|           NFR           |[SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)|
-|           ES            |[Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)|
-| Status da implementação |      "Status da implementação do requisito"       |
+|          IS08           | O aplicativo deve ser de fácil entendimento e uso por seus [usuários](../../Modelagem/Lexicos/#l17-usuario) |
+| :---------------------: | :---------------------------------------------------------------------------------------------------------: |
+|           NFR           |                       [SIG de Usabilidade](../../Modelagem/NFRFramework/#usabilidade)                       |
+|           ES            |                    [Usabilidade](../../Modelagem/EspecificacaoSuplementar/#usabilidade)                     |
+| Status da implementação |                                   "Status da implementação do requisito"                                    |
 
 ## <a>Referencias</a>
 
