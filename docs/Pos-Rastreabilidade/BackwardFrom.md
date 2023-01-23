@@ -15,12 +15,8 @@ Para realizar a pós-rastreabilidade do projeto, utilizando a meotodologia backw
 * ID
 * Descrição
 * Técnica Utilizada
-* US
-* Status
 
-Visto que os requisitos elicitados não foram todos chamados de RF(Requisito funcional) e RNF(Requisito não funcional), os requisitos serão chamados pelas siglas
-da técnica de elicitação que foi usada, assim como foi colocado nos documentos de elicitação, tais siglas podendo serem vistas na seção abaixo. Porém não deixando
-de serem separados em RF's e RNF's
+O Documento irá tratar de forma similar os Requisitos Funcionais e Não Funcionais, colocando eles na mesma tabela.
 
 <center>
 
@@ -39,8 +35,6 @@ _Tabela 1 - Exemplo_
 - BS: Brainstorming
 - ENT : Entrevista
 - IS: Introspecção
-- RF: Requisito Funcional
-- RNF: Requisito Não Funcional
 
 ## 4. Requisitos Funcionais e Não Funcionais
 
@@ -63,5 +57,12 @@ _Tabela 1 - Exemplo_
 |          RF16            |O Usuário deve conseguir solicitar Restituição|[IS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)|
 
 
+## Referencias
 
+[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+[2] Projeto Do Github - Noruh - da displina Requisitos de Software, da Universidade de Brasilia(UnB) do semestre 2022.1, disponivel [aqui](https://requisitos-de-software.github.io/2022.1-Noruh/)
+
+[3] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. 
+Autopublicação. ISBN: 978-65-00-19677-1.
 
