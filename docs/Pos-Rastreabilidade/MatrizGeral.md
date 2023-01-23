@@ -18,7 +18,6 @@ A matriz possui 8 colunas com o propósito de promover os dados de forma mais cl
     * 🟢: o requisito está completamente implementado;
     * 🟡: o requisito está parcialmente implementado;
     * 🔴: o requisito não foi implementado;
-    * J/A: o requisito já estava implementado.
 * **Backward-From**: link para seu rastro em backward-from;
 * **Forward-From**: link para seu rastro em forward-from.
 
@@ -28,9 +27,19 @@ A tabela 1 abaixo apresenta a matriz elaborada:
 <center>
 
   
-|  ID   | Descrição | Elicitação | Artefatos | Implementação | Backward-from | Forward-from |
-| :---: | :-------: | :--------: | :-------: | :-----------: | :-----------: | :----------: |
-| RF01  | Lalla | Brainstorm | Cenários<br>Léxicos | 🟢 | link | link|
+|  ID   | Descrição | Elicitação | Artefatos | Implementação  | Forward-from |
+| :---: | :-------: | :--------: | :-------: | :------------: | :----------: |
+| RF01  | O aplicativo deve instruir o [usuário](../../Modelagem/Lexicos/#l17-usuario) para a criação do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) | Brainstorm | [US01](../../Modelagem/UserCases/#11-cadastro)<br>[L17](../../Modelagem/Lexicos/#l17-usuario)<br>[L03](../../Modelagem/Lexicos/#l03-cnpj)<br>[UC02](../../Modelagem/CasosdeUso/#uc02-cadastro) | 🔴  | [BS01](../ForwardFrom/#bs01)|
+| RF02  | Implementação de um sistema de [login](../../Modelagem/Lexicos/#l01-acessar) | Brainstorm | [US03](../../Modelagem/UserCases/#21-login)<br>[L01](../../Modelagem/Lexicos/#l01-acessar)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login) | 🟢  | [BS02](../ForwardFrom/#bs02)|
+| RF03  | O aplicativo deve [emitir](../../Modelagem/Lexicos/#l09-emitir) um lembrete para o pagamento do [DAS](../../Modelagem/Lexicos/#l07-das) | Brainstorm | [US05](../../Modelagem/UserCases/#31-lembrete)<br>[L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L07](../../Modelagem/Lexicos/#l07-das)<br> [UC04](../../Modelagem/CasosdeUso/#uc04-lembrete) | 🔴  | [BS03](../ForwardFrom/#bs03)|
+| RF04  | O aplicativo deve [mostrar](../../Modelagem/Lexicos/#l10-exibir) de forma clara se uma ação foi realizada com sucesso ou não | Brainstorm | [US06](../../Modelagem/UserCases/#32-aviso)<br>[L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L10](../../Modelagem/Lexicos/#l10-exibir) | 🟡  | [BS06](../ForwardFrom/#bs06)|
+| RF05  | O aplicativo deve fornecer suporte para os [usuários](../../Modelagem/Lexicos/#l17-usuario) | Brainstorm | [US11](../../Modelagem/UserCases/#41-chat)<br>[C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L17](../../Modelagem/Lexicos/#l17-usuario)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte) | 🟢  | [BS07](../ForwardFrom/#bs07)|
+| RF06  | O aplicativo deve realizar o [login](../../Modelagem/Lexicos/#l01-acessar) em mais de uma [conta](../../Modelagem/Lexicos/#l05-conta) | Entrevista | [US03](../../Modelagem/UserCases/#21-login)<br>[L01](../../Modelagem/Lexicos/#l01-acessar)<br> [L05](../../Modelagem/Lexicos/#l05-conta)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login) | 🔴  | [ENT05](../ForwardFrom/#ent05)|
+| RF07  | Deve ser possível realizar [login](../../Modelagem/Lexicos/#l01-acessar) a partir de um [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) | Introspecção | [US03](../../Modelagem/UserCases/#21-login)<br>[L01](../../Modelagem/Lexicos/#l01-acessar)<br> [L03](../../Modelagem/Lexicos/#l03-cnpj)<br> [UC01](../../Modelagem/CasosdeUso/#uc01-fazer-login) | 🟢  | [IS01](../ForwardFrom/#is01)|
+| RF08  | Deve ser possível [emitir](../../Modelagem/Lexicos/#l09-emitir) o [DAS](../../Modelagem/Lexicos/#l07-das) | Introspecção | [US14](../../Modelagem/UserCases/#51-emitir-boletos)<br>[C01](../../Modelagem/Cenarios/#cenarios_1)<br> [L09](../../Modelagem/Lexicos/#l09-emitir)<br> [L07](../../Modelagem/Lexicos/#l07-das) | 🟢  | [IS02](../ForwardFrom/#is02)|
+| RF09  | Deve ser possível [Consultar](../../Modelagem/Lexicos/#l04-consultar) [informações](../../Modelagem/Lexicos/#l11-informacao) do [CNPJ](../../Modelagem/Lexicos/#l03-cnpj) | Introspecção | [US16](../../Modelagem/UserCases/#53-informacoes-cnpj)<br>[C06](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br>[L11](../../Modelagem/Lexicos/#l11-informacao)<br>[L03](../../Modelagem/Lexicos/#l03-cnpj) | 🟢  | [IS03](../ForwardFrom/#is03)|
+| RF10  | Deve ser possível pedir [restituição](../../Modelagem/Lexicos/#l15-restituir) | Introspecção | [US15](../../Modelagem/UserCases/#52-solicitar-restituicao)<br>[C10](../../Modelagem/Cenarios/#cenarios_1)<br> [L15](../../Modelagem/Lexicos/#l15-restituir) | 🟢  | [IS04](../ForwardFrom/#is04)|
+| RF11  | Deve ser possível [consultar](../../Modelagem/Lexicos/#l04-consultar) perguntas e respostas frequentes | Introspecção | [US13](../../Modelagem/UserCases/#43-faq)<br>[C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L04](../../Modelagem/Lexicos/#l04-consultar)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte) | 🟡  | [IS05](../ForwardFrom/#is05)|
 
 *Tabela 1 - Matriz Geral*
 
