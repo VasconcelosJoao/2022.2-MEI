@@ -301,7 +301,7 @@ Abaixo, nas tabelas 1 e 2, seguem os modelos de tabelas que serão usados para o
 
 </center>
 
-## <a>Referencias</a>
+## <a>Bibliografia</a>
 
 [1] SERRANO, Maurício; SERRANO, MilenRequisitos - Aula 21º/202Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 

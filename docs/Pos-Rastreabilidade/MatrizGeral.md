@@ -58,4 +58,7 @@ A tabela 1 abaixo apresenta a matriz elaborada:
 </center>
 
 ## <a>Bibliografia</a>
-[1] 2022.1-Noruh. Disponível em: https://requisitos-de-software.github.io/2022.1-Noruh/pos-rastreabilidade/matrizGeral/. Acesso em: 21 de Janeiro de 2023.
+[1] Projeto Do Github - Noruh - da displina Requisitos de Software, da Universidade de Brasilia(UnB) do semestre 2022.1, disponivel [aqui](https://requisitos-de-software.github.io/2022.1-Noruh/)
+
+[3] Barbosa, J.; Silva, da; Silveira, S.; Gasparini, I.; Darin, T.; Barbosa, (2021) Interação Humano-Computador e Experiência do usuári
+AutopublicaçãISBN: 978-65-00-19677-1.
