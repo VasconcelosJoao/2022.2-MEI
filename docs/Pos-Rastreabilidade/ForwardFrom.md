@@ -20,7 +20,7 @@ Visto que os requisitos elicitados não foram todos chamados de RF(Requisito fun
 da técnica de elicitação que foi usada, assim como foi colocado nos documentos de elicitação, tais siglas podendo serem vistas na seção abaixPorém não deixando
 de serem separados em RF's e RNF's
 
-Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respectivamente:<br>
+Abaixo, nas tabelas 1 e 2, seguem os modelos de tabelas que serão usados para os RF's e RNF's respectivamente:
 <center>
 
 |           ID            |                 "Identificador do requisito"                  |
@@ -32,11 +32,15 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |        Artefatos        |              "Artefatos derivados do requisito"               |
 |     Funcionalidade      | "Vídeo/print da tela onde esta implementada a funcionalidade" |
 
+*Tabela 1 - Exemplo de tabela*
+
 |           ID            |           "Identificador do requisito"            |
 | :---------------------: | :-----------------------------------------------: |
 |           NFR           |            "NFR derivado do requisito"            |
 |           ES            | "Especificação Suplementar derivada do requisito" |
 | Status da implementação |      "Status da implementação do requisito"       |
+
+*Tabela 2 - Exemplo de outra tabela*
 
 </center>
 

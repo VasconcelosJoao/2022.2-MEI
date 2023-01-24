@@ -18,9 +18,9 @@ Para realizar a pós-rastreabilidade do projeto, utilizando a meotodologia backw
 
 O Documento irá tratar de forma similar os Requisitos Funcionais e Não Funcionais, colocando eles na mesma tabela.
 
-<center>
+Na tabela 1 abaixo, segue os modelos de tabelas que serão usados para os RF's e RNF's respectivamente:
 
-Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respectivamente:<br>
+<center>
 
 |  ID   |    Descrição     |    Técnica Utilizada     |
 | :---: | :--------------: | :----------------------: |

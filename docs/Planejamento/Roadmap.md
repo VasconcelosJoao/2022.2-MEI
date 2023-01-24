@@ -231,6 +231,7 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Melhoria do Documento - Entrevista | Ana | 19/01/2023 | 20/01/2023 |
 | Melhoria do Documento - Brainstorming | Ana | 19/01/2023 | 20/01/2023 |
 | Melhoria do Documento - Introspecção | Ana | 19/01/2023 | 20/01/2023 |
+| Matriz Geral | Ana e Arthur | 22/01/2023 | 23/01/2023 | Arthur |
 
 *Tabela 13 - Tarefas executadas para a entrega 7*<br><br>
 
