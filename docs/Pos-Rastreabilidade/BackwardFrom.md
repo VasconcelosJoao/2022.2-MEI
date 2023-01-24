@@ -7,7 +7,7 @@
 
 
 ## <a>Introdução</a>
-A pós-ratreabilidade visa ligar os elementos/artefatos desenvolvidos durante o ciclo de vida do projetPortanto, o documento terá como objetivo registrar a pós-rastreabilidade dos artefatos e requisitos do projeto, utilizando a metodologia "Backward-From".
+A pós-rastreabilidade visa ligar os elementos/artefatos desenvolvidos durante o ciclo de vida do projeto. Portanto, o documento terá como objetivo registrar a pós-rastreabilidade dos artefatos e requisitos do projeto, utilizando a metodologia "Backward-From".
 
 ## <a>Metodologia</a>
 Para realizar a pós-rastreabilidade do projeto, utilizando a meotodologia backward-from, será utilizado um tipo de tabelas com as seguintes colunas:
