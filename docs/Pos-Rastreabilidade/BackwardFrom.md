@@ -64,11 +64,11 @@ _Tabela 1 - Exemplo_
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS01
-Entrevista: ENT1
+Brainstorm: [BS01](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Entrevista: [ENT1](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/) 
 
 **Elos:**
-Agregação: ENT1   Agrega: BS01
+Agregação: [ENT1](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)    Agrega: [BS01](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 
 ### RF2
@@ -76,12 +76,12 @@ Agregação: ENT1   Agrega: BS01
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS02
-Entrevista: ENT5
-Introspecção: IS01
+Brainstorm: [BS02](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) 
+Entrevista: [ENT5](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/) 
+Introspecção: [IS01](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
 
 **Elos:**
-Agregação: ENT5  Agrega: IS01 e BS02
+Agregação: [ENT5](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)   Agrega: [IS01](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) e  [BS02](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 
 ### RF3
@@ -89,7 +89,7 @@ Agregação: ENT5  Agrega: IS01 e BS02
 **Categoria:** Desenvolvimento
   
 **Elementos Rastreáveis:**
-Brainstorm: BS03
+Brainstorm: [BS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
   
 **Elos:**
 * Não possui artefatos para moldar o elo
@@ -100,11 +100,12 @@ Brainstorm: BS03
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS06
-Entrevista: ENT4
+Brainstorm: [BS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Entrevista: [ENT4](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
 
 **Elos:**
-Agregação: ENT4   Agrega: BS06
+Agregação: [ENT4](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
+   Agrega: [BS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 
 ### RF5
@@ -112,11 +113,11 @@ Agregação: ENT4   Agrega: BS06
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS07
-Introspecção: IS05
+Brainstorm: [BS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Introspecção: [IS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
 
 **Elos:**
-Agregação: IS05  Agrega: BS07
+Agregação: , [IS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)  Agrega: [BS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 
 ### RF6
@@ -124,7 +125,7 @@ Agregação: IS05  Agrega: BS07
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS03
+Brainstorm: [BS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 **Elos:**
 * Não possui artefatos para moldar o elo
@@ -135,11 +136,11 @@ Brainstorm: BS03
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS04
-Entrevista: ENT2
+Brainstorm: [BS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Entrevista: [ENT2](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
 
 **Elos:**
-Agregação: ENT2  Agrega: BS04
+Agregação: [ENT2](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)  Agrega: [BS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 
 ### RNF8
@@ -147,11 +148,11 @@ Agregação: ENT2  Agrega: BS04
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS05
-Entrevista: ENT3
+Brainstorm: [BS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Entrevista: [ENT3](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
 
 **Elos:**
-Agregação: BS05  Agrega: ENT3
+Agregação: [BS05](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)  Agrega: [ENT3](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
 
 
 ### RNF9
@@ -159,12 +160,12 @@ Agregação: BS05  Agrega: ENT3
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS08 e BS10
-Introspecção: IS06
+Brainstorm: [BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) [BS10](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Introspecção: [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) 
 
 **Elos:**
-Agregação: IS06  Agrega: BS08 e BS10
-Representação: BS08 e BS10   Representa: IS06
+Agregação: [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)  Agrega: [BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) e [BS10](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Representação: [BS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) e [BS10](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)   Representa: [IS06](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
 
 
 ### RNF10
@@ -172,11 +173,11 @@ Representação: BS08 e BS10   Representa: IS06
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS09
-Introspecção: IS07
+Brainstorm: [BS09](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Introspecção: [IS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) 
 
 **Elos:**
-Agregação: BS09  Agrega: IS07 
+Agregação: [BS09](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)  Agrega: [IS07](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)  
 
 
 ### RNF11
@@ -184,11 +185,11 @@ Agregação: BS09  Agrega: IS07
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS11
-Introspecção: IS08
+Brainstorm: [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Introspecção: [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) 
 
 **Elos:**
-Agregação: BS11  Agrega: IS08
+Agregação: [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)  Agrega: [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) 
 
 
 ### RNF12
@@ -196,12 +197,12 @@ Agregação: BS11  Agrega: IS08
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Brainstorm: BS11 e BS12
-Introspecção: IS08
+Brainstorm: [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) e [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+Introspecção: [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) 
 
 **Elos:**
-Agregação: BS11 e BS12  Agrega: IS08
-Representação: IS08     Representa: BS11 e BS12
+Agregação: [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) e [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)  Agrega: [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) 
+Representação: [IS08](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)      Representa: [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) e [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
 
 
 ### RF13
@@ -209,7 +210,7 @@ Representação: IS08     Representa: BS11 e BS12
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Introspecção: IS02
+Introspecção: [IS02](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
 
 **Elos:**
 * Não possui artefatos para moldar o elo
@@ -220,7 +221,7 @@ Introspecção: IS02
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Introspecção: IS03
+Introspecção: [IS03](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)       
 
 **Elos:**
 * Não possui artefatos para moldar o elo
@@ -231,7 +232,7 @@ Introspecção: IS03
 **Categoria:** Desenvolvimento
 
 **Elementos Rastreáveis:**
-Introspecção: IS04
+Introspecção: [IS04](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
 
 **Elos:**
 * Não possui artefatos para moldar o elo
