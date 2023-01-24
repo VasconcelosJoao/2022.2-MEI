@@ -4,7 +4,7 @@
 |    Data    | Data Prevista de Revisão | Versão |        Descrição         |                     Autor                      |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :----------------------: | :--------------------------------------------: | :----------------------------------------: |
 | 23/01/2023 |        23/01/2023        |  1.0   |   Criação do documento   | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
-| 23/01/2023 |        23/01/2023        |  1.1   | Finalização do documento |   [João Lucas](https://github.com/HacKairos)   | [-](https://github.com/) |
+| 23/01/2023 |        23/01/2023        |  1.1   | Finalização do documento |   [João Lucas](https://github.com/HacKairos)   | [Thiago Oliveira](https://github.com/Thiab394) |
 
 
 ## <a>Introdução</a>
@@ -96,7 +96,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                        [Configurações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                         |
 |          Tema           |                   [Feature 4 - Notificações](../../Modelagem/Agil/BacklogDoProduto/#epico-2-configuracoes)                   |
 |           US            |                                         [US06](../../Modelagem/UserCases/#32-aviso)                                          |
-| Status da implementação |                                                          Imcompleto                                                          |
+| Status da implementação |                                                          Incompleto                                                          |
 |        Artefatos        |                                          [L10](../../Modelagem/Lexicos/#l10-exibir)                                          |
 |     Funcionalidade      |                         <img src="../../assets/forwardfrom/DAS.png" width="100" height="100"></img>                          |
 
@@ -107,7 +107,7 @@ Abaixo segue os modelos de tabelas que serão usados para os RF's e RNF's respec
 |          Épico          |                                               [Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                               |
 |          Tema           |                                         [Feature 6 - Suporte](../../Modelagem/Agil/BacklogDoProduto/#epico-3-suporte)                                         |
 |           US            |                                                          [US11](../../Modelagem/UserCases/#41-chat)                                                           |
-| Status da implementação |                                                                          Imcompleto                                                                           |
+| Status da implementação |                                                                          Incompleto                                                                           |
 |        Artefatos        | [C02](../../Modelagem/Cenarios/#cenarios_1)<br> [L17](../../Modelagem/Lexicos/#l17-usuario)<br> [UC03](../../Modelagem/CasosdeUso/#uc03-acesso-a-suporte)<br> |
 |     Funcionalidade      |                                      <img src="../../assets/forwardfrom/MenuInicial.png" width="100" height="100"></img>                                      |
 
