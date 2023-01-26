@@ -5,6 +5,7 @@
 | :--------: | :----------------------: | :----: | :----------------------: | :--------------------------------------------: | :----------------------------------------: |
 | 23/01/2023 |        23/01/2023        |  1.0   |   Criação do documento   | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
 | 23/01/2023 |        23/01/2023        |  1.1   | Finalização do documento |   [João Lucas](https://github.com/HacKairos)   | [Thiago Oliveira](https://github.com/Thiab394) |
+| 26/01/2023 |        27/01/2023        |  1.2   | Adição de Tabela Explicitando Tema de Cada Requisito |[Thiago Oliveira](https://github.com/Thiab394)| [-](https://github.com/) |
 
 
 ## <a>Introdução</a>
@@ -44,7 +45,8 @@ Abaixo, nas tabelas 1 e 2, seguem os modelos de tabelas que serão usados para o
 
 </center>
 
-## <a>Legenda</a>
+## <a>Legendas</a>
+Temos aqui a tradução de cada sigla presente neste documento, e também uma tabela a qual indica o tema ao qual o requisito está ligado/se referindo, cada um tendo um hyperlink levando ao mesmo requisito mostrado no ID, mesmo tendo o mesmo tema, sendo separados em RF(Tabela 3) e RNF(Tabela 4).
 
 - BS: Brainstorming
 - ENT: Entrevista
@@ -55,6 +57,41 @@ Abaixo, nas tabelas 1 e 2, seguem os modelos de tabelas que serão usados para o
 - US: História de usuário
 - ES: Especificação Suplementar
 - NFR: NFR Framework
+
+|           RF            |                               Tema associado                  |
+| :---------------------: | :-----------------------------------------------------------: |
+|BS01|[Cadastro](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs01)|
+|BS02|[Autenticação/Login](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs02)|
+|BS03|[Lembrete Pagamento DAS](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs03)|
+|BS06|[Notificação de Realização de Ação](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs06)|
+|BS07|[Suporte](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs07)|
+|ENT05|[Login em mais de uma conta](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#ent05)|
+|IS01|[Autenticação/Login](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is01)|
+|IS02|[Emissão do DAS](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is02)|
+|IS03|[Consultar CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is03)|
+|IS04|[Pedir Restituição](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is04)|
+|IS05|[Consultar FAQ](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is05)|
+
+*Tabela 3 - Tema dos RF's*
+
+|           RNF           |                               Tema associado                  |
+| :---------------------: | :-----------------------------------------------------------: |
+|BS04|[Obter Dados dentro do APP](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs04)|
+|BS05|[Autorização Para Utilizar Sites do Governo dentro do APP](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs05)|
+|BS08|[Utilização em Maioria de Modelos de Dispositivos](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs08)|
+|BS09|[Validar Pessoa utilizando CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs09)|
+|BS10|[Utilização em Maioria de Modelos de SO's](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs010)|
+|BS11|[Acessibilidade](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs011)|
+|BS12|[Fácil Entendimento do Texto](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#bs012)|
+|ENT01|[Solicitação do CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#ent01)|
+|ENT02|[Terminar Operação Antes de Inicializar Outra](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#ent02)|
+|ENT03|[Evitar Erros](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#ent03)|
+|ENT04|[Salvar Informações](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#ent04)|
+|IS06|[Suporte Por Principais Sistemas Mobile](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is06)|
+|IS07|[Exigência do CNPJ](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is07)|
+|IS08|[Fácil Entendimento e Uso](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/#is08)|
+
+*Tabela 4 - Tema dos RNF's*
 
 ## <a>Requisitos Funcionais</a>
 
