@@ -47,8 +47,50 @@ Vale destacar que o documento foi elaborado seguindo o template utilizado pelo p
 
 
 ## <a>Artefatos</a>
+A tabela XX abaixo apresenta os artefatos criados durante o projeto na etapa 1, com o nome de seus respectivos criadores e revisores.
 
+<center>
 
+|Etapa|Artefato|Criador|Revisor|Data de Finalização|
+|-----|--------|-------|-------|-------------------|
+|1|Página inicial do projeto|[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)|20/11/2022|
+|1|Aplicativos Analisados|[Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [João Lucas](https://github.com/HacKairos)|30/11/2022|
+|1|Aplicativo Escolhido|[Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [João Lucas](https://github.com/HacKairos)|20/01/2023|
+|1|Metodologia e Processos|[Arthur Taylor](https://github.com/Eruel6), [Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6), [Thiago Oliveira](https://github.com/Thiab394),  [João Lucas](https://github.com/HacKairos)| 30/11/2022|
+|1|Ferramentas|[Ana Luiza](https://github.com/AnHoff),  [João Lucas](https://github.com/HacKairos)|  [Ana Luiza](https://github.com/AnHoff), [João Lucas](https://github.com/HacKairos)|21/11/2022|
+|1|Heatmap|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|30/11/2022|
+|1|Roadmap|[Arthur Taylor](https://github.com/Eruel6), [Thiago Oliveira](https://github.com/Thiab394), [Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6), [Thiago Oliveira](https://github.com/Thiab394)|09/12/2022|
+|1|Políticas - Código de Conduta para Colaboradores|[João Lucas](https://github.com/HacKairos)| [Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+|1|Políticas - Política de Contribuição|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+|1|Políticas - Política de Issue|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+|1|Políticas - Política de Branch|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|11/11/2022|
+|1|Políticas - Política de Commit|[João Lucas](https://github.com/HacKairos), [Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos), [Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+|1|Políticas - Política de Pull Request|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+|1|Políticas - Política de Segurança|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+|1|Cronograma de Elicitação/Priorização|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6), [João Lucas](https://github.com/HacKairos)|07/12/2022|
+|1|Termo de Consentimento|[Ana Luiza](https://github.com/AnHoff), |[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|20/01/2023|
+
+*Tabela X - Artefatos realizados na etapa 1*
+
+</center>
+
+A tabela XX abaixo apresenta os artefatos criados durante o projeto na etapa 2, com o nome de seus respectivos criadores e revisores.
+
+<center>
+
+|Etapa|Artefato|Criador|Revisor|Data de Finalização|
+|-----|--------|-------|-------|-------------------|
+|2|Elicitação|[Arthur Taylor](https://github.com/Eruel6), [Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6),  [João Lucas](https://github.com/HacKairos)| 30/11/2022|
+|2|Brainstorming|[Ana Luiza](https://github.com/AnHoff), [João Lucas](https://github.com/HacKairos), [Pedro Lucas](https://github.com/PedroLSF)|  [Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [Arthur Taylor](https://github.com/Eruel6)|20/01/2023|
+|2|Entrevista|[Pedro Lucas](https://github.com/PedroLSF), [Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|20/01/2023|
+|2|Introspecção|[Arthur Taylor](https://github.com/Eruel6), [Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6), [Ana Luiza](https://github.com/AnHoff)|20/01/2023|
+|2|Perfil do Usuário|[Eduardo](https://github.com/edudsan), [Ana Luiza](https://github.com/AnHoff)| [João Lucas](https://github.com/HacKairos), [Thiago Oliveira](https://github.com/Thiab394)|02/12/2023|
+|2|Persona|[Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|30/11/2022|
+|2|Priorização[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6), [Thiago Oliveira](https://github.com/Thiab394)|04/12/2022|
+
+*Tabela X - Artefatos realizados na etapa 2*
+
+</center>
 
 ## <a>Protótipo de Alta Fideldiade</a>
 
