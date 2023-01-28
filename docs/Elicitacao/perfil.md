@@ -7,13 +7,16 @@
 |01/12/2022|02/12/2022|1.1|Adiciona dados pesquisa| [Eduardo](https://github.com/edudsan) |[Thiago Oliveira](https://github.com/Thiab394)|
 
 ## <a>Introdução</a>
-
-O perfil do usuário deve ser definido levando em conta o maior número possível de tipos de dados a serem coletados. Em outras palavras, um perfil deve possuir informações como, por exemplo:
+Este documento tem como objetivo analisar as características de pessoas que utilizam e não utilizam o aplicativo MEI. Para compreender melhor esses usuários, é preciso criar um perfil deles. Isso inclui responder questões com os seguintes temas:
 
 * Dados demográficos;
 * Experiência no assunto;
 * Afinidade com tecnologias;
 * Tarefas primárias que procura realizar como usuário.
+
+Isso nos ajudará a entender para qual público alvo será desenvolvido o produto e também nos irá nos auxiliar a selecionar participantes para atividades de análise e avaliação nos próximos passos de desenvolvimento.
+
+## <a>Metodologia</a>
 
 Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e pesquisa do perfil em cima de estudos realizados previamente por outros analistas, método que complementa e orienta a obtenção de novos dados [1].
 
