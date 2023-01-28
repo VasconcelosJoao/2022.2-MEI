@@ -5,7 +5,7 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |30/12/2022|02/01/2023|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [Ana Luiza](https://github.com/AnHoff) e [Thiago Oliveira](https://github.com/Thiab394) |
 |03/01/2023|04/01/2023|1.1|Adição dos critérios de aceitação| [Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff) |
-|24/01/2023|25/01/2023|1.2|Correção com base na Verificação| [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
+|24/01/2023|25/01/2023|1.2|Correção com base na Verificação| [Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff) |
 
 
 ## <a>Introdução</a>

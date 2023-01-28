@@ -5,7 +5,7 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |09/12/2022|10/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo](https://github.com/edudsan)|[Thiago Oliveira](https://github.com/Thiab394) |
 |10/12/2022|11/12/2022|1.1|Adição Dos Diagramas de Caso de Uso| [Thiago Oliveira](https://github.com/Thiab394)| [Pedro Lucas](https://github.com/PedroLSF)|
-|22/01/2022|23/01/2022|1.2|Correção do Documento de acordo com a verificação| [Thiago Oliveira](https://github.com/Thiab394)| [-](https://github.com/)|
+|22/01/2022|23/01/2022|1.2|Correção do Documento de acordo com a verificação| [Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|
 
 ## <a>Introdução</a>
 Um caso de uso define uma sequência de ações executadas pelo sistema que geram um resultado de valor observável para um ator em particular. Cada caso de uso deve gerar um significado de valor para o ator que utiliza o sistema.

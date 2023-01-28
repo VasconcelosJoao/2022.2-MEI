@@ -5,7 +5,7 @@
 | :--------: | :----------------------: | :----: | :----------------------: | :--------------------------------------------: | :----------------------------------------: |
 | 23/01/2023 |        23/01/2023        |  1.0   |   Criação do documento   | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
 | 23/01/2023 |        23/01/2023        |  1.1   | Finalização do documento |   [João Lucas](https://github.com/HacKairos)   | [Thiago Oliveira](https://github.com/Thiab394) |
-| 26/01/2023 |        27/01/2023        |  1.2   | Adição de Tabela Explicitando Tema de Cada Requisito |[Thiago Oliveira](https://github.com/Thiab394)| [-](https://github.com/) |
+| 26/01/2023 |        27/01/2023        |  1.2   | Adição de Tabela Explicitando Tema de Cada Requisito |[Thiago Oliveira](https://github.com/Thiab394)| [Ana Luiza](https://github.com/AnHoff) |
 
 
 ## <a>Introdução</a>
