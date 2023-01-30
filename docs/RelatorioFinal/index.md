@@ -5,6 +5,7 @@
 | Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
 | :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
 |     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | -   |
+|     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   | -   |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -20,7 +21,7 @@ Vale destacar que o documento foi elaborado seguindo o template utilizado pelo p
 
 ## <a>Objetivo</a>
 
-
+aplicar na prática o que foi aprendido em sala de aula, analisar o mei
 
 ## <a>MEI</a>
 ### <a>Sobre o MEI</a>
@@ -161,10 +162,26 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 * O questionário sobre o perfil do usuário foi criado e divulgado pelo integrante [Eduardo](https://github.com/edudsan).
 
 ## <a>Resultados</a>
+Acreditamos que o objetivo primordial desse projeto, aplicar na prática o que foi aprendido em sala de aula, foi alcançado de diferentes formas. No início, os resultados não foram satisfatórios, deixando muito a desejar. As técnicas e conceitos foram aplicados de forma incorreta e, com isso, o trabalho iniciou "com o pé esquerdo". Apesar desse fato, o grupo conseguiu se reorganizar e melhorar muito a qualidade dos artefatos que estavam sendo elaborados a partir das [Etapas 3 e 4](#etapas-3-e-4-modelagem), sem deixar de lado as melhorias a serem realizadas nos artefatos iniciais. Com isso em mente, pode-se afirmar que a aplicação de técnicas e conceitos aprendidos em sala foi realizada com sucesso durante o projeto.
 
+O outro objetivo do projeto, não menos importante que o primeiro apresentado, era analisar um aplicativo. O MEI foi escolhido após a elaboração e análise dos diferentes [Rich Pictures](../Planejamento/AplicativosAnalisados.md) elaborados pelos integrantes do grupo. Após a escolha do aplicativo, foi possível iniciar a aplicação dos conceitos e ténicas aprendidos, por meio da realização das fases de **Planejamento**, **Elicitação e Priorização**, **Modelagem** e **Pós-rastreabilidade**.
+
+Todos os integrantes presentes nas tabelas de [Artefatos](#artefatos) participaram ativamente do projeto. Seja por meio da elaboração direta de artefatos ou da realização de pesquisas e entrevistas com os usuários, todos participaram dando o melhor de si. Todos concordam: houve grande desenvolvimento de softskills. As mais notáveis foram:
+
+* Organização;
+* Planejamento;
+* Resiliência.
+
+A seguir, confira um resumo dos resultados mais notáveis do projeto.
+
+### <a>Perfil do Usuário</a>
+O [Perfil do Usuário](../Elicitacao/perfil.md) identificado pelo grupo é semelhante ao perfil encontrado em estudos realizados por outros pesquisadores [2]. Esse fato dá suporte aos dados obtidos pelo grupo, que são compatíveis com os obtidos por meio de pesquisas oficiais de grandes empresas.
+
+### <a>Requisitos</a>
+Diversos requisitos elicitados não são atendidos pelo aplicativo atual. Com isso em mente, foi possível realizar uma priorização de requisitos e determinar quais eram os mais importantes de serem implementados ou melhorados. Também foi possível criar [SIGs](../Modelagem/NFRFramework.md) que mapeiam de forma clara o que é e o que não é atendido pelo sistema atualmente.
 
 ### <a>Protótipo de Alta Fidelidade</a>
-O [Protótipo de Alta Fidelidade](../Analise/Validacao/protAlta.md) foi elaborado pelo integrante [João Lucas](https://github.com/HacKairos), em colaboração com [Arthur Taylor](https://github.com/Eruel6). Sua criação visava melhorar pontos críticos, como a segurança do aplicativo, a partir do resultado da análise e modelagem de requisitos. O protótipo pode ser conferido [aqui](https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9).
+O [Protótipo de Alta Fidelidade](../Analise/Validacao/protAlta.md) foi elaborado pelo integrante [João Lucas](https://github.com/HacKairos), em colaboração com [Arthur Taylor](https://github.com/Eruel6), e aprovado por todo o grupo (Ana, Pedro, Thiago e Eduardo). Sua criação visava melhorar pontos críticos, como a segurança do aplicativo, a partir do resultado da análise e modelagem de requisitos. Confira aqui o [Protótipo](https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9).
 
 ## <a>V&V</a>
 ### <a>Verificação</a>
@@ -214,3 +231,5 @@ Para realizar a [Validação](../Analise/Validacao/), foram escolhidas as técni
 
 ## <a>BIbliografia</a>
 [1] 2022.1-YouTube. Disponível em: https://requisitos-de-software.github.io/2022.1-Youtube/apresentacao-final/. Acesso em: 27 de Janeiro de 2023.
+
+[2] Análise do perfil do Microempreendedor Individual (MEI). Disponível em: https://www.jurozero.sc.gov.br/padrao-categoria-noticias/342-analise-do-perfil-do-microempreendedor-individual-mei.html. Acesso em 20 de Janeiro de 2023.

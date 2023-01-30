@@ -5,10 +5,10 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |30/11/2022|30/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |01/12/2022|02/12/2022|1.1|Adiciona dados pesquisa| [Eduardo](https://github.com/edudsan) |[Thiago Oliveira](https://github.com/Thiab394)|
-| 29/01/2023 |        30/01/2023        |  1.2   | Correção com base na verificação | [Eduardo](https://github.com/edudsan) | [-](https://github.com/) |
+| 29/01/2023 |        30/01/2023        |  1.2   | Correção com base na verificação | [Eduardo](https://github.com/edudsan) | [Ana Luiza](https://github.com/AnHoff) |
 
 ## <a>Introdução</a>
-Este documento tem como objetivo analisar as características de pessoas que utilizam e não utilizam o aplicativo MEI. Para compreender melhor esses usuários, é preciso criar um perfil deles. Isso inclui responder questões com os seguintes temas:
+Este documento tem como objetivo apresentar e analisar o perfil de usuário do MEI. Para compreender melhor esses usuários, é necessário coletar dados sobre os seguintes temas:
 
 * Dados demográficos;
 * Experiência no assunto;
@@ -18,8 +18,9 @@ Este documento tem como objetivo analisar as características de pessoas que uti
 Isso nos ajudará a entender para qual público alvo será desenvolvido o produto e também nos irá nos auxiliar a selecionar participantes para atividades de análise e avaliação nos próximos passos de desenvolvimento.
 
 ## <a>Metodologia</a>
+Diferentes técnicas podem ser usadas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e pesquisa do perfil em cima de estudos realizados previamente por outros analistas [1], método que complementa e orienta a obtenção de novos dados [2].
 
-Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e pesquisa do perfil em cima de estudos realizados previamente por outros analistas, método que complementa e orienta a obtenção de novos dados [1].
+O formulário foi elaborado no Google Forms e divulgado em páginas do Facebook que reúnem microempreendedores individuais. Seus resultados foram comparados com os resultados de outras pesquisas aplicadas previamente, com o objetivo de verificar a proximidade dos dados coletados pelo grupo com os dados coletados por pesquisas oficiais.
 
 ## <a>Resultados</a>
 Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário foram por meio das perguntas que podem ser lidas na tabela 1:
@@ -31,15 +32,20 @@ Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há
 |   1   |    Qual a sua idade?                                         |
 |   2   |    Qual o seu sexo?                                          |
 |   3   |    Qual a sua esolaridade?                                   |
-|   4   |    Qual a sua experiência com o MEI?            |
+|   4   |    Qual a sua experiência com o MEI?                         |
 |   5   |    Qual a sua experiência com a tecnologia atual?            |
-|   6   |    Principal motivo para usar o MEI             |
+|   6   |    Qual o principal motivo para usar o MEI?                  |
 |   7   |    Qual seu status socioeconômico?                           |
 |   8   |    Qual dispositivo você mais usa?                           |
-|   9   |    Qual sua ocupação atual?                                  |
-|   10  |    Por quanto tempo você usa o dispositivo eletrônico no dia?|
+|   9   |    Qual é a sua ocupação atual?                              |
+|   10  |    Qual o seu tempo de uso de dispositivos eletrônicos durante o dia?|
+|   11  |Onde você costuma trabalhar?|
+|   12  |Qual a sua experiência de trabalho?|
+|   13  |Você possui alguma dificuldade relacionada a ser MEI?|
+|   14  |Quais idiomas você fala?|
+|   15  |Há alguma tarefa, relacionada ao MEI, que você gosta ou gostaria de realizar por meio de um aplicativo?|
 
-*Tabela 1 - Perguntas do formulário eletrônico.*
+*Tabela 1 - Perguntas do formulário eletrônico*
 
  
 </Center>
@@ -115,4 +121,6 @@ Na figura 9 temos um gráfico que podemos ter uma noção do tempo médio de uso
 
 
 ## <a>Bibliografia</a>
-[1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
+[1] Análise do perfil do Microempreendedor Individual (MEI). Disponível em: https://www.jurozero.sc.gov.br/padrao-categoria-noticias/342-analise-do-perfil-do-microempreendedor-individual-mei.html. Acesso em 20 de Janeiro de 2023.
+
+[2] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
