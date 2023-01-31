@@ -3,6 +3,7 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |10/12/2022|11/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6) e [Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos) |
 |04/01/2023|04/01/2023|1.1|Melhoria no documento| [Eduardo](https://github.com/edudsan) | [Ana Luiza](https://github.com/AnHoff) |
+|31/01/2023|31/01/2023|1.1|Correção com base na verificação| [Eduardo](https://github.com/edudsan) | Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução </a>
 
@@ -20,7 +21,7 @@ Funcionalidade representa os requisitos não funcionais do software e possui vá
 
 ## <a>Usabilidade</a>
 
-A usabilidade diz respeito à capacidade do usuário em usar e entender o sistema. Um sistema com boa usabilidade é fácil de ser usado e entendido, para que o MEI possa realizar suas atividades com eficiência e sem se deparar com problemas. Os requisitos identificados podem ser observados na tabela 2 abaixo.
+A usabilidade diz respeito à capacidade do usuário em usar e entender o sistema. Um sistema com boa usabilidade é um sistema que possui facilidade de memorização e e eficiência na usabilidade. Isso o torna fácil de ser usado e entendido, para que o MEI possa realizar suas atividades com eficiência e sem se deparar com problemas. Os requisitos identificados podem ser observados na tabela 2 abaixo.
 
 <center>
 
@@ -83,6 +84,9 @@ O sistema deve ser capaz de se adaptar e crescer de acordo com as necessidades d
 *Tabela 5 - Requisitos suportabilidade*
 
 </center>
+
+## Requisito de licenciamento
+O aplicativo MEI apresenta termo de licenciamento para que o usuário permita para utilizar o aplicativo.[Termo de uso MEI](../Elicitacao/ModeloTermoConsentimento.md)
  
 ## <a>Resultados</a>
 
