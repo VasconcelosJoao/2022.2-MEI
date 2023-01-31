@@ -4,7 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |08/12/2022|09/12/2022|1.0|Criação do Modelo| [Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)
-|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff) e [Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)
+|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff) e [Thiago Oliveira](https://github.com/Thiab394)|[Eduardo](https://github.com/edudsan)|
 
 ## Intrudoção
 Este documento tem como objetivo ser um modelo para a criação dos termos de consentimentos que serão utilizados para a reliazação das entrevistas e/ou qualquer 
