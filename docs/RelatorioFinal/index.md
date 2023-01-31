@@ -4,8 +4,8 @@
 
 | Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
 | :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | -   |
-|     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   | -   |
+|     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Thiago Olivera](https://github.com/Thiab394)   |
+|     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |  [Thiago Olivera](https://github.com/Thiab394)   |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -21,7 +21,7 @@ Vale destacar que o documento foi elaborado seguindo o template utilizado pelo p
 
 ## <a>Objetivo</a>
 
-aplicar na prática o que foi aprendido em sala de aula, analisar o mei
+Aplicar na prática o que foi aprendido em sala de aula
 
 ## <a>MEI</a>
 ### <a>Sobre o MEI</a>
@@ -32,6 +32,8 @@ aplicar na prática o que foi aprendido em sala de aula, analisar o mei
 
 
 ## <a>Planejamento</a>
+Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma,
+
 
 
 
