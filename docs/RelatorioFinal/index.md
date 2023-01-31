@@ -7,6 +7,7 @@
 |     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Thiago Olivera](https://github.com/Thiab394)   |
 |     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |  [Thiago Olivera](https://github.com/Thiab394)   |
 |     31/01/2023     |        01/02/2023        |  1.2   |     Adição da Seção Planejamento     |   [Thiago Olivera](https://github.com/Thiab394)   |  [Ana Luiza](https://github.com/AnHoff)|
+|     31/01/2023     |        01/02/2023        |  1.3   |     Adição da Seção Mei e Técnicas     |   [Pedro Lucas](https://github.com/PedroLSF)   |  [-]|
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -26,10 +27,16 @@ Aplicar na prática o que foi aprendido em sala de aula
 
 ## <a>MEI</a>
 ### <a>Sobre o MEI</a>
+Microempreendedor Individual ou mais conhecido como MEI, é um aplicativo ligado ao Portal do Empreendedor, o aplicativo fornece vários auxílios para quem deseja formalizar algum trabalho a fim de obter, por exemplo, uma aposentadoria. O aplicativo lista algumas funções, são elas:
+* Gerar guia de pagamento do DAS;
+* Status do CNPJ;
+* Solicitar Restituição;
+* Entre outros.
 
+Todos esses pontos estão presentes e foram trabalhos ao longo do nosso projeto.
 
 ### <a>Por quê o MEI?</a>
-
+Antes de entender a razão da escolha do MEI vale citar que foram analisados 6 [aplicativos](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/AplicativosAnalisados/), foram feitos Rich Picture e uma reunião para análise dos problemas encontrados em casa aplicativo. Por fim, depois de muitas análises foi possível levantar dados maiores sobre o MEI e entender que seria o melhor aplicativo para nosso projeto, existe um documento explicando o [Motivo do Aplicativo MEI](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/MEI/).
 
 
 ## <a>Planejamento</a>
@@ -147,7 +154,12 @@ O Cronograma Planejado pode ser visto [aqui](../Planejamento/Roadmap/#cronograma
 
 
 ## <a>Técnicas</a>
+O Grupo buscou algumas técnicas para elicitar os requisitos, o primeiro a ser trabalhado foi o questionário, porém não tivemos os resultados esperados para, portanto, não conseguimos utilizar esses dados e atrasamos em primeiro momento. Logo depois, conseguimos utilizar de forma correta 3 técnicas, sendo elas:
+* [Brainstorming](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
+* [Entrevista](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
+* [Introspecção](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
 
+Com essas três técnicas, o grupo MEI conseguiu listar requisitos funcionais e não funcionais para serem trabalhados ao longo do projeto. Vale ressaltar a importância do trabalho com as [personas](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/personas/).
 
 
 ## <a>Artefatos</a>
