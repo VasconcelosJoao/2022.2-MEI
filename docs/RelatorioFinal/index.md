@@ -6,6 +6,7 @@
 | :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
 |     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Thiago Olivera](https://github.com/Thiab394)   |
 |     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |  [Thiago Olivera](https://github.com/Thiab394)   |
+|     31/01/2023     |        01/02/2023        |  1.2   |     Adição da Seção Planejamento     |   [Thiago Olivera](https://github.com/Thiab394)   |  [Ana Luiza](https://github.com/AnHoff)|
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -32,12 +33,112 @@ Aplicar na prática o que foi aprendido em sala de aula
 
 
 ## <a>Planejamento</a>
-Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma,
+Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma. 
 
+Em tal etapa temos diversos documentos, tais como aplicativos analisados, aplicativo escolhido, Ferramentas, etc, que estão listados e podem ser visualizados na seção de [Artefatos - Etapa 1](#etapa 1: planejamento), porém aqui será mostrado apenas o cronograma planejado do projeto, que seria a essência do planejamento do mesmo, por possuir em detalhes a realização de cada artefate e de cada "Sub-artefato" ou até documentos e etapas auxiliares para que seja realizada uma boa execução.
 
+O Cronograma Planejado pode ser visto [aqui](../Planejamento/Roadmap/#cronograma-planejado), porém também será listado logo abaixo, nas Tabelas de 1-6 Relacionadas ás etapas 1-6 respectivamente:
+
+<center>
+
+**Etapa 1**
+
+| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Listar apps avaliados | Ana e Pedro | 28/10/2022 | 01/11/2022 | 02/11/2022 | João
+| Discorrer sobre o app selecionado | Ana e Pedro | 01/11/2022 | 19/11/2022| 20/11/2022 | Pedro
+| Ferramentas do projeto | Arthur, Eduardo e Thiago | 12/11/2022 | 19/11/2022 | 20/11/2022 | Ana
+| Adicionar Rich Pictures | Ana, Arthur, Pedro, João, Thiago, Eduardo | 12/11/2022 | 19/11/2022 | 20/11/2022 | Thiago
+| Refazer Rich Picture do app selecionado | João | 19/11/2022 | 23/11/2022 | 24/11/2022 | Arthur
+| Cronograma de atividades | Arthur e Thiago | 16/11/2022 | 23/11/2022 | 24/11/2022 | Eduardo
+| Heatmap | Eduardo | 16/11/2022 | 23/11/2022 | 24/11/2022 | João
+| Metodologias | Arthur e Thiago | 16/11/2022 | 23/11/2022 | 24/11/2022 | João
+| Equipe | Thiago | 16/11/2022 | 23/11/2022 | 24/11/2022 | João
+| Atas | Arthur | 16/11/2022 | 23/11/2022 | 24/11/2022 | Ana
+
+*Tabela 1 - Tarefas para a Etapa 1*<br><br>
+
+**Etapa 2**
+
+| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Traçar perfil de usuários | Eduardo, João e Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | João, Ana
+| Personas | Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Perfil - Questionário | Eduardo | 23/11/2022 | 29/11/2022 | 30/11/2022 | Thiago
+| Elicitação - Introspecção | Arthur | 23/11/2022 | 29/11/2022 | 30/11/2022 | Ana
+| Elicitação - Entrevista | Arthur | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Elicitação - Brainstorm | Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | Ana
+| Priorização - MoSCoW | Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Priorização - First Things First | Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Priorização - Three-Level Scale | Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur
+| Cronograma para elicitação de requisitos | Thiago | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur
+| Cronograma para priorização de requisitos | Thiago | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Gravação de priorização - Three-Level Scale| Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | Eduardo
+| Gravação de priorização - Moscow| Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur
+| Gravação de elicitação - entrevista | Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | Eduardo
+| Gravação de elicitação - introspecção | Arthur | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Gravação de elicitação e priorização - brainstorm | Pedro, Arthur, Thiago, Eduardo | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+
+*Tabela 2 - Tarefas para a Etapa 2*<br><br>
+
+**Etapa 3**
+
+| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Cenários - especificações | João, Eduardo | 30/11/2022 | 11/12/2022 | 12/12/2022 | Thiago
+| Cenários - criação| João, Eduardo | 30/11/2022 | 11/12/2022 | 12/12/2022 | Thiago
+| Léxicos - especificações | Ana | 30/11/2022 | 11/12/2022 | 12/12/2022 | Pedro
+| Léxicos - definições | Ana | 30/11/2022 | 11/12/2022 | 12/12/2022 | Pedro
+| Casos de Uso - especificação | Pedro, Thiago | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana
+| Casos de Uso - atores | Pedro, Thiago | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana
+| Casos de Uso - diagrama | Pedro, Thiago | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana
+| Especificação suplementar | Eduarto, Arthur | 02/12/2022 | 11/12/2022 | 12/12/2022 | João
+| Modelo FURPS+ | Eduardo | 02/12/2022 | 11/12/2022 | 12/12/2022 | Arthur
+
+*Tabela 3 - Tarefas para a Etapa 3*<br><br>
+
+**Etapa 4**
+
+| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Histórias de usuário | Eduardo | 13/12/2022 | 03/01/2023 | 04/01/2023 | João
+| Histórias de usuário - contato com usuário/persona| Pedro | 13/12/2022 | 03/01/2023 | 04/01/2023 | Thiago
+| Histórias de usuário - critérios de aceitação | Arthur | 13/12/2022 | 03/01/2023 | 04/01/2023 | Ana
+| Backlogs - épicos | Thiago | 13/12/2022 | 03/01/2023 | 04/01/2023 | Arthur
+| Backlogs - temas | Thiago | 13/12/2022 | 03/01/2023 | 04/01/2023 | Arthur
+| NFR Framework | Ana | 13/12/2022 | 03/01/2023 | 04/01/2023 | Eduardo
+| Softgoals | Arthur | 13/12/2022 | 03/01/2023 | 04/01/2023 | João
+| Impactos | João | 13/12/2022 | 03/01/2023 | 04/01/2023 | Thiago
+
+*Tabela 4 - Tarefas para a Etapa 4*<br><br>
+
+**Etapa 5**
+
+| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Verificação de requisitos | Ana, Pedro, Thiago | 05/01/2023 | 10/01/2023 | 11/01/2023 | João
+| Validação de requisitos| João, Arthur, Eduardo | 05/01/2023 | 10/01/2023 | 11/01/2023 | Thiago
+
+*Tabela 5 - Tarefas para a Etapa 5*<br><br>
+
+**Etapa 6**
+
+| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Pós-rastreabilidade | Pedro, Thiago | 11/01/2023 | 15/01/2023 | 16/01/2023 | João
+| Backward From| Ana, Arthur | 11/01/2023 | 15/01/2023 | 16/01/2023 | Thiago
+| Forward From| João, Eduardo | 11/01/2023 | 15/01/2023 | 16/01/2023 | Ana
+| Planejamento de verificação de artefatos | Ana, Pedro | 15/01/2023 | 18/01/2023 | 19/01/2023 | Arthur
+| Relatos da verificação de artefatos | João, Thiago | 15/01/2023 | 18/01/2023 | 19/01/2023 | Eduardo
+
+*Tabela 6 - Tarefas para a Etapa 6*<br><br>
+
+</center>
 
 
 ## <a>Execução</a>
+
+<!--Falar que nao foi seguido corretamente o cronograma planejado -->
 
 
 
