@@ -3,7 +3,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |08/01/2023|09/01/2023|1.0|Criação do documento| [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
-|15/01/2023|16/01/2023|1.1|Mudança na Tabela de Checklist| [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
+|15/01/2023|16/01/2023|1.1|Mudança na Tabela de Checklist| [Thiago Oliveira](https://github.com/Thiab394) | [Eduardo](https://github.com/edudsan) |
 
 ## <a>Introdução</a>
 Este documento tem como objetivo realizar a verificação do documento e da elaboração das [Personas](https://requisitos-de-software.github.io/2022.2-LinkedIn/elicitacao/personas/) do grupo número 4 do semestre 2022.2 de Requisitos de Software,grupo esse referente ao aplicativo do LinkeDin, para realizar tal verificação optamos por utilizar a técnica de "Inspeção".
