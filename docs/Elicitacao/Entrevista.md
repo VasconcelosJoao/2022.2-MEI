@@ -5,7 +5,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos)|
-|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|
+|19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 
 ## <a>Introdução</a>
 
