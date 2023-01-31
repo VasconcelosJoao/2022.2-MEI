@@ -3,7 +3,7 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |10/12/2022|11/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6) e [Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos) |
 |04/01/2023|04/01/2023|1.1|Melhoria no documento| [Eduardo](https://github.com/edudsan) | [Ana Luiza](https://github.com/AnHoff) |
-|31/01/2023|31/01/2023|1.1|Correção com base na verificação| [Eduardo](https://github.com/edudsan) | Pedro Lucas](https://github.com/PedroLSF) |
+|31/01/2023|31/01/2023|1.1|Correção com base na verificação| [Eduardo](https://github.com/edudsan) | [Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução </a>
 
