@@ -23,7 +23,7 @@ Vale destacar que o documento foi elaborado seguindo o template utilizado pelo p
 
 ## <a>Objetivo</a>
 
-Aplicar na prática o que foi aprendido em sala de aula
+A disciplina de requisitos de software possui objetivo de ensinar os alunos sobre requisitos, desde o seu processo de elicitação até técnicas de como priorizá-los. O projeto foi desenvolvido com a finalidade de aprender de forma prática sobre os tópicos da ementa da disciplina, com isso foi escolhido um aplicativo para podermos aplicar as técnicas de elicitaçãao e modelagem que nos foram apresentados no decorrer da dsiciplina.
 
 ## <a>MEI</a>
 ### <a>Sobre o MEI</a>
