@@ -2,12 +2,13 @@
 
 ## <a>Histórico de Versão</a>
 
-| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
-| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Thiago Olivera](https://github.com/Thiab394)   |
-|     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |  [Thiago Olivera](https://github.com/Thiab394)   |
-|     31/01/2023     |        01/02/2023        |  1.2   |     Adição da Seção Planejamento     |   [Thiago Olivera](https://github.com/Thiab394)   |  [Ana Luiza](https://github.com/AnHoff)|
-|     31/01/2023     |        01/02/2023        |  1.3   |     Adição da Seção Mei e Técnicas     |   [Pedro Lucas](https://github.com/PedroLSF)   |  [Eduardo](https://github.com/edudsan)|
+| Data de Realização | Data Prevista de Revisão | Versão |              Descrição               |                     Autor                     |                    Revisor                    |
+| :----------------: | :----------------------: | :----: | :----------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+|     27/01/2023     |        28/01/2023        |  1.0   |         Criação do Documento         |    [Ana Luiza](https://github.com/AnHoff)     | [Thiago Olivera](https://github.com/Thiab394) |
+|     29/01/2023     |        30/01/2023        |  1.1   | Finaliza Artefatos, Resultados e V&V |    [Ana Luiza](https://github.com/AnHoff)     | [Thiago Olivera](https://github.com/Thiab394) |
+|     31/01/2023     |        01/02/2023        |  1.2   |     Adição da Seção Planejamento     | [Thiago Olivera](https://github.com/Thiab394) |    [Ana Luiza](https://github.com/AnHoff)     |
+|     31/01/2023     |        01/02/2023        |  1.3   |    Adição da Seção Mei e Técnicas    |  [Pedro Lucas](https://github.com/PedroLSF)   |     [Eduardo](https://github.com/edudsan)     |
+|     31/01/2023     |        01/02/2023        |  1.4   | Adição da Execução e das ferramentas |  [João Lucas](https://github.com/HacKairos)   |           [](https://github.com/-)            |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -50,93 +51,93 @@ O Cronograma Planejado pode ser visto [aqui](../Planejamento/Roadmap/#cronograma
 
 **Etapa 1**
 
-| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
-| --- | --- | --- | --- | --- | --- |
-| Listar apps avaliados | Ana e Pedro | 28/10/2022 | 01/11/2022 | 02/11/2022 | João
-| Discorrer sobre o app selecionado | Ana e Pedro | 01/11/2022 | 19/11/2022| 20/11/2022 | Pedro
-| Ferramentas do projeto | Arthur, Eduardo e Thiago | 12/11/2022 | 19/11/2022 | 20/11/2022 | Ana
-| Adicionar Rich Pictures | Ana, Arthur, Pedro, João, Thiago, Eduardo | 12/11/2022 | 19/11/2022 | 20/11/2022 | Thiago
-| Refazer Rich Picture do app selecionado | João | 19/11/2022 | 23/11/2022 | 24/11/2022 | Arthur
-| Cronograma de atividades | Arthur e Thiago | 16/11/2022 | 23/11/2022 | 24/11/2022 | Eduardo
-| Heatmap | Eduardo | 16/11/2022 | 23/11/2022 | 24/11/2022 | João
-| Metodologias | Arthur e Thiago | 16/11/2022 | 23/11/2022 | 24/11/2022 | João
-| Equipe | Thiago | 16/11/2022 | 23/11/2022 | 24/11/2022 | João
-| Atas | Arthur | 16/11/2022 | 23/11/2022 | 24/11/2022 | Ana
+| Tarefa                                  | Responsáveis                              | Início     | Fim        | Revisão    | Revisor |
+| --------------------------------------- | ----------------------------------------- | ---------- | ---------- | ---------- | ------- |
+| Listar apps avaliados                   | Ana e Pedro                               | 28/10/2022 | 01/11/2022 | 02/11/2022 | João    |
+| Discorrer sobre o app selecionado       | Ana e Pedro                               | 01/11/2022 | 19/11/2022 | 20/11/2022 | Pedro   |
+| Ferramentas do projeto                  | Arthur, Eduardo e Thiago                  | 12/11/2022 | 19/11/2022 | 20/11/2022 | Ana     |
+| Adicionar Rich Pictures                 | Ana, Arthur, Pedro, João, Thiago, Eduardo | 12/11/2022 | 19/11/2022 | 20/11/2022 | Thiago  |
+| Refazer Rich Picture do app selecionado | João                                      | 19/11/2022 | 23/11/2022 | 24/11/2022 | Arthur  |
+| Cronograma de atividades                | Arthur e Thiago                           | 16/11/2022 | 23/11/2022 | 24/11/2022 | Eduardo |
+| Heatmap                                 | Eduardo                                   | 16/11/2022 | 23/11/2022 | 24/11/2022 | João    |
+| Metodologias                            | Arthur e Thiago                           | 16/11/2022 | 23/11/2022 | 24/11/2022 | João    |
+| Equipe                                  | Thiago                                    | 16/11/2022 | 23/11/2022 | 24/11/2022 | João    |
+| Atas                                    | Arthur                                    | 16/11/2022 | 23/11/2022 | 24/11/2022 | Ana     |
 
 *Tabela 1 - Tarefas para a Etapa 1*<br><br>
 
 **Etapa 2**
 
-| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
-| --- | --- | --- | --- | --- | --- |
-| Traçar perfil de usuários | Eduardo, João e Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | João, Ana
-| Personas | Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
-| Perfil - Questionário | Eduardo | 23/11/2022 | 29/11/2022 | 30/11/2022 | Thiago
-| Elicitação - Introspecção | Arthur | 23/11/2022 | 29/11/2022 | 30/11/2022 | Ana
-| Elicitação - Entrevista | Arthur | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
-| Elicitação - Brainstorm | Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | Ana
-| Priorização - MoSCoW | Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
-| Priorização - First Things First | Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
-| Priorização - Three-Level Scale | Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur
-| Cronograma para elicitação de requisitos | Thiago | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur
-| Cronograma para priorização de requisitos | Thiago | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
-| Gravação de priorização - Three-Level Scale| Ana | 23/11/2022 | 29/11/2022 | 30/11/2022 | Eduardo
-| Gravação de priorização - Moscow| Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur
-| Gravação de elicitação - entrevista | Pedro | 23/11/2022 | 29/11/2022 | 30/11/2022 | Eduardo
-| Gravação de elicitação - introspecção | Arthur | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
-| Gravação de elicitação e priorização - brainstorm | Pedro, Arthur, Thiago, Eduardo | 23/11/2022 | 29/11/2022 | 30/11/2022 | João
+| Tarefa                                            | Responsáveis                   | Início     | Fim        | Revisão    | Revisor   |
+| ------------------------------------------------- | ------------------------------ | ---------- | ---------- | ---------- | --------- |
+| Traçar perfil de usuários                         | Eduardo, João e Pedro          | 23/11/2022 | 29/11/2022 | 30/11/2022 | João, Ana |
+| Personas                                          | Pedro                          | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
+| Perfil - Questionário                             | Eduardo                        | 23/11/2022 | 29/11/2022 | 30/11/2022 | Thiago    |
+| Elicitação - Introspecção                         | Arthur                         | 23/11/2022 | 29/11/2022 | 30/11/2022 | Ana       |
+| Elicitação - Entrevista                           | Arthur                         | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
+| Elicitação - Brainstorm                           | Pedro                          | 23/11/2022 | 29/11/2022 | 30/11/2022 | Ana       |
+| Priorização - MoSCoW                              | Ana                            | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
+| Priorização - First Things First                  | Ana                            | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
+| Priorização - Three-Level Scale                   | Ana                            | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur    |
+| Cronograma para elicitação de requisitos          | Thiago                         | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur    |
+| Cronograma para priorização de requisitos         | Thiago                         | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
+| Gravação de priorização - Three-Level Scale       | Ana                            | 23/11/2022 | 29/11/2022 | 30/11/2022 | Eduardo   |
+| Gravação de priorização - Moscow                  | Pedro                          | 23/11/2022 | 29/11/2022 | 30/11/2022 | Arthur    |
+| Gravação de elicitação - entrevista               | Pedro                          | 23/11/2022 | 29/11/2022 | 30/11/2022 | Eduardo   |
+| Gravação de elicitação - introspecção             | Arthur                         | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
+| Gravação de elicitação e priorização - brainstorm | Pedro, Arthur, Thiago, Eduardo | 23/11/2022 | 29/11/2022 | 30/11/2022 | João      |
 
 *Tabela 2 - Tarefas para a Etapa 2*<br><br>
 
 **Etapa 3**
 
-| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
-| --- | --- | --- | --- | --- | --- |
-| Cenários - especificações | João, Eduardo | 30/11/2022 | 11/12/2022 | 12/12/2022 | Thiago
-| Cenários - criação| João, Eduardo | 30/11/2022 | 11/12/2022 | 12/12/2022 | Thiago
-| Léxicos - especificações | Ana | 30/11/2022 | 11/12/2022 | 12/12/2022 | Pedro
-| Léxicos - definições | Ana | 30/11/2022 | 11/12/2022 | 12/12/2022 | Pedro
-| Casos de Uso - especificação | Pedro, Thiago | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana
-| Casos de Uso - atores | Pedro, Thiago | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana
-| Casos de Uso - diagrama | Pedro, Thiago | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana
-| Especificação suplementar | Eduarto, Arthur | 02/12/2022 | 11/12/2022 | 12/12/2022 | João
-| Modelo FURPS+ | Eduardo | 02/12/2022 | 11/12/2022 | 12/12/2022 | Arthur
+| Tarefa                       | Responsáveis    | Início     | Fim        | Revisão    | Revisor |
+| ---------------------------- | --------------- | ---------- | ---------- | ---------- | ------- |
+| Cenários - especificações    | João, Eduardo   | 30/11/2022 | 11/12/2022 | 12/12/2022 | Thiago  |
+| Cenários - criação           | João, Eduardo   | 30/11/2022 | 11/12/2022 | 12/12/2022 | Thiago  |
+| Léxicos - especificações     | Ana             | 30/11/2022 | 11/12/2022 | 12/12/2022 | Pedro   |
+| Léxicos - definições         | Ana             | 30/11/2022 | 11/12/2022 | 12/12/2022 | Pedro   |
+| Casos de Uso - especificação | Pedro, Thiago   | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana     |
+| Casos de Uso - atores        | Pedro, Thiago   | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana     |
+| Casos de Uso - diagrama      | Pedro, Thiago   | 02/12/2022 | 11/12/2022 | 12/12/2022 | Ana     |
+| Especificação suplementar    | Eduarto, Arthur | 02/12/2022 | 11/12/2022 | 12/12/2022 | João    |
+| Modelo FURPS+                | Eduardo         | 02/12/2022 | 11/12/2022 | 12/12/2022 | Arthur  |
 
 *Tabela 3 - Tarefas para a Etapa 3*<br><br>
 
 **Etapa 4**
 
-| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
-| --- | --- | --- | --- | --- | --- |
-| Histórias de usuário | Eduardo | 13/12/2022 | 03/01/2023 | 04/01/2023 | João
-| Histórias de usuário - contato com usuário/persona| Pedro | 13/12/2022 | 03/01/2023 | 04/01/2023 | Thiago
-| Histórias de usuário - critérios de aceitação | Arthur | 13/12/2022 | 03/01/2023 | 04/01/2023 | Ana
-| Backlogs - épicos | Thiago | 13/12/2022 | 03/01/2023 | 04/01/2023 | Arthur
-| Backlogs - temas | Thiago | 13/12/2022 | 03/01/2023 | 04/01/2023 | Arthur
-| NFR Framework | Ana | 13/12/2022 | 03/01/2023 | 04/01/2023 | Eduardo
-| Softgoals | Arthur | 13/12/2022 | 03/01/2023 | 04/01/2023 | João
-| Impactos | João | 13/12/2022 | 03/01/2023 | 04/01/2023 | Thiago
+| Tarefa                                             | Responsáveis | Início     | Fim        | Revisão    | Revisor |
+| -------------------------------------------------- | ------------ | ---------- | ---------- | ---------- | ------- |
+| Histórias de usuário                               | Eduardo      | 13/12/2022 | 03/01/2023 | 04/01/2023 | João    |
+| Histórias de usuário - contato com usuário/persona | Pedro        | 13/12/2022 | 03/01/2023 | 04/01/2023 | Thiago  |
+| Histórias de usuário - critérios de aceitação      | Arthur       | 13/12/2022 | 03/01/2023 | 04/01/2023 | Ana     |
+| Backlogs - épicos                                  | Thiago       | 13/12/2022 | 03/01/2023 | 04/01/2023 | Arthur  |
+| Backlogs - temas                                   | Thiago       | 13/12/2022 | 03/01/2023 | 04/01/2023 | Arthur  |
+| NFR Framework                                      | Ana          | 13/12/2022 | 03/01/2023 | 04/01/2023 | Eduardo |
+| Softgoals                                          | Arthur       | 13/12/2022 | 03/01/2023 | 04/01/2023 | João    |
+| Impactos                                           | João         | 13/12/2022 | 03/01/2023 | 04/01/2023 | Thiago  |
 
 *Tabela 4 - Tarefas para a Etapa 4*<br><br>
 
 **Etapa 5**
 
-| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
-| --- | --- | --- | --- | --- | --- |
-| Verificação de requisitos | Ana, Pedro, Thiago | 05/01/2023 | 10/01/2023 | 11/01/2023 | João
-| Validação de requisitos| João, Arthur, Eduardo | 05/01/2023 | 10/01/2023 | 11/01/2023 | Thiago
+| Tarefa                    | Responsáveis          | Início     | Fim        | Revisão    | Revisor |
+| ------------------------- | --------------------- | ---------- | ---------- | ---------- | ------- |
+| Verificação de requisitos | Ana, Pedro, Thiago    | 05/01/2023 | 10/01/2023 | 11/01/2023 | João    |
+| Validação de requisitos   | João, Arthur, Eduardo | 05/01/2023 | 10/01/2023 | 11/01/2023 | Thiago  |
 
 *Tabela 5 - Tarefas para a Etapa 5*<br><br>
 
 **Etapa 6**
 
-| Tarefa | Responsáveis | Início | Fim | Revisão | Revisor |
-| --- | --- | --- | --- | --- | --- |
-| Pós-rastreabilidade | Pedro, Thiago | 11/01/2023 | 15/01/2023 | 16/01/2023 | João
-| Backward From| Ana, Arthur | 11/01/2023 | 15/01/2023 | 16/01/2023 | Thiago
-| Forward From| João, Eduardo | 11/01/2023 | 15/01/2023 | 16/01/2023 | Ana
-| Planejamento de verificação de artefatos | Ana, Pedro | 15/01/2023 | 18/01/2023 | 19/01/2023 | Arthur
-| Relatos da verificação de artefatos | João, Thiago | 15/01/2023 | 18/01/2023 | 19/01/2023 | Eduardo
+| Tarefa                                   | Responsáveis  | Início     | Fim        | Revisão    | Revisor |
+| ---------------------------------------- | ------------- | ---------- | ---------- | ---------- | ------- |
+| Pós-rastreabilidade                      | Pedro, Thiago | 11/01/2023 | 15/01/2023 | 16/01/2023 | João    |
+| Backward From                            | Ana, Arthur   | 11/01/2023 | 15/01/2023 | 16/01/2023 | Thiago  |
+| Forward From                             | João, Eduardo | 11/01/2023 | 15/01/2023 | 16/01/2023 | Ana     |
+| Planejamento de verificação de artefatos | Ana, Pedro    | 15/01/2023 | 18/01/2023 | 19/01/2023 | Arthur  |
+| Relatos da verificação de artefatos      | João, Thiago  | 15/01/2023 | 18/01/2023 | 19/01/2023 | Eduardo |
 
 *Tabela 6 - Tarefas para a Etapa 6*<br><br>
 
@@ -177,6 +178,22 @@ E então na sexta etapa realizamos uma autoanalise e [verificamos](../Analise/Ve
 E para finalizar com chave de ouro o projeto Criamos os artefatos relacionados a [Pós-Rastreabilidade](../Pos-Rastreabilidade/index.md) e entregamos o [Backward-from](../Pos-Rastreabilidade/BackwardFrom.md), O [Forward-from](../Pos-Rastreabilidade/ForwardFrom.md) e a [Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md) do projeto, essa etapa visa principal rastrear os requisitos e suas conexões em todas as etapas do projeto além de que a rastreabilidade pode ser vista como um fator que auxilia a gerência da qualidade.
 
 ## <a>Ferramentas</a>
+
+Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o projeto e suas principais funções :
+
+|                                               Logo                                               |    Nome da ferramenta     |     Etapa      |                                            Utilidade                                             |
+| :----------------------------------------------------------------------------------------------: | :-----------------------: | :------------: | :----------------------------------------------------------------------------------------------: |
+|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Google Docs</a>     | Todo o projeto | Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
+|       <img src="./../../assets/ferramentasLogo/chrome.svg" width="100" height="100"></img>       |   <a>Google Chrome</a>    | Todo o projeto |    Um dos navegadores utilizados para avaliar os sites e ter acesso às diversas ferramentas.     |
+|       <img src="./../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>       |       <a>GitHub</a>       | Todo o projeto |                      Utilizado para trabalhar com o projeto da disciplina.                       |
+|  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   | Todo o projeto |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
+|      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       | Todo o projeto |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
+| <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> | Todo o projeto |                 Ferramenta de programação, utilizada para montar o github pages.                 |
+|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
+|       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        |    Análise     |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
+
+
+
 
 ## <a>Técnicas</a>
 
@@ -245,24 +262,24 @@ A tabela 7 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1:
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Página inicial do projeto](../index.md)|[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)|20/11/2022|
-|[Aplicativos Analisados](../Planejamento/AplicativosAnalisados.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)|30/11/2022|
-|[Aplicativo Escolhido](../Planejamento/MEI.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
-|[Metodologia e Processos](../Planejamento/Metodologia.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br> [João Lucas](https://github.com/HacKairos)| 30/11/2022|
-|[Ferramentas](../Planejamento/Ferramentas.md)|[Ana Luiza](https://github.com/AnHoff)<br> [João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394)|  [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|21/11/2022|
-|[Heatmap](../Planejamento/Heatmap.md)|[Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|30/11/2022|
-|[Roadmap](../Planejamento/Roadmap.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|09/12/2022|
-|Políticas - [Código de Conduta para Colaboradores](../Politicas/CodigoDeConduta.md)|[João Lucas](https://github.com/HacKairos)| [Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Contribuição](../Politicas/PolitcaDeContribuicao.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Issue](../Politicas/PolitcaDeIssue.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Branch](../Politicas/PolitcaDeBranch.md)|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|11/11/2022|
-|Políticas - [Política de Commit](../Politicas/PolitcaDeCommit.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Pull Request](../Politicas/PolitcaDePR.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Segurança](../Politicas/PolitcaDeSeguranca.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|[Cronograma de Elicitação/Priorização](../Elicitacao/Cronogramas.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)|07/12/2022|
-|[Termo de Consentimento](../Elicitacao/ModeloTermoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)<br>|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
+| Artefato                                                                            | Criador                                                                                                                                 | Revisor                                                                                                                                                                     | Data de Finalização |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Página inicial do projeto](../index.md)                                            | [João Lucas](https://github.com/HacKairos)                                                                                              | [Thiago Oliveira](https://github.com/Thiab394)                                                                                                                              | 20/11/2022          |
+| [Aplicativos Analisados](../Planejamento/AplicativosAnalisados.md)                  | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)  | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)                                          | 30/11/2022          |
+| [Aplicativo Escolhido](../Planejamento/MEI.md)                                      | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)  | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan) | 20/01/2023          |
+| [Metodologia e Processos](../Planejamento/Metodologia.md)                           | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                            | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br> [João Lucas](https://github.com/HacKairos)                                 | 30/11/2022          |
+| [Ferramentas](../Planejamento/Ferramentas.md)                                       | [Ana Luiza](https://github.com/AnHoff)<br> [João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)                                                                                        | 21/11/2022          |
+| [Heatmap](../Planejamento/Heatmap.md)                                               | [Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)                                                 | [João Lucas](https://github.com/HacKairos)                                                                                                                                  | 30/11/2022          |
+| [Roadmap](../Planejamento/Roadmap.md)                                               | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)  | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                                                                | 09/12/2022          |
+| Políticas - [Código de Conduta para Colaboradores](../Politicas/CodigoDeConduta.md) | [João Lucas](https://github.com/HacKairos)                                                                                              | [Ana Luiza](https://github.com/AnHoff)                                                                                                                                      | 11/11/2022          |
+| Políticas - [Política de Contribuição](../Politicas/PolitcaDeContribuicao.md)       | [João Lucas](https://github.com/HacKairos)                                                                                              | [Ana Luiza](https://github.com/AnHoff)                                                                                                                                      | 11/11/2022          |
+| Políticas - [Política de Issue](../Politicas/PolitcaDeIssue.md)                     | [João Lucas](https://github.com/HacKairos)                                                                                              | [Ana Luiza](https://github.com/AnHoff)                                                                                                                                      | 11/11/2022          |
+| Políticas - [Política de Branch](../Politicas/PolitcaDeBranch.md)                   | [João Lucas](https://github.com/HacKairos)                                                                                              | [Pedro Lucas](https://github.com/PedroLSF)                                                                                                                                  | 11/11/2022          |
+| Políticas - [Política de Commit](../Politicas/PolitcaDeCommit.md)                   | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)                                                    | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)                                                                                        | 11/11/2022          |
+| Políticas - [Política de Pull Request](../Politicas/PolitcaDePR.md)                 | [João Lucas](https://github.com/HacKairos)                                                                                              | [Ana Luiza](https://github.com/AnHoff)                                                                                                                                      | 11/11/2022          |
+| Políticas - [Política de Segurança](../Politicas/PolitcaDeSeguranca.md)             | [João Lucas](https://github.com/HacKairos)                                                                                              | [Ana Luiza](https://github.com/AnHoff)                                                                                                                                      | 11/11/2022          |
+| [Cronograma de Elicitação/Priorização](../Elicitacao/Cronogramas.md)                | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)                                                | [Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)                                                                                    | 07/12/2022          |
+| [Termo de Consentimento](../Elicitacao/ModeloTermoConsentimento.md)                 | [Ana Luiza](https://github.com/AnHoff)<br>                                                                                              | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)                                           | 20/01/2023          |
 
 *Tabela 7 - Artefatos realizados durante a etapa 1*
 <br><br>
@@ -274,15 +291,15 @@ A tabela 8 abaixo apresenta os artefatos criados durante o projeto durante a **E
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Técnicas de Elicitação](../Elicitacao/index.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)| 30/11/2022|
-|[Brainstorming](../Elicitacao/Brainstorming.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|  [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)|20/01/2023|
-|[Entrevista](../Elicitacao/Entrevista.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
-|[Introspecção](../Elicitacao/Introspeccao.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|20/01/2023|
-|[Perfil do Usuário](../Elicitacao/perfil.md)|[Eduardo](https://github.com/edudsan)<br>[Ana Luiza](https://github.com/AnHoff)| [João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394)|26/01/2023|
-|[Persona](../Elicitacao/personas.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|30/11/2022|
-|[Priorização](../Elicitacao/tecnicas-priorizacao.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|04/12/2022|
+| Artefato                                             | Criador                                                                                                                                | Revisor                                                                                                                            | Data de Finalização |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Técnicas de Elicitação](../Elicitacao/index.md)     | [Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394) | [Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)                                           | 30/11/2022          |
+| [Brainstorming](../Elicitacao/Brainstorming.md)      | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)     | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6) | 20/01/2023          |
+| [Entrevista](../Elicitacao/Entrevista.md)            | [Pedro Lucas](https://github.com/PedroLSF)<br>[Ana Luiza](https://github.com/AnHoff)                                                   | [João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)                                                | 20/01/2023          |
+| [Introspecção](../Elicitacao/Introspeccao.md)        | [Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)                                                   | [Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)                                               | 20/01/2023          |
+| [Perfil do Usuário](../Elicitacao/perfil.md)         | [Eduardo](https://github.com/edudsan)<br>[Ana Luiza](https://github.com/AnHoff)                                                        | [João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394)                                       | 26/01/2023          |
+| [Persona](../Elicitacao/personas.md)                 | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)                                                   | [João Lucas](https://github.com/HacKairos)                                                                                         | 30/11/2022          |
+| [Priorização](../Elicitacao/tecnicas-priorizacao.md) | [Ana Luiza](https://github.com/AnHoff)                                                                                                 | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                       | 04/12/2022          |
 
 *Tabela 8 - Artefatos realizados durante a etapa 2*
 <br><br>
@@ -294,15 +311,15 @@ A tabela 9 abaixo apresenta os artefatos criados durante o projeto durante a **E
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Cenários](../Modelagem/Cenarios.md)|[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)| 10/12/2022|
-|[Léxicos](../Modelagem/Lexicos.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|10/12/2022|
-|[Casos de Uso](../Modelagem/CasosdeUso.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)|23/01/2023|
-|[Especificação Suplementar](../Modelagem/EspecificacaoSuplementar.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Eduardo](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|04/01/2023|
-|[NFR Framework](../Modelagem/NFRFramework.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)| [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|28/12/2022|
-|[Histórias de Usuário](../Modelagem/UserCases.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Backlog](../Modelagem/Agil/BacklogDoProduto.md)|[Arthur Taylor](https://github.com/Eruel6)| [Eduardo](https://github.com/edudsan)|02/01/2023|
+| Artefato                                                              | Criador                                                                                                                               | Revisor                                                                                                                                | Data de Finalização |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Cenários](../Modelagem/Cenarios.md)                                  | [João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)                                                   | [Ana Luiza](https://github.com/AnHoff)                                                                                                 | 10/12/2022          |
+| [Léxicos](../Modelagem/Lexicos.md)                                    | [Ana Luiza](https://github.com/AnHoff)                                                                                                | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)                                               | 10/12/2022          |
+| [Casos de Uso](../Modelagem/CasosdeUso.md)                            | [Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394) | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF) | 23/01/2023          |
+| [Especificação Suplementar](../Modelagem/EspecificacaoSuplementar.md) | [Arthur Taylor](https://github.com/Eruel6)<br>[Eduardo](https://github.com/edudsan)                                                   | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)                                                   | 04/01/2023          |
+| [NFR Framework](../Modelagem/NFRFramework.md)                         | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)                                                  | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)                                                   | 28/12/2022          |
+| [Histórias de Usuário](../Modelagem/UserCases.md)                     | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)                                          | [Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)                                               | 25/01/2023          |
+| [Backlog](../Modelagem/Agil/BacklogDoProduto.md)                      | [Arthur Taylor](https://github.com/Eruel6)                                                                                            | [Eduardo](https://github.com/edudsan)                                                                                                  | 02/01/2023          |
 
 *Tabela 9 - Artefatos realizados durante as etapas 3 e 4*
 <br><br>
@@ -314,11 +331,11 @@ A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Backward-from](../Pos-Rastreabilidade/BackwardFrom.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|23/01/2023|
-|[Forward-from](../Pos-Rastreabilidade/ForwardFrom.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|27/01/2023|
-|[Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|23/01/2023|
+| Artefato                                                | Criador                                                                                      | Revisor                                                                                                                                | Data de Finalização |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Backward-from](../Pos-Rastreabilidade/BackwardFrom.md) | [Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)          | [João Lucas](https://github.com/HacKairos)                                                                                             | 23/01/2023          |
+| [Forward-from](../Pos-Rastreabilidade/ForwardFrom.md)   | [Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos) | [Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff) | 27/01/2023          |
+| [Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md)   | [Ana Luiza](https://github.com/AnHoff)                                                       | [Arthur Taylor](https://github.com/Eruel6)                                                                                             | 23/01/2023          |
 
 *Tabela 10 - Artefatos realizados durante a etapa 6*
 <br><br>
@@ -334,14 +351,14 @@ A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados
 
 <center>
 
-|Integrante|Criados|Revisados|
-|----------|-------|---------|
-|[Ana Luiza](https://github.com/AnHoff)|21|20|
-|[Arthur Taylor](https://github.com/Eruel6)|10|9|
-|[Eduardo](https://github.com/edudsan)|9|5|
-|[João Lucas](https://github.com/HacKairos)|14|31|
-|[Pedro Lucas](https://github.com/PedroLSF)|11|7|
-|[Thiago Oliveira](https://github.com/Thiab394)|16|9|
+| Integrante                                     | Criados | Revisados |
+| ---------------------------------------------- | ------- | --------- |
+| [Ana Luiza](https://github.com/AnHoff)         | 21      | 20        |
+| [Arthur Taylor](https://github.com/Eruel6)     | 10      | 9         |
+| [Eduardo](https://github.com/edudsan)          | 9       | 5         |
+| [João Lucas](https://github.com/HacKairos)     | 14      | 31        |
+| [Pedro Lucas](https://github.com/PedroLSF)     | 11      | 7         |
+| [Thiago Oliveira](https://github.com/Thiab394) | 16      | 9         |
 
 *Tabela 11 - Artefatos por integrante*
 <br><br>
@@ -385,23 +402,23 @@ A metodologia adotada foi a [Inspeção](../Analise/Verificacao/#inspecao) com o
 
 <center>
 
-|Artefato|Autor|Revisor|Data de Aplicação|
-|--------|-------|-------|-------------------|
-|[Rich Picture](../Analise/Verificacao/Planejamento/VerificacaoRichPicture.md)|[Arthur Taylor](https://github.com/Eruel6)|[Ana Luiza](https://github.com/AnHoff)|09/01/2023|
-|[Aplicativo Escolhido](../Analise/Verificacao/Planejamento/verificacaoAplicativoEscolhido.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
-|[Termo de Consentimento](../Analise/Verificacao/Planejamento/verificacaoTermoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
-|[Brainstorming](../Analise/Verificacao/Elicitacao/Verifica%C3%A7%C3%A3oBrainstorming.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Entrevista](../Analise/Verificacao/Elicitacao/VerificacaoEntrevista.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Introspecção](../Analise/Verificacao/Elicitacao/VerificacaoInstropeccao.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Perfil de Usuário](../Analise/Verificacao/Elicitacao/VerificacaoPerfilUsuario.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Personas](../Analise/Verificacao/Elicitacao/VerificacaoPersonas.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Priorização](../Analise/Verificacao/Elicitacao/VerificacaoPriorizacao.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Arthur Taylor](https://github.com/Eruel6)|18/01/2023|
-|[Léxicos](../Analise/Verificacao/Modelagem/VerificacaoLexicos.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Cenários](../Analise/Verificacao/Modelagem/VerificacaoCenarios.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|16/01/2023|
-|[Casos de Uso](../Analise/Verificacao/Modelagem//verificacaoCasosdeUso.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
-|[Especificação Suplementar](../Analise/Verificacao/Modelagem/VerificacaoEspecifacao.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|16/01/2023|
-|[NFR Framework](../Analise/Verificacao/Modelagem/verificacaoNFRFramework.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
-|[Backlog](../Analise/Verificacao/Modelagem/verificacaoBacklog.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
+| Artefato                                                                                       | Autor                                                                                | Revisor                                                                                  | Data de Aplicação |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ----------------- |
+| [Rich Picture](../Analise/Verificacao/Planejamento/VerificacaoRichPicture.md)                  | [Arthur Taylor](https://github.com/Eruel6)                                           | [Ana Luiza](https://github.com/AnHoff)                                                   | 09/01/2023        |
+| [Aplicativo Escolhido](../Analise/Verificacao/Planejamento/verificacaoAplicativoEscolhido.md)  | [Eduardo](https://github.com/edudsan)                                                | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
+| [Termo de Consentimento](../Analise/Verificacao/Planejamento/verificacaoTermoConsentimento.md) | [Ana Luiza](https://github.com/AnHoff)                                               | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
+| [Brainstorming](../Analise/Verificacao/Elicitacao/Verifica%C3%A7%C3%A3oBrainstorming.md)       | [Pedro Lucas](https://github.com/PedroLSF)                                           | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Entrevista](../Analise/Verificacao/Elicitacao/VerificacaoEntrevista.md)                       | [Pedro Lucas](https://github.com/PedroLSF)                                           | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Introspecção](../Analise/Verificacao/Elicitacao/VerificacaoInstropeccao.md)                   | [Pedro Lucas](https://github.com/PedroLSF)                                           | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Perfil de Usuário](../Analise/Verificacao/Elicitacao/VerificacaoPerfilUsuario.md)             | [Arthur Taylor](https://github.com/Eruel6)                                           | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Personas](../Analise/Verificacao/Elicitacao/VerificacaoPersonas.md)                           | [Arthur Taylor](https://github.com/Eruel6)                                           | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Priorização](../Analise/Verificacao/Elicitacao/VerificacaoPriorizacao.md)                     | [Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos)<br>[Arthur Taylor](https://github.com/Eruel6) | 18/01/2023        |
+| [Léxicos](../Analise/Verificacao/Modelagem/VerificacaoLexicos.md)                              | [Thiago Oliveira](https://github.com/Thiab394)                                       | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Cenários](../Analise/Verificacao/Modelagem/VerificacaoCenarios.md)                            | [Thiago Oliveira](https://github.com/Thiab394)                                       | [João Lucas](https://github.com/HacKairos)                                               | 16/01/2023        |
+| [Casos de Uso](../Analise/Verificacao/Modelagem//verificacaoCasosdeUso.md)                     | [Ana Luiza](https://github.com/AnHoff)                                               | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
+| [Especificação Suplementar](../Analise/Verificacao/Modelagem/VerificacaoEspecifacao.md)        | [João Lucas](https://github.com/HacKairos)                                           | [Eduardo](https://github.com/edudsan)                                                    | 16/01/2023        |
+| [NFR Framework](../Analise/Verificacao/Modelagem/verificacaoNFRFramework.md)                   | [Eduardo](https://github.com/edudsan)                                                | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
+| [Backlog](../Analise/Verificacao/Modelagem/verificacaoBacklog.md)                              | [Eduardo](https://github.com/edudsan)                                                | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
 
 *Tabela 12 - Artefatos de verificação*
 <br><br>
@@ -413,10 +430,10 @@ Para realizar a [Validação](../Analise/Validacao/), foram escolhidas as técni
 
 <center>
 
-|Técnica|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Validação Informal](../Analise/Validacao/Informal.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|16/01/2023|
-|[Prototipagem](../Analise/Validacao/protAlta.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|15/01/2023|
+| Técnica                                                | Criador                                                                                  | Revisor                                                                                  | Data de Finalização |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------- |
+| [Validação Informal](../Analise/Validacao/Informal.md) | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)     | 16/01/2023          |
+| [Prototipagem](../Analise/Validacao/protAlta.md)       | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)     | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF) | 15/01/2023          |
 
 *Tabela 13 - Artefatos de validação*
 <br><br>
