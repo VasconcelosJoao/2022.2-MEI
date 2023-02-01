@@ -23,24 +23,24 @@ Vale destacar que o documento foi elaborado seguindo o template utilizado pelo p
 
 ## <a>Objetivo</a>
 
-A disciplina de requisitos de software possui objetivo de ensinar os alunos sobre requisitos, desde o seu processo de elicitação até técnicas de como priorizá-los. O projeto foi desenvolvido com a finalidade de aprender de forma prática sobre os tópicos da ementa da disciplina, com isso foi escolhido um aplicativo para podermos aplicar as técnicas de elicitaçãao e modelagem que nos foram apresentados no decorrer da dsiciplina.
+A disciplina de requisitos de software possui o objetivo de ensinar os alunos sobre requisitos, desde o seu processo de elicitação até técnicas de como priorizá-los, junto ao planejamento de um projeto. O projeto foi desenvolvido com a finalidade de aprender de forma prática sobre os tópicos da ementa da disciplina. Para isso foi escolhido um aplicativo onde o grupo poderia aplicar as técnicas que nos foram apresentadas no decorrer da dsiciplina.
 
 ## <a>MEI</a>
 ### <a>Sobre o MEI</a>
-Microempreendedor Individual ou mais conhecido como MEI, é um aplicativo ligado ao Portal do Empreendedor, o aplicativo fornece vários auxílios para quem deseja formalizar algum trabalho a fim de obter, por exemplo, uma aposentadoria. O aplicativo lista algumas funções, são elas:
+Microempreendedor Individual ou mais conhecido como MEI, é um aplicativo ligado ao Portal do Empreendedor. O aplicativo fornece vários auxílios para quem deseja formalizar algum trabalho a fim de obter, por exemplo, uma aposentadoria. O aplicativo lista algumas funções, são as principais:
+
 * Gerar guia de pagamento do DAS;
 * Status do CNPJ;
 * Solicitar Restituição;
-* Entre outros.
+* Fornecer ajuda aos usuários.
 
-Todos esses pontos estão presentes e foram trabalhos ao longo do nosso projeto.
+Todos esses pontos estão presentes e foram trabalhos ao longo do projeto.
 
 ### <a>Por quê o MEI?</a>
-Antes de entender a razão da escolha do MEI vale citar que foram analisados 6 [aplicativos](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/AplicativosAnalisados/), foram feitos Rich Picture e uma reunião para análise dos problemas encontrados em casa aplicativo. Por fim, depois de muitas análises foi possível levantar dados maiores sobre o MEI e entender que seria o melhor aplicativo para nosso projeto, existe um documento explicando o [Motivo do Aplicativo MEI](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/MEI/).
-
+Antes de entender a razão da escolha do MEI vale citar que foram analisados 6 [aplicativos](../Planejamento/AplicativosAnalisados/). Nessa análise, foram elaborados Rich Pictures e houve uma reunião para análise dos problemas encontrados em cada aplicativo. Por fim, depois de muitas análises foi possível levantar dados maiores sobre o MEI e entender que seria o melhor aplicativo para nosso projeto, existe um documento explicando mais sobre o [MEI](../Planejamento/MEI/).
 
 ## <a>Planejamento</a>
-Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma. 
+Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento do projeto. 
 
 Em tal etapa temos diversos documentos, tais como aplicativos analisados, aplicativo escolhido, Ferramentas, etc, que estão listados e podem ser visualizados na seção de [Artefatos - Etapa 1](#etapa 1: planejamento), porém aqui será mostrado apenas o cronograma planejado do projeto, que seria a essência do planejamento do mesmo, por possuir em detalhes a realização de cada artefate e de cada "Sub-artefato" ou até documentos e etapas auxiliares para que seja realizada uma boa execução.
 
@@ -261,7 +261,7 @@ A tabela 7 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1:
 |Políticas - [Política de Commit](../Politicas/PolitcaDeCommit.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
 |Políticas - [Política de Pull Request](../Politicas/PolitcaDePR.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
 |Políticas - [Política de Segurança](../Politicas/PolitcaDeSeguranca.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|[Cronograma de Elicitação/Priorização](../Elicitacao/Cronogramas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)|07/12/2022|
+|[Cronograma de Elicitação/Priorização](../Elicitacao/Cronogramas.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)|07/12/2022|
 |[Termo de Consentimento](../Elicitacao/ModeloTermoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)<br>|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
 
 *Tabela 7 - Artefatos realizados durante a etapa 1*
@@ -276,7 +276,7 @@ A tabela 8 abaixo apresenta os artefatos criados durante o projeto durante a **E
 
 |Artefato|Criador|Revisor|Data de Finalização|
 |--------|-------|-------|-------------------|
-|[Elicitação](../Elicitacao/index.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)| 30/11/2022|
+|[Técnicas de Elicitação](../Elicitacao/index.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)| 30/11/2022|
 |[Brainstorming](../Elicitacao/Brainstorming.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|  [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)|20/01/2023|
 |[Entrevista](../Elicitacao/Entrevista.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
 |[Introspecção](../Elicitacao/Introspeccao.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|20/01/2023|
@@ -322,22 +322,26 @@ A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **
 
 *Tabela 10 - Artefatos realizados durante a etapa 6*
 <br><br>
+**Total de artefatos:** 50*.
+<br><br>
 
 </center>
 
+*Esse número leva em consideração os artefatos presentes em [V&V](#vv).
+
 ### <a>Contagem Individual</a>
-A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante. Vale lembrar que as gravações com os usuários e os artefatos de [V&V](#vv) não são contabilizadas na listagem.
+A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante. Vale lembrar que as gravações com os usuários não são contabilizados na listagem. Por outro lado, os artefatos de [V&V](#vv) são contabilizados.
 
 <center>
 
 |Integrante|Criados|Revisados|
 |----------|-------|---------|
-|[Ana Luiza](https://github.com/AnHoff)|15|18|
-|[Arthur Taylor](https://github.com/Eruel6)|6|8|
-|[Eduardo](https://github.com/edudsan)|6|4|
-|[João Lucas](https://github.com/HacKairos)|12|16|
-|[Pedro Lucas](https://github.com/PedroLSF)|8|6|
-|[Thiago Oliveira](https://github.com/Thiab394)|13|9|
+|[Ana Luiza](https://github.com/AnHoff)|21|20|
+|[Arthur Taylor](https://github.com/Eruel6)|10|9|
+|[Eduardo](https://github.com/edudsan)|9|5|
+|[João Lucas](https://github.com/HacKairos)|14|31|
+|[Pedro Lucas](https://github.com/PedroLSF)|11|7|
+|[Thiago Oliveira](https://github.com/Thiab394)|16|9|
 
 *Tabela 11 - Artefatos por integrante*
 <br><br>

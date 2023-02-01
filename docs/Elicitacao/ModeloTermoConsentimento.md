@@ -6,9 +6,10 @@
 |08/12/2022|09/12/2022|1.0|Criação do Modelo| [Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)
 |19/01/2023|20/01/2023|1.1|Correções com base na verificação|[Ana Luiza](https://github.com/AnHoff) e [Thiago Oliveira](https://github.com/Thiab394)|[Eduardo](https://github.com/edudsan)|
 
-## Intrudoção
-Este documento tem como objetivo ser um modelo para a criação dos termos de consentimentos que serão utilizados para a reliazação das entrevistas e/ou qualquer 
-meio de interação com algum usuário do MEI, externo ao projeto.
+## Introdução
+Este documento tem como objetivo ser um modelo para a criação dos termos de consentimentos que serão utilizados para a reliazação das entrevistas e/ou qualquer meio de interação com pessoas externas ao projeto.
+
+O modelo abaixo foi elaborado levando como base o modelo apresentado no livro *Interação Humano-Computador e Experiência do usuário* [1].
 
 ## <a>TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO</a>
 

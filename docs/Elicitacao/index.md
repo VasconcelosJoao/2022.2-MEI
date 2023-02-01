@@ -4,13 +4,14 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |28/11/2022|29/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.1|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
+|01/02/2023|01/02/2023|1.2|Melhorias no corpo do documento e adição de bibliografia|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
 
 ## <a>Introdução</a>
+Com o objetivo de atender o usuário da melhor forma possível, são estudadas técnicas de elicitação para entender o que o usuário realmente deseja. A elicitação de requisitos visa entender as necessidades do usuário e transformá-las em requisitos funcionais e não-funcionais. Com o auxílio dessas técnicas, os engenheiros podem ajustar a produção de um software para atender da melhor forma possível as nescessidades dos clientes.
 
-Com o objetivo de atender o usuário da melhor forma possível, são estudadas técnicas para entender e priorizar o que o usuário realmente deseja, sendo chamadas de técnicas de elicitação. Com o auxílio dessas técnicas, os engenheiros podem ajustar a produção de um software para atender da melhor forma possível as nescessidades dos clientes.
+Todas as técnicas apresentadas abaixo tiveram descrição baseada no livro *Interação Humano-Computador e Experiência do usuário* [1] e em *Requisitos - Aula 7* [2].
 
 ## <a>Descrição de técnicas</a>
-
 ### <a>Brainstorming</a>
 Consiste em uma "chuva de ideias", onde de 8 a 12 participantes devem expor suas ideias com o auxílio de um mediador que dará a todos a chance de falar. Existem algumas regras para a realização de um brainstorming, como por exemplo:
 
@@ -62,4 +63,6 @@ Apesar de ser muito útil, essa técnica possui um grande problema. Um especilis
 
 ## <a>Bibliografia </a>
 
-[1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07.
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+[2] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07.
