@@ -8,7 +8,7 @@
 |     29/01/2023     |        30/01/2023        |  1.1   | Finaliza Artefatos, Resultados e V&V |    [Ana Luiza](https://github.com/AnHoff)     | [Thiago Olivera](https://github.com/Thiab394) |
 |     31/01/2023     |        01/02/2023        |  1.2   |     Adição da Seção Planejamento     | [Thiago Olivera](https://github.com/Thiab394) |    [Ana Luiza](https://github.com/AnHoff)     |
 |     31/01/2023     |        01/02/2023        |  1.3   |    Adição da Seção Mei e Técnicas    |  [Pedro Lucas](https://github.com/PedroLSF)   |     [Eduardo](https://github.com/edudsan)     |
-|     31/01/2023     |        01/02/2023        |  1.4   | Adição da Execução e das ferramentas |  [João Lucas](https://github.com/HacKairos)   |           [](https://github.com/-)            |
+|     31/01/2023     |        01/02/2023        |  1.4   | Adição da Execução e das ferramentas |  [João Lucas](https://github.com/HacKairos)   |           [Eduardo](https://github.com/edudsan)      |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
