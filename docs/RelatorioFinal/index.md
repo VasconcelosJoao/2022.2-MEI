@@ -160,16 +160,61 @@ A segunda etapa do projeto é caracterizada pela elicitação, nessa etapa a equ
 
 ## <a>Ferramentas</a>
 
-
-
 ## <a>Técnicas</a>
+
+### <a>Planejamento</a>
+Dentro do planejamento o grupo seguiu alguns passos para iniciarmos os trabalhos com relação ao MEI, a primeira etapa foi analisar alguns aplicativos e utilizar a técnica do "Rich Picture" para entender o sistema como um todo, depois de analisar todos Rich Pictures, o MEI foi escolhido. Tabém foi decidido a forma de ser trabalho, foi utilizado o sistema de Sprints, com [reuniões](https://requisitos-de-software.github.io/2022.2-MEI/Reunioes/) de forma predominante no sábado.
+
+Nesse primeiro momento foi feito alguns documentos que auxiliam o trabalho, como por exemplo, [Heatmap](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/Heatmap/), [Roadmap](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/Roadmap/) e [Políticas de Trabalho](https://requisitos-de-software.github.io/2022.2-MEI/Politicas/CodigoDeConduta/).
+
+Os participantes do Planejamento foram: Ana, Pedro, João Lucas, Thiago, Eduardo e Arthur
+
+### <a>Elicitação</a>
 O Grupo buscou algumas técnicas para elicitar os requisitos, o primeiro a ser trabalhado foi o questionário, porém não tivemos os resultados esperados para, portanto, não conseguimos utilizar esses dados e atrasamos em primeiro momento. Logo depois, conseguimos utilizar de forma correta 3 técnicas, sendo elas:
-* [Brainstorming](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/)
-* [Entrevista](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/)
-* [Introspecção](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/)
+* [Brainstorming](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) - Os participantes dessa técnica foram: João Lucas, Eduardo, Thiago e Pedro
+* [Entrevista](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/) - Os participante dessa técnica foi: Pedro
+* [Introspecção](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) - Os participante dessa técnica foi: Arthur
 
 Com essas três técnicas, o grupo MEI conseguiu listar requisitos funcionais e não funcionais para serem trabalhados ao longo do projeto. Vale ressaltar a importância do trabalho com as [personas](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/personas/).
 
+Os perfis de Usuário e as Personas foram elaborados por: Ana, Eduardo e Pedro.
+
+Um último passo da Elicitação, foi a Priorização. O Grupo utilizou algumas técnicas para [priorizar](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/tecnicas-priorizacao/), podemos citar as 3:
+* Moscow
+* First Things First (FTF)
+* Three-Level Scale
+
+A Priorização foi realizada pela Ana.
+
+### <a> Modelagem </a>
+Foram utilizados algumas técnicas para modelar os requisitos. Aqui vamos comentar sobre um pouco de cada um:
+
+#### <a>Cenários</a>
+Os [cenários](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/) estão presentes para representar algumas possíveis histórias. O Documento foi feito pelo: João Lucas e Eduardo
+
+#### <a>Léxicos</a>
+Os [Léxicos](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/) estão presentes quando o grupo precisou identificar palavras-chaves ou frases com relação as etapas presentes no aplicativo. Foi desenvolvida por: Ana.
+
+#### <a>Casos de Uso</a>
+Os [Casos de Uso](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/CasosdeUso/) são processos que descrevem um conjunto de ações entre o usuário e o sistema e isso gera um resultado observável. Foi levantado tabelas e diagramas para representar os casos de uso. Desenvolvido por: Thiago, Pedro e Eduardo.
+
+#### <a>Especificação Suplementar</a>
+O Grupo buscou a metodologia FURPS+ para identificar as [especificações suplementares](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/) e assim identificar informações adicionais sobre os requisitos. Foi desenvolvido por: Arthur e Eduardo.
+
+#### <a>NFR Framework</a>
+Utilizamos esse [framework](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/NFRFramework/) para conduzir melhor o processo de Design, colocando os requisitos não funcionais em primeiro lugar
+
+#### <a>Histórias de Usuáriso</a>
+As [histórias de usuários](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/) levantaram desejos do usuário dentro do aplicativo e também seus objetivos. Desenvolvido por Thiago e Pedro Lucas.
+
+#### <a>Backlog</a>
+Por fim, fizemos uma lista de afazeres, conhecido como [Backlog](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/). Feito por: Arthur
+
+### <a>Pós-Rastreabilidade</a>
+Aqui ligamos os requisitos que são desenvolvidos ao longo do ciclo de vida do projeto com seus artefatos. O Grupo desenvolveu 3 artefatos:
+* [Backward-from](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/BackwardFrom/) - Feito por: Pedro Lucas e Eduardo
+* [Forward-from](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/) - Feito por: Thiago e João Lucas
+* [Matriz Geral](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/MatrizGeral/) - Feito por: Ana Luiza e Arthur.
 
 ## <a>Artefatos</a>
 A seguir estão apresentadas as tabelas referentes a cada etapa do projeto. Vale destacar que a **Etapa 5: Verificação e Validação** está apresentada no tópico [V&V](#vv).
