@@ -459,7 +459,34 @@ Para realizar a [Validação](../Analise/Validacao/), foram escolhidas as técni
 
 </center>
 
-## <a>BIbliografia</a>
+## <a>Facilidades e Dificuldades</a>
+### <a>Ana</a>
+"Acredito que a maior dificuldade do projeto tenha sido entrar em contato com os usuários e engajar comunidades do Facebook com o preenchimento de um questionário sobre o perfil dos usuários. Lidar com a equipe em certos momentos também é difícil, mas no final acaba sendo recompensador! Gostei de trabalhar neste projeto e acredito que aplicarei o que aprendi em futuros projetos."
+
+### <a>Arthur</a>
+"Positivos: A oportunidade de aprender a matéria de forma pratica durante a execução do projeto, a grande quantidade de apresentações que propiciava vários fedbacks para a melhora do projeto e nos possibilitou uma melhora contínua do projeto.Negativos: Devido ao semestre reduzido as entregas acabaram ficando um pouco corridas algumas vezes."
+
+### <a>Eduardo</a>
+"A experiência que tive sobre a disciplina foi o trabalho em grupo, onde todos se ajudavam e a metodologia de ensino ministrada pelo professor. Pois ele auxiliava após cada apresentação todos os grupos com comentários do que achou mais interessante em cada grupo e que os demais grupos poderiam seguir. A dificultade encontrada foi com o cronograma, pois acredito que o tempo disponível no semestre não colaborou para que conseguimos desenvolver com mais calma"
+
+### <a>João</a>
+"Plano de ensino bem elicitado, muitas listas de exercicios, materiais de apoio bons para consulta e estudo foram essenciais para a realização do projeto."
+
+### <a>Pedro</a>
+"Pontos Positivos: Acredito que foi um projeto que demonstrou de forma fiel todo trabalho de documentação e levantamentos de requisitos. Demonstrou a importância desse contato.O Grupo foi bem importante para o desenvolvimento do trabalho.Pontos Negativos:Acredito que seja uma quantidade desnecessária de atividades.Apesar de ser para aprendermos acredito que possamos usar menos técnicas para um mesmo objetivo"
+
+### <a>Thiago</a>
+Facilidade:
+Ter uma série de projetos anteoriores, sendo deles alguns bons que serviram de exemplo,
+um dos monitores bem presente e explicando bem a disciplina. Dificulade:
+Poucos projetos anteriores bons, fazendo com que tenha uma certa dificuldade de se basear
+nos mesmos,alta quantidade de conteudo e tarefas no começo pro meio do semestre, confusão
+em muitas entregas por não ter explicitado tudo necessario para a mesma, fazendo com que
+não entregassemos o "esperado" pelo professor, entregas seguidas com prazo extremamente
+curto entre elas. porem apesar de tudo achei uma boa disciplina, deu para aprender realmente algumas das
+mecanicas de IHC(Trocar pro req aqui), e é isso que realmente importa.
+
+## <a>Bibliografia</a>
 [1] 2022.1-YouTube. Disponível em: https://requisitos-de-software.github.io/2022.1-Youtube/apresentacao-final/. Acesso em: 27 de Janeiro de 2023.
 
 [2] Análise do perfil do Microempreendedor Individual (MEI). Disponível em: https://www.jurozero.sc.gov.br/padrao-categoria-noticias/342-analise-do-perfil-do-microempreendedor-individual-mei.html. Acesso em 20 de Janeiro de 2023.
