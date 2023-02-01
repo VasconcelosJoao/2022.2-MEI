@@ -147,11 +147,14 @@ O Cronograma Planejado pode ser visto [aqui](../Planejamento/Roadmap/#cronograma
 
 Durante a execução do projeto a equipe tentou realizar o mais fielmente possivel o cronograma Planejado, porem infelizmente não foi possível seguir a risca tal cronograma como pode ser visto no [Cronograma Realizado](../Planejamento/Roadmap/#cronograma-realizado), portanto na tabela a seguir está apresentado as 7 fases do nosso projeto, cada uma delas com sua respectiva descrição. 
 
+
 ### <a>1ª Etapa</a>
 
-A primeira etapa do projeto se caracteriza principalmente pela formação da equipe e escolha do aplicativo, durante a primeria etapa do projeto pode se dizer que ela ira definir o projeto inteiro por isso a sua importancia, alem disso pode se dar destaque a alguns artefatos muito importante para o andamento do projeto, tais como o [Roadmap](../Planejamento/Roadmap.md) , as [Ferramentas Utilizadas](../Planejamento/Ferramentas.md) e os [Rich Pictures](../Planejamento/AplicativosAnalisados/#mei)|
+A primeira etapa do projeto se caracteriza principalmente pela formação da equipe e escolha do aplicativo, durante a primeria etapa do projeto pode se dizer que ela ira definir o projeto inteiro por isso a sua importancia, alem disso pode se dar destaque a alguns artefatos muito importante para o andamento do projeto, tais como o [Roadmap](../Planejamento/Roadmap.md) , as [Ferramentas Utilizadas](../Planejamento/Ferramentas.md) e os [Rich Pictures](../Planejamento/AplicativosAnalisados/#mei).
 
+### <a>2ª Etapa</a>
 
+A segunda etapa do projeto é caracterizada pela elicitação, nessa etapa a equipe tinha como objetivo listar tecnicas de [priorização](../Elicitacao/tecnicas-priorizacao.md) e [elicitação](../Elicitacao/index.md) as quais seriam utilizadas no projeto, alem de definir açguns artefatos muito importantes para o andamento do projeto tais como o [Perfil de Usúario](../Elicitacao/perfil.md) e o elenco de [Personas](../Elicitacao/personas.md).
 
 
 
