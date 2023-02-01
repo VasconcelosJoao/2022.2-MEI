@@ -181,15 +181,15 @@ E para representar melhor cada etapa da Execução do projeto foi realizada uma 
 
 <center>
 
-| Etapa |                                                                                                                Video                                                                                                                 |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/X7KntEqHTHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-|  2ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/_BWSQ2Iqw3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-|  3ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/AtD5gDehAso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-|  4ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/qE5pZoyGdqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-|  5ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/eplDRTPnimc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-|  6ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/LoSalKVe37k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-|  7ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/fA-5T-4jp_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+| Etapa |                   Video                   |
+| :---: | :---------------------------------------: |
+|  1ª   | [Link Aqui](https://youtu.be/X7KntEqHTHc) |
+|  2ª   | [Link Aqui](https://youtu.be/_BWSQ2Iqw3A) |
+|  3ª   | [Link Aqui](https://youtu.be/AtD5gDehAso) |
+|  4ª   | [Link Aqui](https://youtu.be/qE5pZoyGdqc) |
+|  5ª   | [Link Aqui](https://youtu.be/eplDRTPnimc) |
+|  6ª   | [Link Aqui](https://youtu.be/LoSalKVe37k) |
+|  7ª   | [Link Aqui](https://youtu.be/fA-5T-4jp_8) |
 
 *Tabela 7 - Lista das gravações realizadas*
 </center>
