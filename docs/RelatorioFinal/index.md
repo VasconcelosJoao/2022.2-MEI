@@ -189,7 +189,7 @@ Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o proje
 |  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   | Todo o projeto |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
 |      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       | Todo o projeto |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
 | <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> | Todo o projeto |                 Ferramenta de programação, utilizada para montar o github pages.                 |
-|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
+|        <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>        |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
 |       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        |    Análise     |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
 
