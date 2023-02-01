@@ -201,14 +201,14 @@ Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o proje
 
 |                                               Logo                                               |    Nome da ferramenta     |     Etapa      |                                            Utilidade                                             |
 | :----------------------------------------------------------------------------------------------: | :-----------------------: | :------------: | :----------------------------------------------------------------------------------------------: |
-|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Google Docs</a>     | Todo o projeto | Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
-|       <img src="./../../assets/ferramentasLogo/chrome.svg" width="100" height="100"></img>       |   <a>Google Chrome</a>    | Todo o projeto |    Um dos navegadores utilizados para avaliar os sites e ter acesso às diversas ferramentas.     |
-|       <img src="./../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>       |       <a>GitHub</a>       | Todo o projeto |                      Utilizado para trabalhar com o projeto da disciplina.                       |
-|  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   | Todo o projeto |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
-|      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       | Todo o projeto |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
-| <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> | Todo o projeto |                 Ferramenta de programação, utilizada para montar o github pages.                 |
-|     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
-|       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        |    Análise     |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
+|        <img src="../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Google Docs</a>     | Todo o projeto | Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
+|       <img src="../assets/ferramentasLogo/chrome.svg" width="100" height="100"></img>       |   <a>Google Chrome</a>    | Todo o projeto |    Um dos navegadores utilizados para avaliar os sites e ter acesso às diversas ferramentas.     |
+|       <img src="../assets/ferramentasLogo/github.svg" width="100" height="100"></img>       |       <a>GitHub</a>       | Todo o projeto |                      Utilizado para trabalhar com o projeto da disciplina.                       |
+|  <img src="../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   | Todo o projeto |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
+|      <img src="../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       | Todo o projeto |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
+| <img src="../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> | Todo o projeto |                 Ferramenta de programação, utilizada para montar o github pages.                 |
+|     <img src="../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
+|       <img src="../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        |    Análise     |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
 *Tabela 8 - Lista de ferramentas utilizadas*
 </center>
@@ -277,7 +277,7 @@ Aqui ligamos os requisitos que são desenvolvidos ao longo do ciclo de vida do p
 A seguir estão apresentadas as tabelas referentes a cada etapa do projeto. Vale destacar que a **Etapa 5: Verificação e Validação** está apresentada no tópico [V&V](#vv).
 
 ### <a>Etapa 1: Planejamento</a>
-A tabela 7 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1: Planejamento**, com o nome de seus respectivos criadores e revisores.
+A tabela 9 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1: Planejamento**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -300,13 +300,13 @@ A tabela 7 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1:
 | [Cronograma de Elicitação/Priorização](../Elicitacao/Cronogramas.md)                | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)                                                | [Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)                                                                                    | 07/12/2022          |
 | [Termo de Consentimento](../Elicitacao/ModeloTermoConsentimento.md)                 | [Ana Luiza](https://github.com/AnHoff)<br>                                                                                              | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)                                           | 20/01/2023          |
 
-*Tabela 7 - Artefatos realizados durante a etapa 1*
+*Tabela 9 - Artefatos realizados durante a etapa 1*
 <br><br>
 
 </center>
 
 ### <a>Etapa 2: Elicitação</a>
-A tabela 8 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 2: Elicitação - Técnicas e Priorização**, com o nome de seus respectivos criadores e revisores.
+A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 2: Elicitação - Técnicas e Priorização**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -320,13 +320,13 @@ A tabela 8 abaixo apresenta os artefatos criados durante o projeto durante a **E
 | [Persona](../Elicitacao/personas.md)                 | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)                                                   | [João Lucas](https://github.com/HacKairos)                                                                                         | 30/11/2022          |
 | [Priorização](../Elicitacao/tecnicas-priorizacao.md) | [Ana Luiza](https://github.com/AnHoff)                                                                                                 | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                       | 04/12/2022          |
 
-*Tabela 8 - Artefatos realizados durante a etapa 2*
+*Tabela 10 - Artefatos realizados durante a etapa 2*
 <br><br>
 
 </center>
 
 ### <a>Etapas 3 e 4: Modelagem</a>
-A tabela 9 abaixo apresenta os artefatos criados durante o projeto durante a **Etapas 3 e 4: Modelagem de Requisitos**, com o nome de seus respectivos criadores e revisores.
+A tabela 11 abaixo apresenta os artefatos criados durante o projeto durante a **Etapas 3 e 4: Modelagem de Requisitos**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -340,13 +340,13 @@ A tabela 9 abaixo apresenta os artefatos criados durante o projeto durante a **E
 | [Histórias de Usuário](../Modelagem/UserCases.md)                     | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)                                          | [Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)                                               | 25/01/2023          |
 | [Backlog](../Modelagem/Agil/BacklogDoProduto.md)                      | [Arthur Taylor](https://github.com/Eruel6)                                                                                            | [Eduardo](https://github.com/edudsan)                                                                                                  | 02/01/2023          |
 
-*Tabela 9 - Artefatos realizados durante as etapas 3 e 4*
+*Tabela 11 - Artefatos realizados durante as etapas 3 e 4*
 <br><br>
 
 </center>
 
 ### <a>Etapa 6: Pós-Rastreabilidade</a>
-A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 6: Pós-Rastreabilidade**, com o nome de seus respectivos criadores e revisores.
+A tabela 12 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 6: Pós-Rastreabilidade**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -356,7 +356,7 @@ A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **
 | [Forward-from](../Pos-Rastreabilidade/ForwardFrom.md)   | [Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos) | [Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff) | 27/01/2023          |
 | [Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md)   | [Ana Luiza](https://github.com/AnHoff)                                                       | [Arthur Taylor](https://github.com/Eruel6)                                                                                             | 23/01/2023          |
 
-*Tabela 10 - Artefatos realizados durante a etapa 6*
+*Tabela 12 - Artefatos realizados durante a etapa 6*
 <br><br>
 **Total de artefatos:** 50*.
 <br><br>
@@ -366,7 +366,7 @@ A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **
 *Esse número leva em consideração os artefatos presentes em [V&V](#vv).
 
 ### <a>Contagem Individual</a>
-A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante, incluindo durante a etapa de [V&V](#vv). Vale lembrar que as gravações com os usuários não são contabilizados na listagem.
+A tabela 13 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante, incluindo durante a etapa de [V&V](#vv). Vale lembrar que as gravações com os usuários não são contabilizados na listagem.
 
 <center>
 
@@ -379,7 +379,7 @@ A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados
 | [Pedro Lucas](https://github.com/PedroLSF)     | 11      | 7         |
 | [Thiago Oliveira](https://github.com/Thiab394) | 16      | 9         |
 
-*Tabela 11 - Artefatos por integrante*
+*Tabela 13 - Artefatos por integrante*
 <br><br>
 
 </center>
@@ -417,7 +417,7 @@ O [Protótipo de Alta Fidelidade](../Analise/Validacao/protAlta.md) foi elaborad
 ### <a>Verificação</a>
 Para realizar a verificação dos artefatos do projeto, foram escolhidas pessoas não envolvidas na criação de cada artefato. Com isso, buscava-se encontrar erros não percebidos pelo criador e/ou revisor do mesmo até então.
 
-A metodologia adotada foi a [Inspeção](../Analise/Verificacao/#inspecao) com o auxílio de [Checklists](../Analise/#metodo-de-avaliacao). Na tabela X abaixo, Autor representa o criador da checklist e Revisor o responsável por aplicar a inspeção.
+A metodologia adotada foi a [Inspeção](../Analise/Verificacao/#inspecao) com o auxílio de [Checklists](../Analise/#metodo-de-avaliacao). Na tabela 14 abaixo, Autor representa o criador da checklist e Revisor o responsável por aplicar a inspeção.
 
 <center>
 
@@ -439,7 +439,7 @@ A metodologia adotada foi a [Inspeção](../Analise/Verificacao/#inspecao) com o
 | [NFR Framework](../Analise/Verificacao/Modelagem/verificacaoNFRFramework.md)                   | [Eduardo](https://github.com/edudsan)                                                | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
 | [Backlog](../Analise/Verificacao/Modelagem/verificacaoBacklog.md)                              | [Eduardo](https://github.com/edudsan)                                                | [João Lucas](https://github.com/HacKairos)                                               | 15/01/2023        |
 
-*Tabela 12 - Artefatos de verificação*
+*Tabela 14 - Artefatos de verificação*
 <br><br>
 
 </center>
@@ -454,7 +454,7 @@ Para realizar a [Validação](../Analise/Validacao/), foram escolhidas as técni
 | [Validação Informal](../Analise/Validacao/Informal.md) | [Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)     | 16/01/2023          |
 | [Prototipagem](../Analise/Validacao/protAlta.md)       | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)     | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF) | 15/01/2023          |
 
-*Tabela 13 - Artefatos de validação*
+*Tabela 15 - Artefatos de validação*
 <br><br>
 
 </center>
