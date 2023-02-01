@@ -330,7 +330,7 @@ A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **
 *Esse número leva em consideração os artefatos presentes em [V&V](#vv).
 
 ### <a>Contagem Individual</a>
-A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante. Vale lembrar que as gravações com os usuários não são contabilizados na listagem. Por outro lado, os artefatos de [V&V](#vv) são contabilizados.
+A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante, incluindo durante a etapa de [V&V](#vv). Vale lembrar que as gravações com os usuários não são contabilizados na listagem.
 
 <center>
 
