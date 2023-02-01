@@ -7,7 +7,7 @@
 |     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Thiago Olivera](https://github.com/Thiab394)   |
 |     29/01/2023     |        30/01/2023        |  1.1   |     Finaliza Artefatos, Resultados e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |  [Thiago Olivera](https://github.com/Thiab394)   |
 |     31/01/2023     |        01/02/2023        |  1.2   |     Adição da Seção Planejamento     |   [Thiago Olivera](https://github.com/Thiab394)   |  [Ana Luiza](https://github.com/AnHoff)|
-|     31/01/2023     |        01/02/2023        |  1.3   |     Adição da Seção Mei e Técnicas     |   [Pedro Lucas](https://github.com/PedroLSF)   |  [-]|
+|     31/01/2023     |        01/02/2023        |  1.3   |     Adição da Seção Mei e Técnicas     |   [Pedro Lucas](https://github.com/PedroLSF)   |  [Eduardo](https://github.com/edudsan)|
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Requisitos de Software da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -166,7 +166,7 @@ Com essas três técnicas, o grupo MEI conseguiu listar requisitos funcionais e 
 A seguir estão apresentadas as tabelas referentes a cada etapa do projeto. Vale destacar que a **Etapa 5: Verificação e Validação** está apresentada no tópico [V&V](#vv).
 
 ### <a>Etapa 1: Planejamento</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto na **Etapa 1: Planejamento**, com o nome de seus respectivos criadores e revisores.
+A tabela 7 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1: Planejamento**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -174,7 +174,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto na **Etapa 1
 |--------|-------|-------|-------------------|
 |[Página inicial do projeto](../index.md)|[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)|20/11/2022|
 |[Aplicativos Analisados](../Planejamento/AplicativosAnalisados.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)|30/11/2022|
-|[Aplicativo Escolhido](../Planejamento/MEI.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)|20/01/2023|
+|[Aplicativo Escolhido](../Planejamento/MEI.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
 |[Metodologia e Processos](../Planejamento/Metodologia.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br> [João Lucas](https://github.com/HacKairos)| 30/11/2022|
 |[Ferramentas](../Planejamento/Ferramentas.md)|[Ana Luiza](https://github.com/AnHoff)<br> [João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394)|  [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|21/11/2022|
 |[Heatmap](../Planejamento/Heatmap.md)|[Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|30/11/2022|
@@ -187,15 +187,15 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto na **Etapa 1
 |Políticas - [Política de Pull Request](../Politicas/PolitcaDePR.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
 |Políticas - [Política de Segurança](../Politicas/PolitcaDeSeguranca.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
 |[Cronograma de Elicitação/Priorização](../Elicitacao/Cronogramas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)|07/12/2022|
-|[Termo de Consentimento](../Elicitacao/ModeloTermoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)<br>|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|20/01/2023|
+|[Termo de Consentimento](../Elicitacao/ModeloTermoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)<br>|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
 
-*Tabela X - Artefatos realizados durante a etapa 1*
+*Tabela 7 - Artefatos realizados durante a etapa 1*
 <br><br>
 
 </center>
 
 ### <a>Etapa 2: Elicitação</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 2: Elicitação - Técnicas e Priorização**, com o nome de seus respectivos criadores e revisores.
+A tabela 8 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 2: Elicitação - Técnicas e Priorização**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -203,19 +203,19 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |--------|-------|-------|-------------------|
 |[Elicitação](../Elicitacao/index.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[João Lucas](https://github.com/HacKairos)| 30/11/2022|
 |[Brainstorming](../Elicitacao/Brainstorming.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|  [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)|20/01/2023|
-|[Entrevista](../Elicitacao/Entrevista.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|20/01/2023|
+|[Entrevista](../Elicitacao/Entrevista.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)|20/01/2023|
 |[Introspecção](../Elicitacao/Introspeccao.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Ana Luiza](https://github.com/AnHoff)|20/01/2023|
 |[Perfil do Usuário](../Elicitacao/perfil.md)|[Eduardo](https://github.com/edudsan)<br>[Ana Luiza](https://github.com/AnHoff)| [João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394)|26/01/2023|
 |[Persona](../Elicitacao/personas.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|30/11/2022|
 |[Priorização](../Elicitacao/tecnicas-priorizacao.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|04/12/2022|
 
-*Tabela X - Artefatos realizados durante a etapa 2*
+*Tabela 8 - Artefatos realizados durante a etapa 2*
 <br><br>
 
 </center>
 
 ### <a>Etapas 3 e 4: Modelagem</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapas 3 e 4: Modelagem de Requisitos**, com o nome de seus respectivos criadores e revisores.
+A tabela 9 abaixo apresenta os artefatos criados durante o projeto durante a **Etapas 3 e 4: Modelagem de Requisitos**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -229,13 +229,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |[Histórias de Usuário](../Modelagem/UserCases.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
 |[Backlog](../Modelagem/Agil/BacklogDoProduto.md)|[Arthur Taylor](https://github.com/Eruel6)| [Eduardo](https://github.com/edudsan)|02/01/2023|
 
-*Tabela X - Artefatos realizados durante as etapas 3 e 4*
+*Tabela 9 - Artefatos realizados durante as etapas 3 e 4*
 <br><br>
 
 </center>
 
 ### <a>Etapa 6: Pós-Rastreabilidade</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 6: Pós-Rastreabilidade**, com o nome de seus respectivos criadores e revisores.
+A tabela 10 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 6: Pós-Rastreabilidade**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -245,13 +245,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |[Forward-from](../Pos-Rastreabilidade/ForwardFrom.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)<br>[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|27/01/2023|
 |[Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|23/01/2023|
 
-*Tabela X - Artefatos realizados durante a etapa 6*
+*Tabela 10 - Artefatos realizados durante a etapa 6*
 <br><br>
 
 </center>
 
 ### <a>Contagem Individual</a>
-A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante. Vale lembrar que as gravações com os usuários e os artefatos de [V&V](#vv) não são contabilizadas na listagem.
+A tabela 11 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante. Vale lembrar que as gravações com os usuários e os artefatos de [V&V](#vv) não são contabilizadas na listagem.
 
 <center>
 
@@ -259,12 +259,12 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 |----------|-------|---------|
 |[Ana Luiza](https://github.com/AnHoff)|15|18|
 |[Arthur Taylor](https://github.com/Eruel6)|6|8|
-|[Eduardo](https://github.com/edudsan)|6|1|
+|[Eduardo](https://github.com/edudsan)|6|4|
 |[João Lucas](https://github.com/HacKairos)|12|16|
 |[Pedro Lucas](https://github.com/PedroLSF)|8|6|
 |[Thiago Oliveira](https://github.com/Thiab394)|13|9|
 
-*Tabela X - Artefatos por integrante*
+*Tabela 11 - Artefatos por integrante*
 <br><br>
 
 </center>
@@ -324,7 +324,7 @@ A metodologia adotada foi a [Inspeção](../Analise/Verificacao/#inspecao) com o
 |[NFR Framework](../Analise/Verificacao/Modelagem/verificacaoNFRFramework.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
 |[Backlog](../Analise/Verificacao/Modelagem/verificacaoBacklog.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|15/01/2023|
 
-*Tabela X - Artefatos de verificação*
+*Tabela 12 - Artefatos de verificação*
 <br><br>
 
 </center>
@@ -339,7 +339,7 @@ Para realizar a [Validação](../Analise/Validacao/), foram escolhidas as técni
 |[Validação Informal](../Analise/Validacao/Informal.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|16/01/2023|
 |[Prototipagem](../Analise/Validacao/protAlta.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|15/01/2023|
 
-*Tabela X - Artefatos de validação*
+*Tabela 13 - Artefatos de validação*
 <br><br>
 
 </center>
