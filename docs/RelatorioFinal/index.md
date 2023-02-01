@@ -145,30 +145,36 @@ O Cronograma Planejado pode ser visto [aqui](../Planejamento/Roadmap/#cronograma
 
 ## <a>Execução</a>
 
-Durante a execução do projeto a equipe tentou realizar o mais fielmente possivel o cronograma Planejado, porem infelizmente não foi possível seguir a risca tal cronograma como pode ser visto no [Cronograma Realizado](../Planejamento/Roadmap/#cronograma-realizado), portanto na tabela a seguir está apresentado as 7 fases do nosso projeto, cada uma delas com sua respectiva descrição. 
+Durante a execução do projeto a equipe tentou realizar o mais fielmente possível o cronograma Planejado, porem infelizmente não foi possível seguir a risca tal cronograma como pode ser visto no [Cronograma Realizado](../Planejamento/Roadmap/#cronograma-realizado), portanto na tabela a seguir está apresentado as 7 fases do nosso projeto, cada uma delas com sua respectiva descrição. 
 
 
 ### <a>1ª Etapa</a>
 
-A primeira etapa do projeto se caracteriza principalmente pela formação da equipe e escolha do aplicativo, durante a primeria etapa do projeto pode se dizer que ela ira definir o projeto inteiro por isso a sua importancia, alem disso pode se dar destaque a alguns artefatos muito importante para o andamento do projeto, tais como o [Roadmap](../Planejamento/Roadmap.md) , as [Ferramentas Utilizadas](../Planejamento/Ferramentas.md) e os [Rich Pictures](../Planejamento/AplicativosAnalisados/#mei).
+A primeira etapa do projeto se caracteriza principalmente pela formação da equipe e escolha do aplicativo, durante a primeira etapa do projeto pode se dizer que ela ira definir o projeto inteiro, por isso a sua importância, além disso, pode se dar destaque a alguns artefatos muito importante para o andamento do projeto, tais como o [Roadmap](../Planejamento/Roadmap.md) , as [Ferramentas Utilizadas](../Planejamento/Ferramentas.md) e os [Rich Pictures](../Planejamento/AplicativosAnalisados/#mei).
 
 ### <a>2ª Etapa</a>
 
-A segunda etapa do projeto é caracterizada pela elicitação, nessa etapa a equipe tinha como objetivo listar tecnicas de [priorização](../Elicitacao/tecnicas-priorizacao.md) e [elicitação](../Elicitacao/index.md) as quais seriam utilizadas no projeto, alem de definir açguns artefatos muito importantes para o andamento do projeto tais como o [Perfil de Usúario](../Elicitacao/perfil.md) e o elenco de [Personas](../Elicitacao/personas.md).
+A segunda etapa do projeto é caracterizada pela elicitação, nessa etapa a equipe tinha como objetivo listar técnicas de [priorização](../Elicitacao/tecnicas-priorizacao.md) e [elicitação](../Elicitacao/index.md) as quais seriam utilizadas no projeto, além de definir alguns artefatos muito importantes para o andamento do projeto tais como o [Perfil de Usuário](../Elicitacao/perfil.md) e o elenco de [Personas](../Elicitacao/personas.md).
 
 ### <a>3ª Etapa</a>
 
-Na terceira etapa do projeto o objetivo principal da equipe era aprender e aplicar tecnicas de Modelagem de Requisitos portanto nesse etapa do projeto os artefatos desenvolvidos foram [Cenários](../Modelagem/Cenarios.md) , [Léxico](../Modelagem/Lexicos.md), [Use Cases](../Modelagem/CasosdeUso.md) e [Especificação Suplementar](../Modelagem/EspecificacaoSuplementar.md).
+Na terceira etapa do projeto o objetivo principal da equipe era aprender e aplicar técnicas de Modelagem de Requisitos, portanto nesse etapa do projeto os artefatos desenvolvidos foram [Cenários](../Modelagem/Cenarios.md) , [Léxico](../Modelagem/Lexicos.md), [Use Cases](../Modelagem/CasosdeUso.md) e [Especificação Suplementar](../Modelagem/EspecificacaoSuplementar.md).
 
 ### <a>4ª Etapa</a>
 
-Devido a complexidade no modelagem de requisitos a quate etapa apresenta como principal caracteristica ser uma continuação da terceira etapa, portanto com intuito de complementar a Modelagem inicial de requisitos aplicando principalmente os estudos realizados sobre o modelo agil tais como o Scrum, foram confecionados os seguintes artefatos [Histórias de Usuário](../Modelagem/UserCases.md), [Backlogs](../Modelagem/Agil/BacklogDoProduto.md), [NFR Framework](../Modelagem/NFRFramework.md).
+Devido à complexidade da modelagem de requisitos a quarta etapa apresenta como principal característica ser uma continuação da terceira etapa, portanto com intuito de complementar a Modelagem inicial de requisitos aplicando principalmente os estudos realizados sobre o modelo ágil tais como o Scrum, foram confeccionados os seguintes artefatos [Histórias de Usuário](../Modelagem/UserCases.md), [Backlogs](../Modelagem/Agil/BacklogDoProduto.md), [NFR Framework](../Modelagem/NFRFramework.md).
 
 ### <a>5ª Etapa</a>
 
-Na quinta etapa somos apresentados aos estudos de verificação e validação, para a melhora da qualidade individual de cada artefato, com o principio fundamentalmente didatico fomos introduzidos a analise, por meio de uma analise externa, portanto nesta primeira etapa de analise outro grupo realizou a analise do projeto em quanto o nosso grupo realizou a analise do grupo [Linkedin](../Analise/Linkedin/Verificacao/index.md).
+Na quinta etapa somos apresentados aos estudos de verificação e validação, para a melhora da qualidade individual de cada artefato, com o princípio fundamentalmente didático fomos introduzidos a análise, por meio de uma análise externa, portanto nesta primeira etapa de análise outro grupo realizou a análise do projeto em quanto o nosso grupo realizou a análise do grupo [Linkedin](../Analise/Linkedin/Verificacao/index.md).
 
+### <a>6ª Etapa</a>
 
+E então na sexta etapa realizamos uma autoanalise e [verificamos](../Analise/Verificacao/index.md) grande parte dos artefatos do projeto por meio da inspeção e [validamos](../Analise/Validacao/index.md) os artefatos confeccionados com os responsáveis do aplicativo, o qual no nosso caso é a receita federal e absorvemos todo o feedback dessa etapa, buscando corrigir os principais problemas encontrados nesta etapa.
+
+### <a>7ª Etapa</a>
+
+E para finalizar com chave de ouro o projeto Criamos os artefatos relacionados a [Pós-Rastreabilidade](../Pos-Rastreabilidade/index.md) e entregamos o [Backward-from](../Pos-Rastreabilidade/BackwardFrom.md), O [Forward-from](../Pos-Rastreabilidade/ForwardFrom.md) e a [Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md) do projeto, essa etapa visa principal rastrear os requisitos e suas conexões em todas as etapas do projeto além de que a rastreabilidade pode ser vista como um fator que auxilia a gerência da qualidade.
 
 ## <a>Ferramentas</a>
 
