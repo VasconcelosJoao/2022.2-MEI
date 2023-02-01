@@ -183,6 +183,7 @@ Os participantes do Planejamento foram: Ana, Pedro, João Lucas, Thiago, Eduardo
 
 ### <a>Elicitação</a>
 O Grupo buscou algumas técnicas para elicitar os requisitos, o primeiro a ser trabalhado foi o questionário, porém não tivemos os resultados esperados para, portanto, não conseguimos utilizar esses dados e atrasamos em primeiro momento. Logo depois, conseguimos utilizar de forma correta 3 técnicas, sendo elas:
+
 * [Brainstorming](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Brainstorming/) - Os participantes dessa técnica foram: João Lucas, Eduardo, Thiago e Pedro
 * [Entrevista](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/) - Os participante dessa técnica foi: Pedro
 * [Introspecção](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Introspeccao/) - Os participante dessa técnica foi: Arthur
@@ -192,6 +193,7 @@ Com essas três técnicas, o grupo MEI conseguiu listar requisitos funcionais e 
 Os perfis de Usuário e as Personas foram elaborados por: Ana, Eduardo e Pedro.
 
 Um último passo da Elicitação, foi a Priorização. O Grupo utilizou algumas técnicas para [priorizar](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/tecnicas-priorizacao/), podemos citar as 3:
+
 * Moscow
 * First Things First (FTF)
 * Three-Level Scale
@@ -224,6 +226,7 @@ Por fim, fizemos uma lista de afazeres, conhecido como [Backlog](https://requisi
 
 ### <a>Pós-Rastreabilidade</a>
 Aqui ligamos os requisitos que são desenvolvidos ao longo do ciclo de vida do projeto com seus artefatos. O Grupo desenvolveu 3 artefatos:
+
 * [Backward-from](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/BackwardFrom/) - Feito por: Pedro Lucas e Eduardo
 * [Forward-from](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/ForwardFrom/) - Feito por: Thiago e João Lucas
 * [Matriz Geral](https://requisitos-de-software.github.io/2022.2-MEI/Pos-Rastreabilidade/MatrizGeral/) - Feito por: Ana Luiza e Arthur.
