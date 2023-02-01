@@ -179,6 +179,8 @@ E para finalizar com chave de ouro o projeto Criamos os artefatos relacionados a
 
 E para representar melhor cada etapa da Execução do projeto foi realizada uma apresentação, com o grupo apresentando os principais artefatos de cada apresentação, esses videos podem ser encontrados a seguir:
 
+<center>
+
 | Etapa |                                                                                                                Video                                                                                                                 |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/X7KntEqHTHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
@@ -189,6 +191,8 @@ E para representar melhor cada etapa da Execução do projeto foi realizada uma 
 |  6ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/LoSalKVe37k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 |  7ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/fA-5T-4jp_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 
+*Tabela 7 - Lista das gravações realizadas*
+</center>
 
 ## <a>Ferramentas</a>
 
@@ -206,7 +210,7 @@ Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o proje
 |     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
 |       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        |    Análise     |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
-*Tabela 7 - Lista de ferramentas utilizadas*
+*Tabela 8 - Lista de ferramentas utilizadas*
 </center>
 
 
