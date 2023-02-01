@@ -177,9 +177,23 @@ E então na sexta etapa realizamos uma autoanalise e [verificamos](../Analise/Ve
 
 E para finalizar com chave de ouro o projeto Criamos os artefatos relacionados a [Pós-Rastreabilidade](../Pos-Rastreabilidade/index.md) e entregamos o [Backward-from](../Pos-Rastreabilidade/BackwardFrom.md), O [Forward-from](../Pos-Rastreabilidade/ForwardFrom.md) e a [Matriz Geral](../Pos-Rastreabilidade/MatrizGeral.md) do projeto, essa etapa visa principal rastrear os requisitos e suas conexões em todas as etapas do projeto além de que a rastreabilidade pode ser vista como um fator que auxilia a gerência da qualidade.
 
+E para representar melhor cada etapa da Execução do projeto foi realizada uma apresentação, com o grupo apresentando os principais artefatos de cada apresentação, esses videos podem ser encontrados a seguir:
+
+| Etapa |                                                                                                                Video                                                                                                                 |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/X7KntEqHTHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  2ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/_BWSQ2Iqw3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  3ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/AtD5gDehAso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  4ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/qE5pZoyGdqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  5ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/eplDRTPnimc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  6ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/LoSalKVe37k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  7ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/fA-5T-4jp_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+
+
 ## <a>Ferramentas</a>
 
 Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o projeto e suas principais funções :
+<center>
 
 |                                               Logo                                               |    Nome da ferramenta     |     Etapa      |                                            Utilidade                                             |
 | :----------------------------------------------------------------------------------------------: | :-----------------------: | :------------: | :----------------------------------------------------------------------------------------------: |
@@ -189,10 +203,11 @@ Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o proje
 |  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   | Todo o projeto |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
 |      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       | Todo o projeto |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
 | <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> | Todo o projeto |                 Ferramenta de programação, utilizada para montar o github pages.                 |
-|        <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>        |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
+|     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |   Modelagem    |                      Ferramenta utilizada para construir alguns diagramas.                       |
 |       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        |    Análise     |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
-
+*Tabela 7 - Lista de ferramentas utilizadas*
+</center>
 
 
 ## <a>Técnicas</a>
